@@ -89,7 +89,7 @@ def build_network(net_name, feat_dims, ae_net=None):
     return net
 
 
-def build_autoencoder(net_name):
+def build_autoencoder(net_name, feat_dims):
     """Builds the corresponding autoencoder network."""
 
     implemented_networks = ('mnist_LeNet', 'mnist_DGM_M1M2',
