@@ -6,7 +6,7 @@ from .vae import VariationalAutoencoder
 from .dgm import DeepGenerativeModel, StackedDeepGenerativeModel
 
 
-def build_network(net_name, ae_net=None):
+def build_network(net_name, feat_dims, ae_net=None):
     """Builds the neural network."""
 
     implemented_networks = ('mnist_LeNet', 'mnist_DGM_M2', 'mnist_DGM_M1M2',
@@ -82,6 +82,9 @@ def build_network(net_name, ae_net=None):
 
     if net_name == 'thyroid_DGM_M2':
         net = DeepGenerativeModel([6, 2, 4, [32, 16]])
+
+    if net_name == 'fmnist_LeNet':
+        net = FashionMNIST_LeNet(rep_dim=feat_dims)
 
     return net
 
