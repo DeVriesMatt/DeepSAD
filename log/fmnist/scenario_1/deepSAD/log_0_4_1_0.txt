@@ -1,0 +1,1464 @@
+2020-05-05 16:12:49,708 - root - INFO - Log file is ../log/fmnist/scenario_1/deepSAD//log_0_4_1_0.txt
+2020-05-05 16:12:49,708 - root - INFO - Data path is ../data
+2020-05-05 16:12:49,709 - root - INFO - Export path is ../log/fmnist/scenario_1/deepSAD/
+2020-05-05 16:12:49,709 - root - INFO - Dataset: fmnist
+2020-05-05 16:12:49,709 - root - INFO - Normal class: 0
+2020-05-05 16:12:49,709 - root - INFO - Ratio of labeled normal train samples: 0.00
+2020-05-05 16:12:49,709 - root - INFO - Ratio of labeled anomalous samples: 0.01
+2020-05-05 16:12:49,709 - root - INFO - Pollution ratio of unlabeled train data: 0.10
+2020-05-05 16:12:49,709 - root - INFO - Scenario Running: 3
+2020-05-05 16:12:49,709 - root - INFO - Output and AE dimensions: 128
+2020-05-05 16:12:49,709 - root - INFO - Known anomaly class: 4
+2020-05-05 16:12:49,709 - root - INFO - Network: fmnist_LeNet
+2020-05-05 16:12:49,709 - root - INFO - Eta-parameter: 1.00
+2020-05-05 16:12:49,716 - root - INFO - Set seed to 0.
+2020-05-05 16:12:49,743 - root - INFO - Computation device: cuda
+2020-05-05 16:12:49,743 - root - INFO - Number of threads: 0
+2020-05-05 16:12:49,743 - root - INFO - Number of dataloader workers: 6
+2020-05-05 16:12:54,786 - root - INFO - Log file is ../log/fmnist/scenario_1/deepSAD//log_0_4_1_0.txt
+2020-05-05 16:12:54,786 - root - INFO - Data path is ../data
+2020-05-05 16:12:54,786 - root - INFO - Export path is ../log/fmnist/scenario_1/deepSAD/
+2020-05-05 16:12:54,787 - root - INFO - Dataset: fmnist
+2020-05-05 16:12:54,787 - root - INFO - Normal class: 0
+2020-05-05 16:12:54,787 - root - INFO - Ratio of labeled normal train samples: 0.00
+2020-05-05 16:12:54,787 - root - INFO - Ratio of labeled anomalous samples: 0.05
+2020-05-05 16:12:54,787 - root - INFO - Pollution ratio of unlabeled train data: 0.10
+2020-05-05 16:12:54,787 - root - INFO - Scenario Running: 3
+2020-05-05 16:12:54,787 - root - INFO - Output and AE dimensions: 128
+2020-05-05 16:12:54,787 - root - INFO - Known anomaly class: 4
+2020-05-05 16:12:54,787 - root - INFO - Network: fmnist_LeNet
+2020-05-05 16:12:54,787 - root - INFO - Eta-parameter: 1.00
+2020-05-05 16:12:54,795 - root - INFO - Set seed to 0.
+2020-05-05 16:12:54,819 - root - INFO - Computation device: cuda
+2020-05-05 16:12:54,820 - root - INFO - Number of threads: 0
+2020-05-05 16:12:54,820 - root - INFO - Number of dataloader workers: 6
+2020-05-05 16:12:59,601 - root - INFO - Log file is ../log/fmnist/scenario_1/deepSAD//log_0_4_1_0.txt
+2020-05-05 16:12:59,601 - root - INFO - Data path is ../data
+2020-05-05 16:12:59,601 - root - INFO - Export path is ../log/fmnist/scenario_1/deepSAD/
+2020-05-05 16:12:59,601 - root - INFO - Dataset: fmnist
+2020-05-05 16:12:59,601 - root - INFO - Normal class: 0
+2020-05-05 16:12:59,601 - root - INFO - Ratio of labeled normal train samples: 0.00
+2020-05-05 16:12:59,601 - root - INFO - Ratio of labeled anomalous samples: 0.10
+2020-05-05 16:12:59,601 - root - INFO - Pollution ratio of unlabeled train data: 0.10
+2020-05-05 16:12:59,601 - root - INFO - Scenario Running: 3
+2020-05-05 16:12:59,601 - root - INFO - Output and AE dimensions: 128
+2020-05-05 16:12:59,601 - root - INFO - Known anomaly class: 4
+2020-05-05 16:12:59,601 - root - INFO - Network: fmnist_LeNet
+2020-05-05 16:12:59,601 - root - INFO - Eta-parameter: 1.00
+2020-05-05 16:12:59,609 - root - INFO - Set seed to 0.
+2020-05-05 16:12:59,630 - root - INFO - Computation device: cuda
+2020-05-05 16:12:59,630 - root - INFO - Number of threads: 0
+2020-05-05 16:12:59,630 - root - INFO - Number of dataloader workers: 6
+2020-05-05 16:13:05,726 - root - INFO - Log file is ../log/fmnist/scenario_1/deepSAD//log_0_4_1_0.txt
+2020-05-05 16:13:05,726 - root - INFO - Data path is ../data
+2020-05-05 16:13:05,726 - root - INFO - Export path is ../log/fmnist/scenario_1/deepSAD/
+2020-05-05 16:13:05,726 - root - INFO - Dataset: fmnist
+2020-05-05 16:13:05,726 - root - INFO - Normal class: 0
+2020-05-05 16:13:05,726 - root - INFO - Ratio of labeled normal train samples: 0.00
+2020-05-05 16:13:05,726 - root - INFO - Ratio of labeled anomalous samples: 0.20
+2020-05-05 16:13:05,726 - root - INFO - Pollution ratio of unlabeled train data: 0.10
+2020-05-05 16:13:05,726 - root - INFO - Scenario Running: 3
+2020-05-05 16:13:05,726 - root - INFO - Output and AE dimensions: 128
+2020-05-05 16:13:05,726 - root - INFO - Known anomaly class: 4
+2020-05-05 16:13:05,726 - root - INFO - Network: fmnist_LeNet
+2020-05-05 16:13:05,726 - root - INFO - Eta-parameter: 1.00
+2020-05-05 16:13:05,769 - root - INFO - Set seed to 0.
+2020-05-05 16:13:05,816 - root - INFO - Computation device: cuda
+2020-05-05 16:13:05,816 - root - INFO - Number of threads: 0
+2020-05-05 16:13:05,816 - root - INFO - Number of dataloader workers: 6
+2020-05-05 18:18:22,442 - root - INFO - Log file is ../log/fmnist/scenario_1/deepSAD//log_0_4_1_0.txt
+2020-05-05 18:18:22,442 - root - INFO - Data path is ../data
+2020-05-05 18:18:22,442 - root - INFO - Export path is ../log/fmnist/scenario_1/deepSAD/
+2020-05-05 18:18:22,442 - root - INFO - Dataset: fmnist
+2020-05-05 18:18:22,442 - root - INFO - Normal class: 0
+2020-05-05 18:18:22,442 - root - INFO - Ratio of labeled normal train samples: 0.00
+2020-05-05 18:18:22,442 - root - INFO - Ratio of labeled anomalous samples: 0.01
+2020-05-05 18:18:22,442 - root - INFO - Pollution ratio of unlabeled train data: 0.10
+2020-05-05 18:18:22,443 - root - INFO - Scenario Running: 3
+2020-05-05 18:18:22,443 - root - INFO - Output and AE dimensions: 128
+2020-05-05 18:18:22,443 - root - INFO - Known anomaly class: 4
+2020-05-05 18:18:22,443 - root - INFO - Network: fmnist_LeNet
+2020-05-05 18:18:22,443 - root - INFO - Eta-parameter: 1.00
+2020-05-05 18:18:22,502 - root - INFO - Set seed to 0.
+2020-05-05 18:18:22,548 - root - INFO - Computation device: cuda
+2020-05-05 18:18:22,548 - root - INFO - Number of threads: 0
+2020-05-05 18:18:22,548 - root - INFO - Number of dataloader workers: 6
+2020-05-05 18:18:22,688 - root - INFO - Pretraining: True
+2020-05-05 18:18:22,688 - root - INFO - Pretraining optimizer: adam
+2020-05-05 18:18:22,688 - root - INFO - Pretraining learning rate: 0.0001
+2020-05-05 18:18:22,688 - root - INFO - Pretraining epochs: 150
+2020-05-05 18:18:22,688 - root - INFO - Pretraining learning rate scheduler milestones: ()
+2020-05-05 18:18:22,688 - root - INFO - Pretraining batch size: 200
+2020-05-05 18:18:22,689 - root - INFO - Pretraining weight decay: 0.0005
+2020-05-05 18:18:27,193 - root - INFO - Starting pretraining...
+2020-05-05 18:18:31,464 - root - INFO - | Epoch: 001/150 | Train Time: 4.268s | Train Loss: 0.100379 |
+2020-05-05 18:18:33,276 - root - INFO - | Epoch: 002/150 | Train Time: 1.812s | Train Loss: 0.045223 |
+2020-05-05 18:18:35,093 - root - INFO - | Epoch: 003/150 | Train Time: 1.816s | Train Loss: 0.034111 |
+2020-05-05 18:18:37,016 - root - INFO - | Epoch: 004/150 | Train Time: 1.922s | Train Loss: 0.029459 |
+2020-05-05 18:18:38,868 - root - INFO - | Epoch: 005/150 | Train Time: 1.852s | Train Loss: 0.026582 |
+2020-05-05 18:18:40,859 - root - INFO - | Epoch: 006/150 | Train Time: 1.990s | Train Loss: 0.024754 |
+2020-05-05 18:18:42,636 - root - INFO - | Epoch: 007/150 | Train Time: 1.777s | Train Loss: 0.023345 |
+2020-05-05 18:18:44,329 - root - INFO - | Epoch: 008/150 | Train Time: 1.692s | Train Loss: 0.022184 |
+2020-05-05 18:18:46,157 - root - INFO - | Epoch: 009/150 | Train Time: 1.828s | Train Loss: 0.021401 |
+2020-05-05 18:18:47,934 - root - INFO - | Epoch: 010/150 | Train Time: 1.776s | Train Loss: 0.020611 |
+2020-05-05 18:18:49,776 - root - INFO - | Epoch: 011/150 | Train Time: 1.842s | Train Loss: 0.019961 |
+2020-05-05 18:18:51,846 - root - INFO - | Epoch: 012/150 | Train Time: 2.069s | Train Loss: 0.019445 |
+2020-05-05 18:18:54,041 - root - INFO - | Epoch: 013/150 | Train Time: 2.194s | Train Loss: 0.019018 |
+2020-05-05 18:18:55,721 - root - INFO - | Epoch: 014/150 | Train Time: 1.680s | Train Loss: 0.018448 |
+2020-05-05 18:18:57,646 - root - INFO - | Epoch: 015/150 | Train Time: 1.924s | Train Loss: 0.018126 |
+2020-05-05 18:18:59,315 - root - INFO - | Epoch: 016/150 | Train Time: 1.669s | Train Loss: 0.017751 |
+2020-05-05 18:19:00,922 - root - INFO - | Epoch: 017/150 | Train Time: 1.607s | Train Loss: 0.017408 |
+2020-05-05 18:19:02,881 - root - INFO - | Epoch: 018/150 | Train Time: 1.958s | Train Loss: 0.017100 |
+2020-05-05 18:19:04,680 - root - INFO - | Epoch: 019/150 | Train Time: 1.798s | Train Loss: 0.016783 |
+2020-05-05 18:19:06,792 - root - INFO - | Epoch: 020/150 | Train Time: 2.111s | Train Loss: 0.016529 |
+2020-05-05 18:19:08,639 - root - INFO - | Epoch: 021/150 | Train Time: 1.847s | Train Loss: 0.016179 |
+2020-05-05 18:19:10,636 - root - INFO - | Epoch: 022/150 | Train Time: 1.997s | Train Loss: 0.016027 |
+2020-05-05 18:19:12,365 - root - INFO - | Epoch: 023/150 | Train Time: 1.728s | Train Loss: 0.015704 |
+2020-05-05 18:19:14,099 - root - INFO - | Epoch: 024/150 | Train Time: 1.734s | Train Loss: 0.015545 |
+2020-05-05 18:19:15,633 - root - INFO - | Epoch: 025/150 | Train Time: 1.533s | Train Loss: 0.015346 |
+2020-05-05 18:19:17,227 - root - INFO - | Epoch: 026/150 | Train Time: 1.594s | Train Loss: 0.015052 |
+2020-05-05 18:19:19,199 - root - INFO - | Epoch: 027/150 | Train Time: 1.971s | Train Loss: 0.014953 |
+2020-05-05 18:19:21,122 - root - INFO - | Epoch: 028/150 | Train Time: 1.922s | Train Loss: 0.014622 |
+2020-05-05 18:19:23,141 - root - INFO - | Epoch: 029/150 | Train Time: 2.019s | Train Loss: 0.014585 |
+2020-05-05 18:19:25,128 - root - INFO - | Epoch: 030/150 | Train Time: 1.986s | Train Loss: 0.014287 |
+2020-05-05 18:19:27,373 - root - INFO - | Epoch: 031/150 | Train Time: 2.244s | Train Loss: 0.014292 |
+2020-05-05 18:19:29,357 - root - INFO - | Epoch: 032/150 | Train Time: 1.983s | Train Loss: 0.014076 |
+2020-05-05 18:19:31,349 - root - INFO - | Epoch: 033/150 | Train Time: 1.992s | Train Loss: 0.013927 |
+2020-05-05 18:19:33,169 - root - INFO - | Epoch: 034/150 | Train Time: 1.820s | Train Loss: 0.013740 |
+2020-05-05 18:19:35,246 - root - INFO - | Epoch: 035/150 | Train Time: 2.077s | Train Loss: 0.013667 |
+2020-05-05 18:19:37,539 - root - INFO - | Epoch: 036/150 | Train Time: 2.292s | Train Loss: 0.013503 |
+2020-05-05 18:19:39,229 - root - INFO - | Epoch: 037/150 | Train Time: 1.689s | Train Loss: 0.013501 |
+2020-05-05 18:19:41,423 - root - INFO - | Epoch: 038/150 | Train Time: 2.193s | Train Loss: 0.013295 |
+2020-05-05 18:19:43,507 - root - INFO - | Epoch: 039/150 | Train Time: 2.084s | Train Loss: 0.013097 |
+2020-05-05 18:19:45,466 - root - INFO - | Epoch: 040/150 | Train Time: 1.958s | Train Loss: 0.013109 |
+2020-05-05 18:19:47,214 - root - INFO - | Epoch: 041/150 | Train Time: 1.748s | Train Loss: 0.012904 |
+2020-05-05 18:19:49,226 - root - INFO - | Epoch: 042/150 | Train Time: 2.012s | Train Loss: 0.012788 |
+2020-05-05 18:19:51,109 - root - INFO - | Epoch: 043/150 | Train Time: 1.883s | Train Loss: 0.012775 |
+2020-05-05 18:19:53,235 - root - INFO - | Epoch: 044/150 | Train Time: 2.126s | Train Loss: 0.012647 |
+2020-05-05 18:19:55,101 - root - INFO - | Epoch: 045/150 | Train Time: 1.865s | Train Loss: 0.012516 |
+2020-05-05 18:19:57,397 - root - INFO - | Epoch: 046/150 | Train Time: 2.295s | Train Loss: 0.012473 |
+2020-05-05 18:19:59,337 - root - INFO - | Epoch: 047/150 | Train Time: 1.939s | Train Loss: 0.012429 |
+2020-05-05 18:20:01,529 - root - INFO - | Epoch: 048/150 | Train Time: 2.192s | Train Loss: 0.012244 |
+2020-05-05 18:20:03,513 - root - INFO - | Epoch: 049/150 | Train Time: 1.983s | Train Loss: 0.012195 |
+2020-05-05 18:20:05,756 - root - INFO - | Epoch: 050/150 | Train Time: 2.242s | Train Loss: 0.012225 |
+2020-05-05 18:20:07,696 - root - INFO - | Epoch: 051/150 | Train Time: 1.940s | Train Loss: 0.012164 |
+2020-05-05 18:20:09,745 - root - INFO - | Epoch: 052/150 | Train Time: 2.049s | Train Loss: 0.012032 |
+2020-05-05 18:20:11,586 - root - INFO - | Epoch: 053/150 | Train Time: 1.840s | Train Loss: 0.011942 |
+2020-05-05 18:20:13,746 - root - INFO - | Epoch: 054/150 | Train Time: 2.160s | Train Loss: 0.011892 |
+2020-05-05 18:20:15,749 - root - INFO - | Epoch: 055/150 | Train Time: 2.002s | Train Loss: 0.011777 |
+2020-05-05 18:20:17,744 - root - INFO - | Epoch: 056/150 | Train Time: 1.995s | Train Loss: 0.011709 |
+2020-05-05 18:20:19,652 - root - INFO - | Epoch: 057/150 | Train Time: 1.907s | Train Loss: 0.011663 |
+2020-05-05 18:20:21,915 - root - INFO - | Epoch: 058/150 | Train Time: 2.263s | Train Loss: 0.011461 |
+2020-05-05 18:20:23,751 - root - INFO - | Epoch: 059/150 | Train Time: 1.835s | Train Loss: 0.011386 |
+2020-05-05 18:20:25,888 - root - INFO - | Epoch: 060/150 | Train Time: 2.136s | Train Loss: 0.011465 |
+2020-05-05 18:20:27,860 - root - INFO - | Epoch: 061/150 | Train Time: 1.972s | Train Loss: 0.011382 |
+2020-05-05 18:20:29,919 - root - INFO - | Epoch: 062/150 | Train Time: 2.058s | Train Loss: 0.011251 |
+2020-05-05 18:20:31,738 - root - INFO - | Epoch: 063/150 | Train Time: 1.819s | Train Loss: 0.011396 |
+2020-05-05 18:20:33,417 - root - INFO - | Epoch: 064/150 | Train Time: 1.679s | Train Loss: 0.011272 |
+2020-05-05 18:20:35,389 - root - INFO - | Epoch: 065/150 | Train Time: 1.972s | Train Loss: 0.011233 |
+2020-05-05 18:20:37,265 - root - INFO - | Epoch: 066/150 | Train Time: 1.876s | Train Loss: 0.011195 |
+2020-05-05 18:20:39,678 - root - INFO - | Epoch: 067/150 | Train Time: 2.413s | Train Loss: 0.011069 |
+2020-05-05 18:20:41,667 - root - INFO - | Epoch: 068/150 | Train Time: 1.988s | Train Loss: 0.011137 |
+2020-05-05 18:20:43,812 - root - INFO - | Epoch: 069/150 | Train Time: 2.145s | Train Loss: 0.011002 |
+2020-05-05 18:20:45,515 - root - INFO - | Epoch: 070/150 | Train Time: 1.703s | Train Loss: 0.010910 |
+2020-05-05 18:20:47,304 - root - INFO - | Epoch: 071/150 | Train Time: 1.788s | Train Loss: 0.010905 |
+2020-05-05 18:20:49,190 - root - INFO - | Epoch: 072/150 | Train Time: 1.885s | Train Loss: 0.010742 |
+2020-05-05 18:20:51,205 - root - INFO - | Epoch: 073/150 | Train Time: 2.014s | Train Loss: 0.010761 |
+2020-05-05 18:20:53,206 - root - INFO - | Epoch: 074/150 | Train Time: 2.001s | Train Loss: 0.010766 |
+2020-05-05 18:20:55,022 - root - INFO - | Epoch: 075/150 | Train Time: 1.816s | Train Loss: 0.010654 |
+2020-05-05 18:20:57,153 - root - INFO - | Epoch: 076/150 | Train Time: 2.130s | Train Loss: 0.010787 |
+2020-05-05 18:20:59,081 - root - INFO - | Epoch: 077/150 | Train Time: 1.928s | Train Loss: 0.010809 |
+2020-05-05 18:21:01,296 - root - INFO - | Epoch: 078/150 | Train Time: 2.214s | Train Loss: 0.010653 |
+2020-05-05 18:21:02,998 - root - INFO - | Epoch: 079/150 | Train Time: 1.702s | Train Loss: 0.010537 |
+2020-05-05 18:21:04,877 - root - INFO - | Epoch: 080/150 | Train Time: 1.878s | Train Loss: 0.010456 |
+2020-05-05 18:21:06,986 - root - INFO - | Epoch: 081/150 | Train Time: 2.109s | Train Loss: 0.010371 |
+2020-05-05 18:21:08,961 - root - INFO - | Epoch: 082/150 | Train Time: 1.974s | Train Loss: 0.010314 |
+2020-05-05 18:21:10,795 - root - INFO - | Epoch: 083/150 | Train Time: 1.834s | Train Loss: 0.010470 |
+2020-05-05 18:21:12,699 - root - INFO - | Epoch: 084/150 | Train Time: 1.904s | Train Loss: 0.010410 |
+2020-05-05 18:21:14,769 - root - INFO - | Epoch: 085/150 | Train Time: 2.069s | Train Loss: 0.010340 |
+2020-05-05 18:21:16,801 - root - INFO - | Epoch: 086/150 | Train Time: 2.031s | Train Loss: 0.010405 |
+2020-05-05 18:21:18,637 - root - INFO - | Epoch: 087/150 | Train Time: 1.835s | Train Loss: 0.010279 |
+2020-05-05 18:21:20,366 - root - INFO - | Epoch: 088/150 | Train Time: 1.729s | Train Loss: 0.010338 |
+2020-05-05 18:21:22,339 - root - INFO - | Epoch: 089/150 | Train Time: 1.973s | Train Loss: 0.010300 |
+2020-05-05 18:21:24,348 - root - INFO - | Epoch: 090/150 | Train Time: 2.009s | Train Loss: 0.010316 |
+2020-05-05 18:21:26,063 - root - INFO - | Epoch: 091/150 | Train Time: 1.714s | Train Loss: 0.010321 |
+2020-05-05 18:21:27,808 - root - INFO - | Epoch: 092/150 | Train Time: 1.745s | Train Loss: 0.010165 |
+2020-05-05 18:21:29,835 - root - INFO - | Epoch: 093/150 | Train Time: 2.026s | Train Loss: 0.010125 |
+2020-05-05 18:21:31,771 - root - INFO - | Epoch: 094/150 | Train Time: 1.936s | Train Loss: 0.010000 |
+2020-05-05 18:21:33,983 - root - INFO - | Epoch: 095/150 | Train Time: 2.211s | Train Loss: 0.010104 |
+2020-05-05 18:21:35,853 - root - INFO - | Epoch: 096/150 | Train Time: 1.870s | Train Loss: 0.010085 |
+2020-05-05 18:21:37,815 - root - INFO - | Epoch: 097/150 | Train Time: 1.962s | Train Loss: 0.009945 |
+2020-05-05 18:21:39,549 - root - INFO - | Epoch: 098/150 | Train Time: 1.733s | Train Loss: 0.009992 |
+2020-05-05 18:21:41,417 - root - INFO - | Epoch: 099/150 | Train Time: 1.867s | Train Loss: 0.010003 |
+2020-05-05 18:21:43,300 - root - INFO - | Epoch: 100/150 | Train Time: 1.882s | Train Loss: 0.009959 |
+2020-05-05 18:21:45,216 - root - INFO - | Epoch: 101/150 | Train Time: 1.915s | Train Loss: 0.009868 |
+2020-05-05 18:21:46,913 - root - INFO - | Epoch: 102/150 | Train Time: 1.696s | Train Loss: 0.009770 |
+2020-05-05 18:21:48,567 - root - INFO - | Epoch: 103/150 | Train Time: 1.654s | Train Loss: 0.009766 |
+2020-05-05 18:21:50,435 - root - INFO - | Epoch: 104/150 | Train Time: 1.867s | Train Loss: 0.009829 |
+2020-05-05 18:21:52,399 - root - INFO - | Epoch: 105/150 | Train Time: 1.964s | Train Loss: 0.009720 |
+2020-05-05 18:21:54,361 - root - INFO - | Epoch: 106/150 | Train Time: 1.962s | Train Loss: 0.009785 |
+2020-05-05 18:21:56,015 - root - INFO - | Epoch: 107/150 | Train Time: 1.653s | Train Loss: 0.009783 |
+2020-05-05 18:21:57,801 - root - INFO - | Epoch: 108/150 | Train Time: 1.786s | Train Loss: 0.009721 |
+2020-05-05 18:21:59,451 - root - INFO - | Epoch: 109/150 | Train Time: 1.649s | Train Loss: 0.009647 |
+2020-05-05 18:22:01,392 - root - INFO - | Epoch: 110/150 | Train Time: 1.941s | Train Loss: 0.009837 |
+2020-05-05 18:22:02,995 - root - INFO - | Epoch: 111/150 | Train Time: 1.603s | Train Loss: 0.009716 |
+2020-05-05 18:22:05,246 - root - INFO - | Epoch: 112/150 | Train Time: 2.250s | Train Loss: 0.009692 |
+2020-05-05 18:22:06,911 - root - INFO - | Epoch: 113/150 | Train Time: 1.665s | Train Loss: 0.009556 |
+2020-05-05 18:22:08,869 - root - INFO - | Epoch: 114/150 | Train Time: 1.957s | Train Loss: 0.009544 |
+2020-05-05 18:22:10,509 - root - INFO - | Epoch: 115/150 | Train Time: 1.640s | Train Loss: 0.009636 |
+2020-05-05 18:22:12,487 - root - INFO - | Epoch: 116/150 | Train Time: 1.977s | Train Loss: 0.009617 |
+2020-05-05 18:22:14,435 - root - INFO - | Epoch: 117/150 | Train Time: 1.947s | Train Loss: 0.009550 |
+2020-05-05 18:22:16,454 - root - INFO - | Epoch: 118/150 | Train Time: 2.018s | Train Loss: 0.009453 |
+2020-05-05 18:22:18,100 - root - INFO - | Epoch: 119/150 | Train Time: 1.646s | Train Loss: 0.009546 |
+2020-05-05 18:22:20,212 - root - INFO - | Epoch: 120/150 | Train Time: 2.111s | Train Loss: 0.009540 |
+2020-05-05 18:22:21,995 - root - INFO - | Epoch: 121/150 | Train Time: 1.783s | Train Loss: 0.009717 |
+2020-05-05 18:22:24,319 - root - INFO - | Epoch: 122/150 | Train Time: 2.323s | Train Loss: 0.009506 |
+2020-05-05 18:22:26,052 - root - INFO - | Epoch: 123/150 | Train Time: 1.733s | Train Loss: 0.009468 |
+2020-05-05 18:22:27,930 - root - INFO - | Epoch: 124/150 | Train Time: 1.877s | Train Loss: 0.009447 |
+2020-05-05 18:22:29,647 - root - INFO - | Epoch: 125/150 | Train Time: 1.716s | Train Loss: 0.009405 |
+2020-05-05 18:22:31,260 - root - INFO - | Epoch: 126/150 | Train Time: 1.613s | Train Loss: 0.009320 |
+2020-05-05 18:22:33,127 - root - INFO - | Epoch: 127/150 | Train Time: 1.866s | Train Loss: 0.009275 |
+2020-05-05 18:22:34,887 - root - INFO - | Epoch: 128/150 | Train Time: 1.760s | Train Loss: 0.009364 |
+2020-05-05 18:22:36,527 - root - INFO - | Epoch: 129/150 | Train Time: 1.639s | Train Loss: 0.009332 |
+2020-05-05 18:22:38,317 - root - INFO - | Epoch: 130/150 | Train Time: 1.790s | Train Loss: 0.009142 |
+2020-05-05 18:22:40,240 - root - INFO - | Epoch: 131/150 | Train Time: 1.923s | Train Loss: 0.009355 |
+2020-05-05 18:22:42,204 - root - INFO - | Epoch: 132/150 | Train Time: 1.963s | Train Loss: 0.009388 |
+2020-05-05 18:22:44,016 - root - INFO - | Epoch: 133/150 | Train Time: 1.812s | Train Loss: 0.009314 |
+2020-05-05 18:22:46,170 - root - INFO - | Epoch: 134/150 | Train Time: 2.154s | Train Loss: 0.009377 |
+2020-05-05 18:22:48,043 - root - INFO - | Epoch: 135/150 | Train Time: 1.872s | Train Loss: 0.009221 |
+2020-05-05 18:22:49,761 - root - INFO - | Epoch: 136/150 | Train Time: 1.717s | Train Loss: 0.009182 |
+2020-05-05 18:22:52,062 - root - INFO - | Epoch: 137/150 | Train Time: 2.301s | Train Loss: 0.009179 |
+2020-05-05 18:22:53,880 - root - INFO - | Epoch: 138/150 | Train Time: 1.817s | Train Loss: 0.009179 |
+2020-05-05 18:22:55,690 - root - INFO - | Epoch: 139/150 | Train Time: 1.810s | Train Loss: 0.009247 |
+2020-05-05 18:22:57,595 - root - INFO - | Epoch: 140/150 | Train Time: 1.904s | Train Loss: 0.009121 |
+2020-05-05 18:22:59,300 - root - INFO - | Epoch: 141/150 | Train Time: 1.705s | Train Loss: 0.009092 |
+2020-05-05 18:23:00,902 - root - INFO - | Epoch: 142/150 | Train Time: 1.601s | Train Loss: 0.009172 |
+2020-05-05 18:23:02,756 - root - INFO - | Epoch: 143/150 | Train Time: 1.853s | Train Loss: 0.009153 |
+2020-05-05 18:23:04,929 - root - INFO - | Epoch: 144/150 | Train Time: 2.172s | Train Loss: 0.009162 |
+2020-05-05 18:23:07,192 - root - INFO - | Epoch: 145/150 | Train Time: 2.263s | Train Loss: 0.009094 |
+2020-05-05 18:23:09,453 - root - INFO - | Epoch: 146/150 | Train Time: 2.260s | Train Loss: 0.009025 |
+2020-05-05 18:23:11,593 - root - INFO - | Epoch: 147/150 | Train Time: 2.139s | Train Loss: 0.009029 |
+2020-05-05 18:23:13,290 - root - INFO - | Epoch: 148/150 | Train Time: 1.696s | Train Loss: 0.009100 |
+2020-05-05 18:23:15,253 - root - INFO - | Epoch: 149/150 | Train Time: 1.963s | Train Loss: 0.009063 |
+2020-05-05 18:23:17,048 - root - INFO - | Epoch: 150/150 | Train Time: 1.794s | Train Loss: 0.009000 |
+2020-05-05 18:23:17,048 - root - INFO - Pretraining Time: 289.852s
+2020-05-05 18:23:17,048 - root - INFO - Finished pretraining.
+2020-05-05 18:23:17,050 - root - INFO - Testing autoencoder...
+2020-05-05 18:23:18,374 - root - INFO - Test Loss: 0.015566
+2020-05-05 18:23:18,375 - root - INFO - Test AUC: 77.59%
+2020-05-05 18:23:18,375 - root - INFO - Test Time: 1.313s
+2020-05-05 18:23:18,375 - root - INFO - Finished testing autoencoder.
+2020-05-05 18:23:18,414 - root - INFO - Training optimizer: adam
+2020-05-05 18:23:18,414 - root - INFO - Training learning rate: 0.0001
+2020-05-05 18:23:18,414 - root - INFO - Training epochs: 150
+2020-05-05 18:23:18,414 - root - INFO - Training learning rate scheduler milestones: (50,)
+2020-05-05 18:23:18,414 - root - INFO - Training batch size: 200
+2020-05-05 18:23:18,414 - root - INFO - Training weight decay: 5e-07
+2020-05-05 18:23:18,465 - root - INFO - Initializing center c...
+2020-05-05 18:23:19,357 - root - INFO - Center c initialized.
+2020-05-05 18:23:19,358 - root - INFO - Starting training...
+2020-05-05 18:23:20,396 - root - INFO - | Epoch: 001/150 | Train Time: 1.038s | Train Loss: 9.936937 |
+2020-05-05 18:23:21,575 - root - INFO - | Epoch: 002/150 | Train Time: 1.178s | Train Loss: 2.862312 |
+2020-05-05 18:23:22,726 - root - INFO - | Epoch: 003/150 | Train Time: 1.151s | Train Loss: 1.325715 |
+2020-05-05 18:23:24,002 - root - INFO - | Epoch: 004/150 | Train Time: 1.275s | Train Loss: 0.864304 |
+2020-05-05 18:23:25,071 - root - INFO - | Epoch: 005/150 | Train Time: 1.069s | Train Loss: 0.653995 |
+2020-05-05 18:23:26,326 - root - INFO - | Epoch: 006/150 | Train Time: 1.254s | Train Loss: 0.531182 |
+2020-05-05 18:23:27,333 - root - INFO - | Epoch: 007/150 | Train Time: 1.007s | Train Loss: 0.447028 |
+2020-05-05 18:23:28,494 - root - INFO - | Epoch: 008/150 | Train Time: 1.160s | Train Loss: 0.384095 |
+2020-05-05 18:23:29,778 - root - INFO - | Epoch: 009/150 | Train Time: 1.283s | Train Loss: 0.336217 |
+2020-05-05 18:23:30,910 - root - INFO - | Epoch: 010/150 | Train Time: 1.131s | Train Loss: 0.296475 |
+2020-05-05 18:23:32,071 - root - INFO - | Epoch: 011/150 | Train Time: 1.161s | Train Loss: 0.266063 |
+2020-05-05 18:23:33,320 - root - INFO - | Epoch: 012/150 | Train Time: 1.249s | Train Loss: 0.238919 |
+2020-05-05 18:23:35,513 - root - INFO - | Epoch: 013/150 | Train Time: 2.192s | Train Loss: 0.216500 |
+2020-05-05 18:23:36,867 - root - INFO - | Epoch: 014/150 | Train Time: 1.354s | Train Loss: 0.199900 |
+2020-05-05 18:23:38,366 - root - INFO - | Epoch: 015/150 | Train Time: 1.498s | Train Loss: 0.185159 |
+2020-05-05 18:23:39,964 - root - INFO - | Epoch: 016/150 | Train Time: 1.598s | Train Loss: 0.170604 |
+2020-05-05 18:23:41,509 - root - INFO - | Epoch: 017/150 | Train Time: 1.545s | Train Loss: 0.159562 |
+2020-05-05 18:23:43,260 - root - INFO - | Epoch: 018/150 | Train Time: 1.750s | Train Loss: 0.148877 |
+2020-05-05 18:23:44,964 - root - INFO - | Epoch: 019/150 | Train Time: 1.704s | Train Loss: 0.141134 |
+2020-05-05 18:23:46,728 - root - INFO - | Epoch: 020/150 | Train Time: 1.763s | Train Loss: 0.133760 |
+2020-05-05 18:23:48,286 - root - INFO - | Epoch: 021/150 | Train Time: 1.558s | Train Loss: 0.126593 |
+2020-05-05 18:23:49,697 - root - INFO - | Epoch: 022/150 | Train Time: 1.411s | Train Loss: 0.121430 |
+2020-05-05 18:23:51,204 - root - INFO - | Epoch: 023/150 | Train Time: 1.506s | Train Loss: 0.116912 |
+2020-05-05 18:23:52,761 - root - INFO - | Epoch: 024/150 | Train Time: 1.556s | Train Loss: 0.111316 |
+2020-05-05 18:23:54,418 - root - INFO - | Epoch: 025/150 | Train Time: 1.656s | Train Loss: 0.105718 |
+2020-05-05 18:23:55,805 - root - INFO - | Epoch: 026/150 | Train Time: 1.387s | Train Loss: 0.101047 |
+2020-05-05 18:23:57,521 - root - INFO - | Epoch: 027/150 | Train Time: 1.715s | Train Loss: 0.099791 |
+2020-05-05 18:23:58,915 - root - INFO - | Epoch: 028/150 | Train Time: 1.394s | Train Loss: 0.095728 |
+2020-05-05 18:24:00,328 - root - INFO - | Epoch: 029/150 | Train Time: 1.412s | Train Loss: 0.092887 |
+2020-05-05 18:24:01,933 - root - INFO - | Epoch: 030/150 | Train Time: 1.605s | Train Loss: 0.089134 |
+2020-05-05 18:24:03,410 - root - INFO - | Epoch: 031/150 | Train Time: 1.477s | Train Loss: 0.086354 |
+2020-05-05 18:24:04,965 - root - INFO - | Epoch: 032/150 | Train Time: 1.554s | Train Loss: 0.087302 |
+2020-05-05 18:24:06,497 - root - INFO - | Epoch: 033/150 | Train Time: 1.532s | Train Loss: 0.082088 |
+2020-05-05 18:24:07,990 - root - INFO - | Epoch: 034/150 | Train Time: 1.488s | Train Loss: 0.079783 |
+2020-05-05 18:24:09,358 - root - INFO - | Epoch: 035/150 | Train Time: 1.367s | Train Loss: 0.078545 |
+2020-05-05 18:24:10,850 - root - INFO - | Epoch: 036/150 | Train Time: 1.491s | Train Loss: 0.076193 |
+2020-05-05 18:24:12,386 - root - INFO - | Epoch: 037/150 | Train Time: 1.536s | Train Loss: 0.073665 |
+2020-05-05 18:24:14,206 - root - INFO - | Epoch: 038/150 | Train Time: 1.820s | Train Loss: 0.072970 |
+2020-05-05 18:24:15,610 - root - INFO - | Epoch: 039/150 | Train Time: 1.403s | Train Loss: 0.070523 |
+2020-05-05 18:24:17,143 - root - INFO - | Epoch: 040/150 | Train Time: 1.533s | Train Loss: 0.069607 |
+2020-05-05 18:24:18,531 - root - INFO - | Epoch: 041/150 | Train Time: 1.387s | Train Loss: 0.069327 |
+2020-05-05 18:24:20,450 - root - INFO - | Epoch: 042/150 | Train Time: 1.919s | Train Loss: 0.068272 |
+2020-05-05 18:24:22,031 - root - INFO - | Epoch: 043/150 | Train Time: 1.581s | Train Loss: 0.065986 |
+2020-05-05 18:24:23,744 - root - INFO - | Epoch: 044/150 | Train Time: 1.712s | Train Loss: 0.065703 |
+2020-05-05 18:24:25,068 - root - INFO - | Epoch: 045/150 | Train Time: 1.324s | Train Loss: 0.066669 |
+2020-05-05 18:24:26,637 - root - INFO - | Epoch: 046/150 | Train Time: 1.569s | Train Loss: 0.062688 |
+2020-05-05 18:24:28,052 - root - INFO - | Epoch: 047/150 | Train Time: 1.415s | Train Loss: 0.061376 |
+2020-05-05 18:24:29,747 - root - INFO - | Epoch: 048/150 | Train Time: 1.694s | Train Loss: 0.059322 |
+2020-05-05 18:24:31,172 - root - INFO - | Epoch: 049/150 | Train Time: 1.424s | Train Loss: 0.058438 |
+2020-05-05 18:24:32,449 - root - INFO - | Epoch: 050/150 | Train Time: 1.277s | Train Loss: 0.056604 |
+2020-05-05 18:24:32,450 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2020-05-05 18:24:33,936 - root - INFO - | Epoch: 051/150 | Train Time: 1.486s | Train Loss: 0.056854 |
+2020-05-05 18:24:35,875 - root - INFO - | Epoch: 052/150 | Train Time: 1.938s | Train Loss: 0.055548 |
+2020-05-05 18:24:37,452 - root - INFO - | Epoch: 053/150 | Train Time: 1.577s | Train Loss: 0.055682 |
+2020-05-05 18:24:38,953 - root - INFO - | Epoch: 054/150 | Train Time: 1.500s | Train Loss: 0.055906 |
+2020-05-05 18:24:40,494 - root - INFO - | Epoch: 055/150 | Train Time: 1.541s | Train Loss: 0.055221 |
+2020-05-05 18:24:42,061 - root - INFO - | Epoch: 056/150 | Train Time: 1.566s | Train Loss: 0.055302 |
+2020-05-05 18:24:43,484 - root - INFO - | Epoch: 057/150 | Train Time: 1.423s | Train Loss: 0.055154 |
+2020-05-05 18:24:45,415 - root - INFO - | Epoch: 058/150 | Train Time: 1.930s | Train Loss: 0.055714 |
+2020-05-05 18:24:46,918 - root - INFO - | Epoch: 059/150 | Train Time: 1.502s | Train Loss: 0.054518 |
+2020-05-05 18:24:48,579 - root - INFO - | Epoch: 060/150 | Train Time: 1.661s | Train Loss: 0.055189 |
+2020-05-05 18:24:49,857 - root - INFO - | Epoch: 061/150 | Train Time: 1.278s | Train Loss: 0.055070 |
+2020-05-05 18:24:51,368 - root - INFO - | Epoch: 062/150 | Train Time: 1.510s | Train Loss: 0.054334 |
+2020-05-05 18:24:52,830 - root - INFO - | Epoch: 063/150 | Train Time: 1.461s | Train Loss: 0.055468 |
+2020-05-05 18:24:54,223 - root - INFO - | Epoch: 064/150 | Train Time: 1.393s | Train Loss: 0.054242 |
+2020-05-05 18:24:56,011 - root - INFO - | Epoch: 065/150 | Train Time: 1.787s | Train Loss: 0.054596 |
+2020-05-05 18:24:57,467 - root - INFO - | Epoch: 066/150 | Train Time: 1.456s | Train Loss: 0.054175 |
+2020-05-05 18:24:58,956 - root - INFO - | Epoch: 067/150 | Train Time: 1.488s | Train Loss: 0.053964 |
+2020-05-05 18:25:00,157 - root - INFO - | Epoch: 068/150 | Train Time: 1.200s | Train Loss: 0.054024 |
+2020-05-05 18:25:01,666 - root - INFO - | Epoch: 069/150 | Train Time: 1.508s | Train Loss: 0.054380 |
+2020-05-05 18:25:03,172 - root - INFO - | Epoch: 070/150 | Train Time: 1.506s | Train Loss: 0.054120 |
+2020-05-05 18:25:04,889 - root - INFO - | Epoch: 071/150 | Train Time: 1.717s | Train Loss: 0.053571 |
+2020-05-05 18:25:06,392 - root - INFO - | Epoch: 072/150 | Train Time: 1.502s | Train Loss: 0.052756 |
+2020-05-05 18:25:08,067 - root - INFO - | Epoch: 073/150 | Train Time: 1.674s | Train Loss: 0.053312 |
+2020-05-05 18:25:09,512 - root - INFO - | Epoch: 074/150 | Train Time: 1.444s | Train Loss: 0.053133 |
+2020-05-05 18:25:11,002 - root - INFO - | Epoch: 075/150 | Train Time: 1.490s | Train Loss: 0.053121 |
+2020-05-05 18:25:12,856 - root - INFO - | Epoch: 076/150 | Train Time: 1.854s | Train Loss: 0.053565 |
+2020-05-05 18:25:15,181 - root - INFO - | Epoch: 077/150 | Train Time: 2.324s | Train Loss: 0.052472 |
+2020-05-05 18:25:16,913 - root - INFO - | Epoch: 078/150 | Train Time: 1.732s | Train Loss: 0.053533 |
+2020-05-05 18:25:18,517 - root - INFO - | Epoch: 079/150 | Train Time: 1.603s | Train Loss: 0.052870 |
+2020-05-05 18:25:20,838 - root - INFO - | Epoch: 080/150 | Train Time: 2.321s | Train Loss: 0.052009 |
+2020-05-05 18:25:22,085 - root - INFO - | Epoch: 081/150 | Train Time: 1.246s | Train Loss: 0.052804 |
+2020-05-05 18:25:23,634 - root - INFO - | Epoch: 082/150 | Train Time: 1.549s | Train Loss: 0.051201 |
+2020-05-05 18:25:25,491 - root - INFO - | Epoch: 083/150 | Train Time: 1.856s | Train Loss: 0.051568 |
+2020-05-05 18:25:27,042 - root - INFO - | Epoch: 084/150 | Train Time: 1.551s | Train Loss: 0.051871 |
+2020-05-05 18:25:28,758 - root - INFO - | Epoch: 085/150 | Train Time: 1.716s | Train Loss: 0.051628 |
+2020-05-05 18:25:30,452 - root - INFO - | Epoch: 086/150 | Train Time: 1.694s | Train Loss: 0.051838 |
+2020-05-05 18:25:32,215 - root - INFO - | Epoch: 087/150 | Train Time: 1.762s | Train Loss: 0.052004 |
+2020-05-05 18:25:33,983 - root - INFO - | Epoch: 088/150 | Train Time: 1.767s | Train Loss: 0.051632 |
+2020-05-05 18:25:35,539 - root - INFO - | Epoch: 089/150 | Train Time: 1.556s | Train Loss: 0.051698 |
+2020-05-05 18:25:37,461 - root - INFO - | Epoch: 090/150 | Train Time: 1.921s | Train Loss: 0.050725 |
+2020-05-05 18:25:39,234 - root - INFO - | Epoch: 091/150 | Train Time: 1.773s | Train Loss: 0.051111 |
+2020-05-05 18:25:40,836 - root - INFO - | Epoch: 092/150 | Train Time: 1.601s | Train Loss: 0.051729 |
+2020-05-05 18:25:42,345 - root - INFO - | Epoch: 093/150 | Train Time: 1.509s | Train Loss: 0.050932 |
+2020-05-05 18:25:43,898 - root - INFO - | Epoch: 094/150 | Train Time: 1.553s | Train Loss: 0.051054 |
+2020-05-05 18:25:45,574 - root - INFO - | Epoch: 095/150 | Train Time: 1.675s | Train Loss: 0.050163 |
+2020-05-05 18:25:46,916 - root - INFO - | Epoch: 096/150 | Train Time: 1.341s | Train Loss: 0.050672 |
+2020-05-05 18:25:49,034 - root - INFO - | Epoch: 097/150 | Train Time: 2.118s | Train Loss: 0.050532 |
+2020-05-05 18:25:50,394 - root - INFO - | Epoch: 098/150 | Train Time: 1.359s | Train Loss: 0.050541 |
+2020-05-05 18:25:51,869 - root - INFO - | Epoch: 099/150 | Train Time: 1.474s | Train Loss: 0.050474 |
+2020-05-05 18:25:53,336 - root - INFO - | Epoch: 100/150 | Train Time: 1.467s | Train Loss: 0.049563 |
+2020-05-05 18:25:54,960 - root - INFO - | Epoch: 101/150 | Train Time: 1.623s | Train Loss: 0.049851 |
+2020-05-05 18:25:56,615 - root - INFO - | Epoch: 102/150 | Train Time: 1.655s | Train Loss: 0.049645 |
+2020-05-05 18:25:58,146 - root - INFO - | Epoch: 103/150 | Train Time: 1.530s | Train Loss: 0.050191 |
+2020-05-05 18:25:59,751 - root - INFO - | Epoch: 104/150 | Train Time: 1.604s | Train Loss: 0.048428 |
+2020-05-05 18:26:01,241 - root - INFO - | Epoch: 105/150 | Train Time: 1.489s | Train Loss: 0.049663 |
+2020-05-05 18:26:02,878 - root - INFO - | Epoch: 106/150 | Train Time: 1.636s | Train Loss: 0.049060 |
+2020-05-05 18:26:04,934 - root - INFO - | Epoch: 107/150 | Train Time: 2.056s | Train Loss: 0.048496 |
+2020-05-05 18:26:06,499 - root - INFO - | Epoch: 108/150 | Train Time: 1.564s | Train Loss: 0.049064 |
+2020-05-05 18:26:08,090 - root - INFO - | Epoch: 109/150 | Train Time: 1.591s | Train Loss: 0.049008 |
+2020-05-05 18:26:09,722 - root - INFO - | Epoch: 110/150 | Train Time: 1.632s | Train Loss: 0.048757 |
+2020-05-05 18:26:11,234 - root - INFO - | Epoch: 111/150 | Train Time: 1.511s | Train Loss: 0.049447 |
+2020-05-05 18:26:12,822 - root - INFO - | Epoch: 112/150 | Train Time: 1.588s | Train Loss: 0.047991 |
+2020-05-05 18:26:14,828 - root - INFO - | Epoch: 113/150 | Train Time: 2.005s | Train Loss: 0.047910 |
+2020-05-05 18:26:16,547 - root - INFO - | Epoch: 114/150 | Train Time: 1.719s | Train Loss: 0.047439 |
+2020-05-05 18:26:18,546 - root - INFO - | Epoch: 115/150 | Train Time: 1.999s | Train Loss: 0.047347 |
+2020-05-05 18:26:20,626 - root - INFO - | Epoch: 116/150 | Train Time: 2.079s | Train Loss: 0.047141 |
+2020-05-05 18:26:22,636 - root - INFO - | Epoch: 117/150 | Train Time: 2.009s | Train Loss: 0.047376 |
+2020-05-05 18:26:24,715 - root - INFO - | Epoch: 118/150 | Train Time: 2.079s | Train Loss: 0.047135 |
+2020-05-05 18:26:26,453 - root - INFO - | Epoch: 119/150 | Train Time: 1.737s | Train Loss: 0.046532 |
+2020-05-05 18:26:28,599 - root - INFO - | Epoch: 120/150 | Train Time: 2.146s | Train Loss: 0.046901 |
+2020-05-05 18:26:30,745 - root - INFO - | Epoch: 121/150 | Train Time: 2.145s | Train Loss: 0.045178 |
+2020-05-05 18:26:32,791 - root - INFO - | Epoch: 122/150 | Train Time: 2.045s | Train Loss: 0.046206 |
+2020-05-05 18:26:34,765 - root - INFO - | Epoch: 123/150 | Train Time: 1.974s | Train Loss: 0.046225 |
+2020-05-05 18:26:36,794 - root - INFO - | Epoch: 124/150 | Train Time: 2.028s | Train Loss: 0.046170 |
+2020-05-05 18:26:38,792 - root - INFO - | Epoch: 125/150 | Train Time: 1.998s | Train Loss: 0.045931 |
+2020-05-05 18:26:40,989 - root - INFO - | Epoch: 126/150 | Train Time: 2.197s | Train Loss: 0.047053 |
+2020-05-05 18:26:43,204 - root - INFO - | Epoch: 127/150 | Train Time: 2.214s | Train Loss: 0.046093 |
+2020-05-05 18:26:45,346 - root - INFO - | Epoch: 128/150 | Train Time: 2.142s | Train Loss: 0.045813 |
+2020-05-05 18:26:47,224 - root - INFO - | Epoch: 129/150 | Train Time: 1.877s | Train Loss: 0.045450 |
+2020-05-05 18:26:49,046 - root - INFO - | Epoch: 130/150 | Train Time: 1.822s | Train Loss: 0.044579 |
+2020-05-05 18:26:51,381 - root - INFO - | Epoch: 131/150 | Train Time: 2.334s | Train Loss: 0.044677 |
+2020-05-05 18:26:53,316 - root - INFO - | Epoch: 132/150 | Train Time: 1.935s | Train Loss: 0.045273 |
+2020-05-05 18:26:55,534 - root - INFO - | Epoch: 133/150 | Train Time: 2.217s | Train Loss: 0.044246 |
+2020-05-05 18:26:57,448 - root - INFO - | Epoch: 134/150 | Train Time: 1.913s | Train Loss: 0.045726 |
+2020-05-05 18:26:59,545 - root - INFO - | Epoch: 135/150 | Train Time: 2.097s | Train Loss: 0.044612 |
+2020-05-05 18:27:01,598 - root - INFO - | Epoch: 136/150 | Train Time: 2.052s | Train Loss: 0.044631 |
+2020-05-05 18:27:03,565 - root - INFO - | Epoch: 137/150 | Train Time: 1.967s | Train Loss: 0.044452 |
+2020-05-05 18:27:05,512 - root - INFO - | Epoch: 138/150 | Train Time: 1.946s | Train Loss: 0.044336 |
+2020-05-05 18:27:07,363 - root - INFO - | Epoch: 139/150 | Train Time: 1.851s | Train Loss: 0.043637 |
+2020-05-05 18:27:08,974 - root - INFO - | Epoch: 140/150 | Train Time: 1.610s | Train Loss: 0.043693 |
+2020-05-05 18:27:10,521 - root - INFO - | Epoch: 141/150 | Train Time: 1.547s | Train Loss: 0.044138 |
+2020-05-05 18:27:12,309 - root - INFO - | Epoch: 142/150 | Train Time: 1.788s | Train Loss: 0.043590 |
+2020-05-05 18:27:14,242 - root - INFO - | Epoch: 143/150 | Train Time: 1.932s | Train Loss: 0.043402 |
+2020-05-05 18:27:16,233 - root - INFO - | Epoch: 144/150 | Train Time: 1.990s | Train Loss: 0.044117 |
+2020-05-05 18:27:18,256 - root - INFO - | Epoch: 145/150 | Train Time: 2.023s | Train Loss: 0.042821 |
+2020-05-05 18:27:19,855 - root - INFO - | Epoch: 146/150 | Train Time: 1.599s | Train Loss: 0.042610 |
+2020-05-05 18:27:21,787 - root - INFO - | Epoch: 147/150 | Train Time: 1.931s | Train Loss: 0.042906 |
+2020-05-05 18:27:23,812 - root - INFO - | Epoch: 148/150 | Train Time: 2.024s | Train Loss: 0.043255 |
+2020-05-05 18:27:25,829 - root - INFO - | Epoch: 149/150 | Train Time: 2.017s | Train Loss: 0.041681 |
+2020-05-05 18:27:28,173 - root - INFO - | Epoch: 150/150 | Train Time: 2.344s | Train Loss: 0.042271 |
+2020-05-05 18:27:28,174 - root - INFO - Training Time: 248.816s
+2020-05-05 18:27:28,174 - root - INFO - Finished training.
+2020-05-05 18:27:28,175 - root - INFO - Starting testing...
+2020-05-05 18:27:30,362 - root - INFO - Test Loss: 0.115749
+2020-05-05 18:27:30,363 - root - INFO - Test AUC: 87.53%
+2020-05-05 18:27:30,363 - root - INFO - Test Time: 2.174s
+2020-05-05 18:27:30,363 - root - INFO - Finished testing.
+2020-05-05 18:27:41,730 - root - INFO - Log file is ../log/fmnist/scenario_1/deepSAD//log_0_4_1_0.txt
+2020-05-05 18:27:41,730 - root - INFO - Data path is ../data
+2020-05-05 18:27:41,730 - root - INFO - Export path is ../log/fmnist/scenario_1/deepSAD/
+2020-05-05 18:27:41,730 - root - INFO - Dataset: fmnist
+2020-05-05 18:27:41,730 - root - INFO - Normal class: 0
+2020-05-05 18:27:41,730 - root - INFO - Ratio of labeled normal train samples: 0.00
+2020-05-05 18:27:41,730 - root - INFO - Ratio of labeled anomalous samples: 0.05
+2020-05-05 18:27:41,730 - root - INFO - Pollution ratio of unlabeled train data: 0.10
+2020-05-05 18:27:41,730 - root - INFO - Scenario Running: 3
+2020-05-05 18:27:41,731 - root - INFO - Output and AE dimensions: 128
+2020-05-05 18:27:41,731 - root - INFO - Known anomaly class: 4
+2020-05-05 18:27:41,731 - root - INFO - Network: fmnist_LeNet
+2020-05-05 18:27:41,731 - root - INFO - Eta-parameter: 1.00
+2020-05-05 18:27:41,737 - root - INFO - Set seed to 0.
+2020-05-05 18:27:41,790 - root - INFO - Computation device: cuda
+2020-05-05 18:27:41,790 - root - INFO - Number of threads: 0
+2020-05-05 18:27:41,791 - root - INFO - Number of dataloader workers: 6
+2020-05-05 18:27:41,941 - root - INFO - Pretraining: True
+2020-05-05 18:27:41,953 - root - INFO - Pretraining optimizer: adam
+2020-05-05 18:27:41,953 - root - INFO - Pretraining learning rate: 0.0001
+2020-05-05 18:27:41,953 - root - INFO - Pretraining epochs: 150
+2020-05-05 18:27:41,954 - root - INFO - Pretraining learning rate scheduler milestones: ()
+2020-05-05 18:27:41,954 - root - INFO - Pretraining batch size: 200
+2020-05-05 18:27:41,954 - root - INFO - Pretraining weight decay: 0.0005
+2020-05-05 18:27:48,391 - root - INFO - Starting pretraining...
+2020-05-05 18:27:53,803 - root - INFO - | Epoch: 001/150 | Train Time: 5.410s | Train Loss: 0.097179 |
+2020-05-05 18:27:56,072 - root - INFO - | Epoch: 002/150 | Train Time: 2.268s | Train Loss: 0.043791 |
+2020-05-05 18:27:58,443 - root - INFO - | Epoch: 003/150 | Train Time: 2.370s | Train Loss: 0.033539 |
+2020-05-05 18:28:00,751 - root - INFO - | Epoch: 004/150 | Train Time: 2.308s | Train Loss: 0.029086 |
+2020-05-05 18:28:02,710 - root - INFO - | Epoch: 005/150 | Train Time: 1.959s | Train Loss: 0.026394 |
+2020-05-05 18:28:04,928 - root - INFO - | Epoch: 006/150 | Train Time: 2.218s | Train Loss: 0.024654 |
+2020-05-05 18:28:07,151 - root - INFO - | Epoch: 007/150 | Train Time: 2.223s | Train Loss: 0.023151 |
+2020-05-05 18:28:09,825 - root - INFO - | Epoch: 008/150 | Train Time: 2.674s | Train Loss: 0.022118 |
+2020-05-05 18:28:12,257 - root - INFO - | Epoch: 009/150 | Train Time: 2.431s | Train Loss: 0.021339 |
+2020-05-05 18:28:14,859 - root - INFO - | Epoch: 010/150 | Train Time: 2.602s | Train Loss: 0.020544 |
+2020-05-05 18:28:17,230 - root - INFO - | Epoch: 011/150 | Train Time: 2.370s | Train Loss: 0.019868 |
+2020-05-05 18:28:19,666 - root - INFO - | Epoch: 012/150 | Train Time: 2.435s | Train Loss: 0.019354 |
+2020-05-05 18:28:22,065 - root - INFO - | Epoch: 013/150 | Train Time: 2.399s | Train Loss: 0.018886 |
+2020-05-05 18:28:24,635 - root - INFO - | Epoch: 014/150 | Train Time: 2.569s | Train Loss: 0.018324 |
+2020-05-05 18:28:26,915 - root - INFO - | Epoch: 015/150 | Train Time: 2.280s | Train Loss: 0.017840 |
+2020-05-05 18:28:28,886 - root - INFO - | Epoch: 016/150 | Train Time: 1.970s | Train Loss: 0.017498 |
+2020-05-05 18:28:31,227 - root - INFO - | Epoch: 017/150 | Train Time: 2.340s | Train Loss: 0.017160 |
+2020-05-05 18:28:33,823 - root - INFO - | Epoch: 018/150 | Train Time: 2.596s | Train Loss: 0.016883 |
+2020-05-05 18:28:36,097 - root - INFO - | Epoch: 019/150 | Train Time: 2.273s | Train Loss: 0.016575 |
+2020-05-05 18:28:38,154 - root - INFO - | Epoch: 020/150 | Train Time: 2.056s | Train Loss: 0.016193 |
+2020-05-05 18:28:40,600 - root - INFO - | Epoch: 021/150 | Train Time: 2.445s | Train Loss: 0.016023 |
+2020-05-05 18:28:43,062 - root - INFO - | Epoch: 022/150 | Train Time: 2.462s | Train Loss: 0.015754 |
+2020-05-05 18:28:45,486 - root - INFO - | Epoch: 023/150 | Train Time: 2.423s | Train Loss: 0.015525 |
+2020-05-05 18:28:47,827 - root - INFO - | Epoch: 024/150 | Train Time: 2.341s | Train Loss: 0.015274 |
+2020-05-05 18:28:50,183 - root - INFO - | Epoch: 025/150 | Train Time: 2.355s | Train Loss: 0.015135 |
+2020-05-05 18:28:52,508 - root - INFO - | Epoch: 026/150 | Train Time: 2.325s | Train Loss: 0.014942 |
+2020-05-05 18:28:54,585 - root - INFO - | Epoch: 027/150 | Train Time: 2.077s | Train Loss: 0.014716 |
+2020-05-05 18:28:56,842 - root - INFO - | Epoch: 028/150 | Train Time: 2.256s | Train Loss: 0.014571 |
+2020-05-05 18:28:58,837 - root - INFO - | Epoch: 029/150 | Train Time: 1.994s | Train Loss: 0.014296 |
+2020-05-05 18:29:00,942 - root - INFO - | Epoch: 030/150 | Train Time: 2.105s | Train Loss: 0.014162 |
+2020-05-05 18:29:03,364 - root - INFO - | Epoch: 031/150 | Train Time: 2.421s | Train Loss: 0.013979 |
+2020-05-05 18:29:05,748 - root - INFO - | Epoch: 032/150 | Train Time: 2.384s | Train Loss: 0.014069 |
+2020-05-05 18:29:07,822 - root - INFO - | Epoch: 033/150 | Train Time: 2.074s | Train Loss: 0.013865 |
+2020-05-05 18:29:10,205 - root - INFO - | Epoch: 034/150 | Train Time: 2.382s | Train Loss: 0.013760 |
+2020-05-05 18:29:12,604 - root - INFO - | Epoch: 035/150 | Train Time: 2.398s | Train Loss: 0.013511 |
+2020-05-05 18:29:14,954 - root - INFO - | Epoch: 036/150 | Train Time: 2.350s | Train Loss: 0.013387 |
+2020-05-05 18:29:17,182 - root - INFO - | Epoch: 037/150 | Train Time: 2.227s | Train Loss: 0.013426 |
+2020-05-05 18:29:19,456 - root - INFO - | Epoch: 038/150 | Train Time: 2.274s | Train Loss: 0.013210 |
+2020-05-05 18:29:21,560 - root - INFO - | Epoch: 039/150 | Train Time: 2.104s | Train Loss: 0.013053 |
+2020-05-05 18:29:23,936 - root - INFO - | Epoch: 040/150 | Train Time: 2.375s | Train Loss: 0.012985 |
+2020-05-05 18:29:26,392 - root - INFO - | Epoch: 041/150 | Train Time: 2.456s | Train Loss: 0.012932 |
+2020-05-05 18:29:28,930 - root - INFO - | Epoch: 042/150 | Train Time: 2.537s | Train Loss: 0.012817 |
+2020-05-05 18:29:31,120 - root - INFO - | Epoch: 043/150 | Train Time: 2.189s | Train Loss: 0.012673 |
+2020-05-05 18:29:33,305 - root - INFO - | Epoch: 044/150 | Train Time: 2.185s | Train Loss: 0.012478 |
+2020-05-05 18:29:35,854 - root - INFO - | Epoch: 045/150 | Train Time: 2.548s | Train Loss: 0.012492 |
+2020-05-05 18:29:38,170 - root - INFO - | Epoch: 046/150 | Train Time: 2.316s | Train Loss: 0.012438 |
+2020-05-05 18:29:40,497 - root - INFO - | Epoch: 047/150 | Train Time: 2.327s | Train Loss: 0.012449 |
+2020-05-05 18:29:42,943 - root - INFO - | Epoch: 048/150 | Train Time: 2.446s | Train Loss: 0.012247 |
+2020-05-05 18:29:45,586 - root - INFO - | Epoch: 049/150 | Train Time: 2.642s | Train Loss: 0.012103 |
+2020-05-05 18:29:48,089 - root - INFO - | Epoch: 050/150 | Train Time: 2.502s | Train Loss: 0.012064 |
+2020-05-05 18:29:50,221 - root - INFO - | Epoch: 051/150 | Train Time: 2.132s | Train Loss: 0.012123 |
+2020-05-05 18:29:52,439 - root - INFO - | Epoch: 052/150 | Train Time: 2.217s | Train Loss: 0.012163 |
+2020-05-05 18:29:54,343 - root - INFO - | Epoch: 053/150 | Train Time: 1.904s | Train Loss: 0.011915 |
+2020-05-05 18:29:56,440 - root - INFO - | Epoch: 054/150 | Train Time: 2.096s | Train Loss: 0.011796 |
+2020-05-05 18:29:58,819 - root - INFO - | Epoch: 055/150 | Train Time: 2.379s | Train Loss: 0.011818 |
+2020-05-05 18:30:01,321 - root - INFO - | Epoch: 056/150 | Train Time: 2.501s | Train Loss: 0.011825 |
+2020-05-05 18:30:03,694 - root - INFO - | Epoch: 057/150 | Train Time: 2.372s | Train Loss: 0.011655 |
+2020-05-05 18:30:06,099 - root - INFO - | Epoch: 058/150 | Train Time: 2.405s | Train Loss: 0.011615 |
+2020-05-05 18:30:08,475 - root - INFO - | Epoch: 059/150 | Train Time: 2.376s | Train Loss: 0.011515 |
+2020-05-05 18:30:11,009 - root - INFO - | Epoch: 060/150 | Train Time: 2.533s | Train Loss: 0.011451 |
+2020-05-05 18:30:12,907 - root - INFO - | Epoch: 061/150 | Train Time: 1.897s | Train Loss: 0.011363 |
+2020-05-05 18:30:15,042 - root - INFO - | Epoch: 062/150 | Train Time: 2.134s | Train Loss: 0.011408 |
+2020-05-05 18:30:17,419 - root - INFO - | Epoch: 063/150 | Train Time: 2.377s | Train Loss: 0.011306 |
+2020-05-05 18:30:19,741 - root - INFO - | Epoch: 064/150 | Train Time: 2.322s | Train Loss: 0.011198 |
+2020-05-05 18:30:21,879 - root - INFO - | Epoch: 065/150 | Train Time: 2.137s | Train Loss: 0.011119 |
+2020-05-05 18:30:24,326 - root - INFO - | Epoch: 066/150 | Train Time: 2.446s | Train Loss: 0.011170 |
+2020-05-05 18:30:26,754 - root - INFO - | Epoch: 067/150 | Train Time: 2.428s | Train Loss: 0.011069 |
+2020-05-05 18:30:28,789 - root - INFO - | Epoch: 068/150 | Train Time: 2.034s | Train Loss: 0.011038 |
+2020-05-05 18:30:30,844 - root - INFO - | Epoch: 069/150 | Train Time: 2.055s | Train Loss: 0.011024 |
+2020-05-05 18:30:33,091 - root - INFO - | Epoch: 070/150 | Train Time: 2.246s | Train Loss: 0.011042 |
+2020-05-05 18:30:35,528 - root - INFO - | Epoch: 071/150 | Train Time: 2.437s | Train Loss: 0.010970 |
+2020-05-05 18:30:37,889 - root - INFO - | Epoch: 072/150 | Train Time: 2.361s | Train Loss: 0.010807 |
+2020-05-05 18:30:40,447 - root - INFO - | Epoch: 073/150 | Train Time: 2.557s | Train Loss: 0.010780 |
+2020-05-05 18:30:42,768 - root - INFO - | Epoch: 074/150 | Train Time: 2.320s | Train Loss: 0.010790 |
+2020-05-05 18:30:45,101 - root - INFO - | Epoch: 075/150 | Train Time: 2.333s | Train Loss: 0.010832 |
+2020-05-05 18:30:47,574 - root - INFO - | Epoch: 076/150 | Train Time: 2.473s | Train Loss: 0.010711 |
+2020-05-05 18:30:49,898 - root - INFO - | Epoch: 077/150 | Train Time: 2.323s | Train Loss: 0.010727 |
+2020-05-05 18:30:52,512 - root - INFO - | Epoch: 078/150 | Train Time: 2.613s | Train Loss: 0.010592 |
+2020-05-05 18:30:54,536 - root - INFO - | Epoch: 079/150 | Train Time: 2.023s | Train Loss: 0.010538 |
+2020-05-05 18:30:57,043 - root - INFO - | Epoch: 080/150 | Train Time: 2.506s | Train Loss: 0.010482 |
+2020-05-05 18:30:59,611 - root - INFO - | Epoch: 081/150 | Train Time: 2.568s | Train Loss: 0.010589 |
+2020-05-05 18:31:02,141 - root - INFO - | Epoch: 082/150 | Train Time: 2.530s | Train Loss: 0.010532 |
+2020-05-05 18:31:04,540 - root - INFO - | Epoch: 083/150 | Train Time: 2.399s | Train Loss: 0.010496 |
+2020-05-05 18:31:07,348 - root - INFO - | Epoch: 084/150 | Train Time: 2.808s | Train Loss: 0.010524 |
+2020-05-05 18:31:09,790 - root - INFO - | Epoch: 085/150 | Train Time: 2.441s | Train Loss: 0.010408 |
+2020-05-05 18:31:12,226 - root - INFO - | Epoch: 086/150 | Train Time: 2.436s | Train Loss: 0.010355 |
+2020-05-05 18:31:14,831 - root - INFO - | Epoch: 087/150 | Train Time: 2.604s | Train Loss: 0.010257 |
+2020-05-05 18:31:17,448 - root - INFO - | Epoch: 088/150 | Train Time: 2.617s | Train Loss: 0.010199 |
+2020-05-05 18:31:20,044 - root - INFO - | Epoch: 089/150 | Train Time: 2.595s | Train Loss: 0.010263 |
+2020-05-05 18:31:22,451 - root - INFO - | Epoch: 090/150 | Train Time: 2.407s | Train Loss: 0.010259 |
+2020-05-05 18:31:24,876 - root - INFO - | Epoch: 091/150 | Train Time: 2.424s | Train Loss: 0.010171 |
+2020-05-05 18:31:27,443 - root - INFO - | Epoch: 092/150 | Train Time: 2.567s | Train Loss: 0.010111 |
+2020-05-05 18:31:29,896 - root - INFO - | Epoch: 093/150 | Train Time: 2.453s | Train Loss: 0.010107 |
+2020-05-05 18:31:32,550 - root - INFO - | Epoch: 094/150 | Train Time: 2.653s | Train Loss: 0.010228 |
+2020-05-05 18:31:34,877 - root - INFO - | Epoch: 095/150 | Train Time: 2.327s | Train Loss: 0.010123 |
+2020-05-05 18:31:37,079 - root - INFO - | Epoch: 096/150 | Train Time: 2.202s | Train Loss: 0.010057 |
+2020-05-05 18:31:39,620 - root - INFO - | Epoch: 097/150 | Train Time: 2.540s | Train Loss: 0.010101 |
+2020-05-05 18:31:42,511 - root - INFO - | Epoch: 098/150 | Train Time: 2.891s | Train Loss: 0.010070 |
+2020-05-05 18:31:44,893 - root - INFO - | Epoch: 099/150 | Train Time: 2.382s | Train Loss: 0.010121 |
+2020-05-05 18:31:47,722 - root - INFO - | Epoch: 100/150 | Train Time: 2.828s | Train Loss: 0.009883 |
+2020-05-05 18:31:50,174 - root - INFO - | Epoch: 101/150 | Train Time: 2.452s | Train Loss: 0.009851 |
+2020-05-05 18:31:52,769 - root - INFO - | Epoch: 102/150 | Train Time: 2.594s | Train Loss: 0.009958 |
+2020-05-05 18:31:55,338 - root - INFO - | Epoch: 103/150 | Train Time: 2.569s | Train Loss: 0.010072 |
+2020-05-05 18:31:57,989 - root - INFO - | Epoch: 104/150 | Train Time: 2.650s | Train Loss: 0.009885 |
+2020-05-05 18:32:00,181 - root - INFO - | Epoch: 105/150 | Train Time: 2.192s | Train Loss: 0.009849 |
+2020-05-05 18:32:02,294 - root - INFO - | Epoch: 106/150 | Train Time: 2.113s | Train Loss: 0.009848 |
+2020-05-05 18:32:04,737 - root - INFO - | Epoch: 107/150 | Train Time: 2.442s | Train Loss: 0.009759 |
+2020-05-05 18:32:07,106 - root - INFO - | Epoch: 108/150 | Train Time: 2.369s | Train Loss: 0.009703 |
+2020-05-05 18:32:09,600 - root - INFO - | Epoch: 109/150 | Train Time: 2.493s | Train Loss: 0.009694 |
+2020-05-05 18:32:11,842 - root - INFO - | Epoch: 110/150 | Train Time: 2.242s | Train Loss: 0.009769 |
+2020-05-05 18:32:13,877 - root - INFO - | Epoch: 111/150 | Train Time: 2.035s | Train Loss: 0.009747 |
+2020-05-05 18:32:15,975 - root - INFO - | Epoch: 112/150 | Train Time: 2.098s | Train Loss: 0.009729 |
+2020-05-05 18:32:18,298 - root - INFO - | Epoch: 113/150 | Train Time: 2.322s | Train Loss: 0.009674 |
+2020-05-05 18:32:20,913 - root - INFO - | Epoch: 114/150 | Train Time: 2.615s | Train Loss: 0.009632 |
+2020-05-05 18:32:23,256 - root - INFO - | Epoch: 115/150 | Train Time: 2.343s | Train Loss: 0.009610 |
+2020-05-05 18:32:25,871 - root - INFO - | Epoch: 116/150 | Train Time: 2.614s | Train Loss: 0.009550 |
+2020-05-05 18:32:28,469 - root - INFO - | Epoch: 117/150 | Train Time: 2.597s | Train Loss: 0.009635 |
+2020-05-05 18:32:31,115 - root - INFO - | Epoch: 118/150 | Train Time: 2.646s | Train Loss: 0.009506 |
+2020-05-05 18:32:33,609 - root - INFO - | Epoch: 119/150 | Train Time: 2.494s | Train Loss: 0.009491 |
+2020-05-05 18:32:35,900 - root - INFO - | Epoch: 120/150 | Train Time: 2.290s | Train Loss: 0.009538 |
+2020-05-05 18:32:38,591 - root - INFO - | Epoch: 121/150 | Train Time: 2.691s | Train Loss: 0.009490 |
+2020-05-05 18:32:41,388 - root - INFO - | Epoch: 122/150 | Train Time: 2.796s | Train Loss: 0.009630 |
+2020-05-05 18:32:43,932 - root - INFO - | Epoch: 123/150 | Train Time: 2.544s | Train Loss: 0.009455 |
+2020-05-05 18:32:46,187 - root - INFO - | Epoch: 124/150 | Train Time: 2.254s | Train Loss: 0.009478 |
+2020-05-05 18:32:48,667 - root - INFO - | Epoch: 125/150 | Train Time: 2.479s | Train Loss: 0.009505 |
+2020-05-05 18:32:50,630 - root - INFO - | Epoch: 126/150 | Train Time: 1.962s | Train Loss: 0.009497 |
+2020-05-05 18:32:52,722 - root - INFO - | Epoch: 127/150 | Train Time: 2.092s | Train Loss: 0.009316 |
+2020-05-05 18:32:55,476 - root - INFO - | Epoch: 128/150 | Train Time: 2.753s | Train Loss: 0.009284 |
+2020-05-05 18:32:57,649 - root - INFO - | Epoch: 129/150 | Train Time: 2.173s | Train Loss: 0.009317 |
+2020-05-05 18:33:00,064 - root - INFO - | Epoch: 130/150 | Train Time: 2.415s | Train Loss: 0.009307 |
+2020-05-05 18:33:02,389 - root - INFO - | Epoch: 131/150 | Train Time: 2.324s | Train Loss: 0.009220 |
+2020-05-05 18:33:04,450 - root - INFO - | Epoch: 132/150 | Train Time: 2.060s | Train Loss: 0.009235 |
+2020-05-05 18:33:06,541 - root - INFO - | Epoch: 133/150 | Train Time: 2.090s | Train Loss: 0.009336 |
+2020-05-05 18:33:08,835 - root - INFO - | Epoch: 134/150 | Train Time: 2.293s | Train Loss: 0.009321 |
+2020-05-05 18:33:11,002 - root - INFO - | Epoch: 135/150 | Train Time: 2.167s | Train Loss: 0.009229 |
+2020-05-05 18:33:13,419 - root - INFO - | Epoch: 136/150 | Train Time: 2.416s | Train Loss: 0.009233 |
+2020-05-05 18:33:16,062 - root - INFO - | Epoch: 137/150 | Train Time: 2.643s | Train Loss: 0.009277 |
+2020-05-05 18:33:18,710 - root - INFO - | Epoch: 138/150 | Train Time: 2.647s | Train Loss: 0.009277 |
+2020-05-05 18:33:21,153 - root - INFO - | Epoch: 139/150 | Train Time: 2.443s | Train Loss: 0.009392 |
+2020-05-05 18:33:23,804 - root - INFO - | Epoch: 140/150 | Train Time: 2.650s | Train Loss: 0.009203 |
+2020-05-05 18:33:25,926 - root - INFO - | Epoch: 141/150 | Train Time: 2.122s | Train Loss: 0.009207 |
+2020-05-05 18:33:28,278 - root - INFO - | Epoch: 142/150 | Train Time: 2.351s | Train Loss: 0.009226 |
+2020-05-05 18:33:30,645 - root - INFO - | Epoch: 143/150 | Train Time: 2.366s | Train Loss: 0.009117 |
+2020-05-05 18:33:33,027 - root - INFO - | Epoch: 144/150 | Train Time: 2.382s | Train Loss: 0.009002 |
+2020-05-05 18:33:35,325 - root - INFO - | Epoch: 145/150 | Train Time: 2.298s | Train Loss: 0.009087 |
+2020-05-05 18:33:37,619 - root - INFO - | Epoch: 146/150 | Train Time: 2.293s | Train Loss: 0.009042 |
+2020-05-05 18:33:39,721 - root - INFO - | Epoch: 147/150 | Train Time: 2.102s | Train Loss: 0.009138 |
+2020-05-05 18:33:42,050 - root - INFO - | Epoch: 148/150 | Train Time: 2.329s | Train Loss: 0.009020 |
+2020-05-05 18:33:44,821 - root - INFO - | Epoch: 149/150 | Train Time: 2.770s | Train Loss: 0.009011 |
+2020-05-05 18:33:47,130 - root - INFO - | Epoch: 150/150 | Train Time: 2.308s | Train Loss: 0.008983 |
+2020-05-05 18:33:47,130 - root - INFO - Pretraining Time: 358.738s
+2020-05-05 18:33:47,130 - root - INFO - Finished pretraining.
+2020-05-05 18:33:47,131 - root - INFO - Testing autoencoder...
+2020-05-05 18:33:48,952 - root - INFO - Test Loss: 0.016318
+2020-05-05 18:33:48,953 - root - INFO - Test AUC: 79.54%
+2020-05-05 18:33:48,953 - root - INFO - Test Time: 1.808s
+2020-05-05 18:33:48,953 - root - INFO - Finished testing autoencoder.
+2020-05-05 18:33:49,073 - root - INFO - Training optimizer: adam
+2020-05-05 18:33:49,074 - root - INFO - Training learning rate: 0.0001
+2020-05-05 18:33:49,074 - root - INFO - Training epochs: 150
+2020-05-05 18:33:49,074 - root - INFO - Training learning rate scheduler milestones: (50,)
+2020-05-05 18:33:49,074 - root - INFO - Training batch size: 200
+2020-05-05 18:33:49,074 - root - INFO - Training weight decay: 5e-07
+2020-05-05 18:33:49,085 - root - INFO - Initializing center c...
+2020-05-05 18:33:50,716 - root - INFO - Center c initialized.
+2020-05-05 18:33:50,717 - root - INFO - Starting training...
+2020-05-05 18:33:52,359 - root - INFO - | Epoch: 001/150 | Train Time: 1.642s | Train Loss: 9.328392 |
+2020-05-05 18:33:54,634 - root - INFO - | Epoch: 002/150 | Train Time: 2.274s | Train Loss: 2.657014 |
+2020-05-05 18:33:56,482 - root - INFO - | Epoch: 003/150 | Train Time: 1.847s | Train Loss: 1.282240 |
+2020-05-05 18:33:58,239 - root - INFO - | Epoch: 004/150 | Train Time: 1.756s | Train Loss: 0.857546 |
+2020-05-05 18:34:00,324 - root - INFO - | Epoch: 005/150 | Train Time: 2.084s | Train Loss: 0.666382 |
+2020-05-05 18:34:02,273 - root - INFO - | Epoch: 006/150 | Train Time: 1.949s | Train Loss: 0.554100 |
+2020-05-05 18:34:03,847 - root - INFO - | Epoch: 007/150 | Train Time: 1.573s | Train Loss: 0.474539 |
+2020-05-05 18:34:05,639 - root - INFO - | Epoch: 008/150 | Train Time: 1.792s | Train Loss: 0.418883 |
+2020-05-05 18:34:06,797 - root - INFO - | Epoch: 009/150 | Train Time: 1.158s | Train Loss: 0.374277 |
+2020-05-05 18:34:08,034 - root - INFO - | Epoch: 010/150 | Train Time: 1.237s | Train Loss: 0.338086 |
+2020-05-05 18:34:09,237 - root - INFO - | Epoch: 011/150 | Train Time: 1.203s | Train Loss: 0.310321 |
+2020-05-05 18:34:10,606 - root - INFO - | Epoch: 012/150 | Train Time: 1.368s | Train Loss: 0.286769 |
+2020-05-05 18:34:12,609 - root - INFO - | Epoch: 013/150 | Train Time: 2.002s | Train Loss: 0.265072 |
+2020-05-05 18:34:14,257 - root - INFO - | Epoch: 014/150 | Train Time: 1.647s | Train Loss: 0.247934 |
+2020-05-05 18:34:16,216 - root - INFO - | Epoch: 015/150 | Train Time: 1.958s | Train Loss: 0.235400 |
+2020-05-05 18:34:18,018 - root - INFO - | Epoch: 016/150 | Train Time: 1.802s | Train Loss: 0.222856 |
+2020-05-05 18:34:19,614 - root - INFO - | Epoch: 017/150 | Train Time: 1.595s | Train Loss: 0.207893 |
+2020-05-05 18:34:21,153 - root - INFO - | Epoch: 018/150 | Train Time: 1.538s | Train Loss: 0.201887 |
+2020-05-05 18:34:22,995 - root - INFO - | Epoch: 019/150 | Train Time: 1.842s | Train Loss: 0.191794 |
+2020-05-05 18:34:24,803 - root - INFO - | Epoch: 020/150 | Train Time: 1.807s | Train Loss: 0.183208 |
+2020-05-05 18:34:26,632 - root - INFO - | Epoch: 021/150 | Train Time: 1.828s | Train Loss: 0.176201 |
+2020-05-05 18:34:28,406 - root - INFO - | Epoch: 022/150 | Train Time: 1.774s | Train Loss: 0.168312 |
+2020-05-05 18:34:30,157 - root - INFO - | Epoch: 023/150 | Train Time: 1.751s | Train Loss: 0.162596 |
+2020-05-05 18:34:31,774 - root - INFO - | Epoch: 024/150 | Train Time: 1.616s | Train Loss: 0.155838 |
+2020-05-05 18:34:33,575 - root - INFO - | Epoch: 025/150 | Train Time: 1.800s | Train Loss: 0.150995 |
+2020-05-05 18:34:35,628 - root - INFO - | Epoch: 026/150 | Train Time: 2.053s | Train Loss: 0.144786 |
+2020-05-05 18:34:37,542 - root - INFO - | Epoch: 027/150 | Train Time: 1.913s | Train Loss: 0.140785 |
+2020-05-05 18:34:39,586 - root - INFO - | Epoch: 028/150 | Train Time: 2.043s | Train Loss: 0.140687 |
+2020-05-05 18:34:41,289 - root - INFO - | Epoch: 029/150 | Train Time: 1.703s | Train Loss: 0.134939 |
+2020-05-05 18:34:43,553 - root - INFO - | Epoch: 030/150 | Train Time: 2.263s | Train Loss: 0.132952 |
+2020-05-05 18:34:45,869 - root - INFO - | Epoch: 031/150 | Train Time: 2.316s | Train Loss: 0.129014 |
+2020-05-05 18:34:47,896 - root - INFO - | Epoch: 032/150 | Train Time: 2.026s | Train Loss: 0.124704 |
+2020-05-05 18:34:50,113 - root - INFO - | Epoch: 033/150 | Train Time: 2.217s | Train Loss: 0.121940 |
+2020-05-05 18:34:52,048 - root - INFO - | Epoch: 034/150 | Train Time: 1.935s | Train Loss: 0.120420 |
+2020-05-05 18:34:54,068 - root - INFO - | Epoch: 035/150 | Train Time: 2.019s | Train Loss: 0.115236 |
+2020-05-05 18:34:55,731 - root - INFO - | Epoch: 036/150 | Train Time: 1.663s | Train Loss: 0.113099 |
+2020-05-05 18:34:57,678 - root - INFO - | Epoch: 037/150 | Train Time: 1.946s | Train Loss: 0.110155 |
+2020-05-05 18:34:59,715 - root - INFO - | Epoch: 038/150 | Train Time: 2.037s | Train Loss: 0.108931 |
+2020-05-05 18:35:01,748 - root - INFO - | Epoch: 039/150 | Train Time: 2.032s | Train Loss: 0.106262 |
+2020-05-05 18:35:03,640 - root - INFO - | Epoch: 040/150 | Train Time: 1.892s | Train Loss: 0.109160 |
+2020-05-05 18:35:05,637 - root - INFO - | Epoch: 041/150 | Train Time: 1.996s | Train Loss: 0.105598 |
+2020-05-05 18:35:07,610 - root - INFO - | Epoch: 042/150 | Train Time: 1.973s | Train Loss: 0.101169 |
+2020-05-05 18:35:09,392 - root - INFO - | Epoch: 043/150 | Train Time: 1.782s | Train Loss: 0.099095 |
+2020-05-05 18:35:11,590 - root - INFO - | Epoch: 044/150 | Train Time: 2.197s | Train Loss: 0.095920 |
+2020-05-05 18:35:13,445 - root - INFO - | Epoch: 045/150 | Train Time: 1.855s | Train Loss: 0.095537 |
+2020-05-05 18:35:15,622 - root - INFO - | Epoch: 046/150 | Train Time: 2.176s | Train Loss: 0.095702 |
+2020-05-05 18:35:17,280 - root - INFO - | Epoch: 047/150 | Train Time: 1.658s | Train Loss: 0.093845 |
+2020-05-05 18:35:18,856 - root - INFO - | Epoch: 048/150 | Train Time: 1.576s | Train Loss: 0.090937 |
+2020-05-05 18:35:20,624 - root - INFO - | Epoch: 049/150 | Train Time: 1.768s | Train Loss: 0.090153 |
+2020-05-05 18:35:22,578 - root - INFO - | Epoch: 050/150 | Train Time: 1.954s | Train Loss: 0.087348 |
+2020-05-05 18:35:22,579 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2020-05-05 18:35:24,573 - root - INFO - | Epoch: 051/150 | Train Time: 1.994s | Train Loss: 0.084845 |
+2020-05-05 18:35:26,803 - root - INFO - | Epoch: 052/150 | Train Time: 2.230s | Train Loss: 0.085077 |
+2020-05-05 18:35:28,901 - root - INFO - | Epoch: 053/150 | Train Time: 2.098s | Train Loss: 0.086805 |
+2020-05-05 18:35:31,194 - root - INFO - | Epoch: 054/150 | Train Time: 2.292s | Train Loss: 0.086838 |
+2020-05-05 18:35:33,025 - root - INFO - | Epoch: 055/150 | Train Time: 1.830s | Train Loss: 0.087321 |
+2020-05-05 18:35:35,179 - root - INFO - | Epoch: 056/150 | Train Time: 2.153s | Train Loss: 0.085210 |
+2020-05-05 18:35:37,359 - root - INFO - | Epoch: 057/150 | Train Time: 2.179s | Train Loss: 0.085004 |
+2020-05-05 18:35:39,237 - root - INFO - | Epoch: 058/150 | Train Time: 1.878s | Train Loss: 0.085985 |
+2020-05-05 18:35:41,602 - root - INFO - | Epoch: 059/150 | Train Time: 2.365s | Train Loss: 0.085620 |
+2020-05-05 18:35:43,785 - root - INFO - | Epoch: 060/150 | Train Time: 2.182s | Train Loss: 0.084543 |
+2020-05-05 18:35:45,945 - root - INFO - | Epoch: 061/150 | Train Time: 2.160s | Train Loss: 0.083708 |
+2020-05-05 18:35:47,950 - root - INFO - | Epoch: 062/150 | Train Time: 2.004s | Train Loss: 0.083659 |
+2020-05-05 18:35:50,042 - root - INFO - | Epoch: 063/150 | Train Time: 2.092s | Train Loss: 0.083857 |
+2020-05-05 18:35:52,093 - root - INFO - | Epoch: 064/150 | Train Time: 2.050s | Train Loss: 0.085575 |
+2020-05-05 18:35:54,086 - root - INFO - | Epoch: 065/150 | Train Time: 1.993s | Train Loss: 0.084227 |
+2020-05-05 18:35:56,268 - root - INFO - | Epoch: 066/150 | Train Time: 2.182s | Train Loss: 0.084092 |
+2020-05-05 18:35:58,563 - root - INFO - | Epoch: 067/150 | Train Time: 2.294s | Train Loss: 0.086019 |
+2020-05-05 18:36:00,507 - root - INFO - | Epoch: 068/150 | Train Time: 1.943s | Train Loss: 0.083054 |
+2020-05-05 18:36:02,588 - root - INFO - | Epoch: 069/150 | Train Time: 2.081s | Train Loss: 0.082824 |
+2020-05-05 18:36:04,524 - root - INFO - | Epoch: 070/150 | Train Time: 1.935s | Train Loss: 0.082881 |
+2020-05-05 18:36:06,407 - root - INFO - | Epoch: 071/150 | Train Time: 1.883s | Train Loss: 0.084227 |
+2020-05-05 18:36:08,019 - root - INFO - | Epoch: 072/150 | Train Time: 1.611s | Train Loss: 0.082901 |
+2020-05-05 18:36:09,621 - root - INFO - | Epoch: 073/150 | Train Time: 1.601s | Train Loss: 0.080794 |
+2020-05-05 18:36:11,598 - root - INFO - | Epoch: 074/150 | Train Time: 1.977s | Train Loss: 0.082054 |
+2020-05-05 18:36:13,672 - root - INFO - | Epoch: 075/150 | Train Time: 2.073s | Train Loss: 0.082179 |
+2020-05-05 18:36:15,788 - root - INFO - | Epoch: 076/150 | Train Time: 2.115s | Train Loss: 0.080575 |
+2020-05-05 18:36:17,780 - root - INFO - | Epoch: 077/150 | Train Time: 1.991s | Train Loss: 0.082063 |
+2020-05-05 18:36:19,528 - root - INFO - | Epoch: 078/150 | Train Time: 1.747s | Train Loss: 0.082102 |
+2020-05-05 18:36:21,392 - root - INFO - | Epoch: 079/150 | Train Time: 1.863s | Train Loss: 0.080825 |
+2020-05-05 18:36:23,408 - root - INFO - | Epoch: 080/150 | Train Time: 2.016s | Train Loss: 0.081082 |
+2020-05-05 18:36:25,164 - root - INFO - | Epoch: 081/150 | Train Time: 1.755s | Train Loss: 0.081123 |
+2020-05-05 18:36:27,540 - root - INFO - | Epoch: 082/150 | Train Time: 2.375s | Train Loss: 0.079943 |
+2020-05-05 18:36:29,538 - root - INFO - | Epoch: 083/150 | Train Time: 1.998s | Train Loss: 0.080324 |
+2020-05-05 18:36:31,669 - root - INFO - | Epoch: 084/150 | Train Time: 2.130s | Train Loss: 0.079731 |
+2020-05-05 18:36:33,411 - root - INFO - | Epoch: 085/150 | Train Time: 1.741s | Train Loss: 0.078800 |
+2020-05-05 18:36:34,912 - root - INFO - | Epoch: 086/150 | Train Time: 1.500s | Train Loss: 0.079472 |
+2020-05-05 18:36:37,246 - root - INFO - | Epoch: 087/150 | Train Time: 2.334s | Train Loss: 0.080238 |
+2020-05-05 18:36:39,417 - root - INFO - | Epoch: 088/150 | Train Time: 2.170s | Train Loss: 0.077271 |
+2020-05-05 18:36:41,238 - root - INFO - | Epoch: 089/150 | Train Time: 1.820s | Train Loss: 0.080520 |
+2020-05-05 18:36:43,644 - root - INFO - | Epoch: 090/150 | Train Time: 2.406s | Train Loss: 0.078052 |
+2020-05-05 18:36:45,936 - root - INFO - | Epoch: 091/150 | Train Time: 2.292s | Train Loss: 0.079855 |
+2020-05-05 18:36:48,039 - root - INFO - | Epoch: 092/150 | Train Time: 2.103s | Train Loss: 0.079153 |
+2020-05-05 18:36:49,785 - root - INFO - | Epoch: 093/150 | Train Time: 1.745s | Train Loss: 0.078874 |
+2020-05-05 18:36:52,008 - root - INFO - | Epoch: 094/150 | Train Time: 2.222s | Train Loss: 0.078046 |
+2020-05-05 18:36:53,971 - root - INFO - | Epoch: 095/150 | Train Time: 1.963s | Train Loss: 0.078493 |
+2020-05-05 18:36:56,108 - root - INFO - | Epoch: 096/150 | Train Time: 2.134s | Train Loss: 0.078984 |
+2020-05-05 18:36:58,283 - root - INFO - | Epoch: 097/150 | Train Time: 2.175s | Train Loss: 0.078387 |
+2020-05-05 18:37:00,786 - root - INFO - | Epoch: 098/150 | Train Time: 2.502s | Train Loss: 0.075900 |
+2020-05-05 18:37:02,613 - root - INFO - | Epoch: 099/150 | Train Time: 1.827s | Train Loss: 0.075682 |
+2020-05-05 18:37:04,711 - root - INFO - | Epoch: 100/150 | Train Time: 2.095s | Train Loss: 0.077033 |
+2020-05-05 18:37:06,943 - root - INFO - | Epoch: 101/150 | Train Time: 2.231s | Train Loss: 0.077936 |
+2020-05-05 18:37:08,908 - root - INFO - | Epoch: 102/150 | Train Time: 1.964s | Train Loss: 0.076066 |
+2020-05-05 18:37:10,973 - root - INFO - | Epoch: 103/150 | Train Time: 2.064s | Train Loss: 0.076414 |
+2020-05-05 18:37:13,009 - root - INFO - | Epoch: 104/150 | Train Time: 2.036s | Train Loss: 0.075921 |
+2020-05-05 18:37:15,255 - root - INFO - | Epoch: 105/150 | Train Time: 2.245s | Train Loss: 0.074443 |
+2020-05-05 18:37:17,197 - root - INFO - | Epoch: 106/150 | Train Time: 1.942s | Train Loss: 0.074916 |
+2020-05-05 18:37:19,208 - root - INFO - | Epoch: 107/150 | Train Time: 2.010s | Train Loss: 0.074390 |
+2020-05-05 18:37:21,125 - root - INFO - | Epoch: 108/150 | Train Time: 1.916s | Train Loss: 0.074040 |
+2020-05-05 18:37:23,390 - root - INFO - | Epoch: 109/150 | Train Time: 2.265s | Train Loss: 0.076207 |
+2020-05-05 18:37:25,268 - root - INFO - | Epoch: 110/150 | Train Time: 1.878s | Train Loss: 0.075908 |
+2020-05-05 18:37:27,345 - root - INFO - | Epoch: 111/150 | Train Time: 2.076s | Train Loss: 0.073722 |
+2020-05-05 18:37:29,328 - root - INFO - | Epoch: 112/150 | Train Time: 1.982s | Train Loss: 0.074208 |
+2020-05-05 18:37:30,979 - root - INFO - | Epoch: 113/150 | Train Time: 1.650s | Train Loss: 0.073524 |
+2020-05-05 18:37:32,917 - root - INFO - | Epoch: 114/150 | Train Time: 1.938s | Train Loss: 0.074835 |
+2020-05-05 18:37:34,997 - root - INFO - | Epoch: 115/150 | Train Time: 2.080s | Train Loss: 0.072943 |
+2020-05-05 18:37:37,368 - root - INFO - | Epoch: 116/150 | Train Time: 2.371s | Train Loss: 0.072939 |
+2020-05-05 18:37:39,688 - root - INFO - | Epoch: 117/150 | Train Time: 2.319s | Train Loss: 0.072634 |
+2020-05-05 18:37:41,886 - root - INFO - | Epoch: 118/150 | Train Time: 2.197s | Train Loss: 0.073121 |
+2020-05-05 18:37:44,132 - root - INFO - | Epoch: 119/150 | Train Time: 2.246s | Train Loss: 0.072882 |
+2020-05-05 18:37:46,015 - root - INFO - | Epoch: 120/150 | Train Time: 1.883s | Train Loss: 0.073542 |
+2020-05-05 18:37:47,977 - root - INFO - | Epoch: 121/150 | Train Time: 1.961s | Train Loss: 0.073812 |
+2020-05-05 18:37:49,975 - root - INFO - | Epoch: 122/150 | Train Time: 1.998s | Train Loss: 0.072377 |
+2020-05-05 18:37:52,175 - root - INFO - | Epoch: 123/150 | Train Time: 2.200s | Train Loss: 0.071746 |
+2020-05-05 18:37:54,008 - root - INFO - | Epoch: 124/150 | Train Time: 1.832s | Train Loss: 0.071440 |
+2020-05-05 18:37:56,329 - root - INFO - | Epoch: 125/150 | Train Time: 2.320s | Train Loss: 0.072499 |
+2020-05-05 18:37:58,455 - root - INFO - | Epoch: 126/150 | Train Time: 2.126s | Train Loss: 0.070910 |
+2020-05-05 18:38:00,476 - root - INFO - | Epoch: 127/150 | Train Time: 2.020s | Train Loss: 0.070181 |
+2020-05-05 18:38:02,745 - root - INFO - | Epoch: 128/150 | Train Time: 2.268s | Train Loss: 0.069146 |
+2020-05-05 18:38:04,453 - root - INFO - | Epoch: 129/150 | Train Time: 1.708s | Train Loss: 0.070741 |
+2020-05-05 18:38:06,589 - root - INFO - | Epoch: 130/150 | Train Time: 2.136s | Train Loss: 0.070399 |
+2020-05-05 18:38:08,404 - root - INFO - | Epoch: 131/150 | Train Time: 1.814s | Train Loss: 0.068928 |
+2020-05-05 18:38:10,467 - root - INFO - | Epoch: 132/150 | Train Time: 2.063s | Train Loss: 0.069969 |
+2020-05-05 18:38:12,470 - root - INFO - | Epoch: 133/150 | Train Time: 2.002s | Train Loss: 0.069642 |
+2020-05-05 18:38:13,827 - root - INFO - | Epoch: 134/150 | Train Time: 1.357s | Train Loss: 0.070864 |
+2020-05-05 18:38:15,500 - root - INFO - | Epoch: 135/150 | Train Time: 1.672s | Train Loss: 0.069134 |
+2020-05-05 18:38:17,261 - root - INFO - | Epoch: 136/150 | Train Time: 1.761s | Train Loss: 0.069746 |
+2020-05-05 18:38:18,918 - root - INFO - | Epoch: 137/150 | Train Time: 1.657s | Train Loss: 0.067616 |
+2020-05-05 18:38:20,441 - root - INFO - | Epoch: 138/150 | Train Time: 1.523s | Train Loss: 0.067762 |
+2020-05-05 18:38:22,476 - root - INFO - | Epoch: 139/150 | Train Time: 2.034s | Train Loss: 0.067341 |
+2020-05-05 18:38:24,494 - root - INFO - | Epoch: 140/150 | Train Time: 2.018s | Train Loss: 0.066798 |
+2020-05-05 18:38:26,342 - root - INFO - | Epoch: 141/150 | Train Time: 1.847s | Train Loss: 0.068220 |
+2020-05-05 18:38:28,885 - root - INFO - | Epoch: 142/150 | Train Time: 2.542s | Train Loss: 0.067933 |
+2020-05-05 18:38:30,955 - root - INFO - | Epoch: 143/150 | Train Time: 2.069s | Train Loss: 0.067993 |
+2020-05-05 18:38:32,975 - root - INFO - | Epoch: 144/150 | Train Time: 2.020s | Train Loss: 0.066645 |
+2020-05-05 18:38:35,275 - root - INFO - | Epoch: 145/150 | Train Time: 2.299s | Train Loss: 0.065551 |
+2020-05-05 18:38:37,319 - root - INFO - | Epoch: 146/150 | Train Time: 2.043s | Train Loss: 0.065808 |
+2020-05-05 18:38:39,256 - root - INFO - | Epoch: 147/150 | Train Time: 1.937s | Train Loss: 0.067860 |
+2020-05-05 18:38:41,373 - root - INFO - | Epoch: 148/150 | Train Time: 2.116s | Train Loss: 0.065676 |
+2020-05-05 18:38:43,300 - root - INFO - | Epoch: 149/150 | Train Time: 1.926s | Train Loss: 0.066159 |
+2020-05-05 18:38:45,317 - root - INFO - | Epoch: 150/150 | Train Time: 2.017s | Train Loss: 0.065711 |
+2020-05-05 18:38:45,317 - root - INFO - Training Time: 294.601s
+2020-05-05 18:38:45,318 - root - INFO - Finished training.
+2020-05-05 18:38:45,319 - root - INFO - Starting testing...
+2020-05-05 18:38:47,718 - root - INFO - Test Loss: 0.354434
+2020-05-05 18:38:47,719 - root - INFO - Test AUC: 84.59%
+2020-05-05 18:38:47,719 - root - INFO - Test Time: 2.387s
+2020-05-05 18:38:47,719 - root - INFO - Finished testing.
+2020-05-05 18:39:01,548 - root - INFO - Log file is ../log/fmnist/scenario_1/deepSAD//log_0_4_1_0.txt
+2020-05-05 18:39:01,548 - root - INFO - Data path is ../data
+2020-05-05 18:39:01,548 - root - INFO - Export path is ../log/fmnist/scenario_1/deepSAD/
+2020-05-05 18:39:01,548 - root - INFO - Dataset: fmnist
+2020-05-05 18:39:01,548 - root - INFO - Normal class: 0
+2020-05-05 18:39:01,548 - root - INFO - Ratio of labeled normal train samples: 0.00
+2020-05-05 18:39:01,548 - root - INFO - Ratio of labeled anomalous samples: 0.10
+2020-05-05 18:39:01,549 - root - INFO - Pollution ratio of unlabeled train data: 0.10
+2020-05-05 18:39:01,549 - root - INFO - Scenario Running: 3
+2020-05-05 18:39:01,549 - root - INFO - Output and AE dimensions: 128
+2020-05-05 18:39:01,549 - root - INFO - Known anomaly class: 4
+2020-05-05 18:39:01,549 - root - INFO - Network: fmnist_LeNet
+2020-05-05 18:39:01,549 - root - INFO - Eta-parameter: 1.00
+2020-05-05 18:39:01,555 - root - INFO - Set seed to 0.
+2020-05-05 18:39:01,711 - root - INFO - Computation device: cuda
+2020-05-05 18:39:01,712 - root - INFO - Number of threads: 0
+2020-05-05 18:39:01,712 - root - INFO - Number of dataloader workers: 6
+2020-05-05 18:39:01,836 - root - INFO - Pretraining: True
+2020-05-05 18:39:01,846 - root - INFO - Pretraining optimizer: adam
+2020-05-05 18:39:01,847 - root - INFO - Pretraining learning rate: 0.0001
+2020-05-05 18:39:01,847 - root - INFO - Pretraining epochs: 150
+2020-05-05 18:39:01,847 - root - INFO - Pretraining learning rate scheduler milestones: ()
+2020-05-05 18:39:01,847 - root - INFO - Pretraining batch size: 200
+2020-05-05 18:39:01,847 - root - INFO - Pretraining weight decay: 0.0005
+2020-05-05 18:39:09,110 - root - INFO - Starting pretraining...
+2020-05-05 18:39:15,951 - root - INFO - | Epoch: 001/150 | Train Time: 6.831s | Train Loss: 0.095626 |
+2020-05-05 18:39:18,581 - root - INFO - | Epoch: 002/150 | Train Time: 2.629s | Train Loss: 0.042421 |
+2020-05-05 18:39:21,256 - root - INFO - | Epoch: 003/150 | Train Time: 2.675s | Train Loss: 0.032771 |
+2020-05-05 18:39:23,779 - root - INFO - | Epoch: 004/150 | Train Time: 2.522s | Train Loss: 0.028507 |
+2020-05-05 18:39:26,463 - root - INFO - | Epoch: 005/150 | Train Time: 2.684s | Train Loss: 0.025936 |
+2020-05-05 18:39:28,793 - root - INFO - | Epoch: 006/150 | Train Time: 2.329s | Train Loss: 0.024109 |
+2020-05-05 18:39:31,222 - root - INFO - | Epoch: 007/150 | Train Time: 2.428s | Train Loss: 0.022820 |
+2020-05-05 18:39:33,365 - root - INFO - | Epoch: 008/150 | Train Time: 2.143s | Train Loss: 0.021771 |
+2020-05-05 18:39:35,441 - root - INFO - | Epoch: 009/150 | Train Time: 2.076s | Train Loss: 0.020883 |
+2020-05-05 18:39:37,316 - root - INFO - | Epoch: 010/150 | Train Time: 1.875s | Train Loss: 0.020152 |
+2020-05-05 18:39:39,704 - root - INFO - | Epoch: 011/150 | Train Time: 2.387s | Train Loss: 0.019635 |
+2020-05-05 18:39:42,419 - root - INFO - | Epoch: 012/150 | Train Time: 2.714s | Train Loss: 0.019125 |
+2020-05-05 18:39:45,040 - root - INFO - | Epoch: 013/150 | Train Time: 2.620s | Train Loss: 0.018589 |
+2020-05-05 18:39:47,435 - root - INFO - | Epoch: 014/150 | Train Time: 2.395s | Train Loss: 0.018191 |
+2020-05-05 18:39:49,822 - root - INFO - | Epoch: 015/150 | Train Time: 2.386s | Train Loss: 0.017786 |
+2020-05-05 18:39:52,235 - root - INFO - | Epoch: 016/150 | Train Time: 2.413s | Train Loss: 0.017407 |
+2020-05-05 18:39:54,628 - root - INFO - | Epoch: 017/150 | Train Time: 2.392s | Train Loss: 0.017034 |
+2020-05-05 18:39:56,841 - root - INFO - | Epoch: 018/150 | Train Time: 2.212s | Train Loss: 0.016769 |
+2020-05-05 18:39:59,428 - root - INFO - | Epoch: 019/150 | Train Time: 2.587s | Train Loss: 0.016516 |
+2020-05-05 18:40:01,828 - root - INFO - | Epoch: 020/150 | Train Time: 2.399s | Train Loss: 0.016107 |
+2020-05-05 18:40:04,176 - root - INFO - | Epoch: 021/150 | Train Time: 2.348s | Train Loss: 0.016020 |
+2020-05-05 18:40:07,207 - root - INFO - | Epoch: 022/150 | Train Time: 3.031s | Train Loss: 0.015740 |
+2020-05-05 18:40:09,530 - root - INFO - | Epoch: 023/150 | Train Time: 2.322s | Train Loss: 0.015455 |
+2020-05-05 18:40:12,077 - root - INFO - | Epoch: 024/150 | Train Time: 2.547s | Train Loss: 0.015213 |
+2020-05-05 18:40:14,723 - root - INFO - | Epoch: 025/150 | Train Time: 2.645s | Train Loss: 0.015035 |
+2020-05-05 18:40:17,136 - root - INFO - | Epoch: 026/150 | Train Time: 2.413s | Train Loss: 0.014828 |
+2020-05-05 18:40:19,181 - root - INFO - | Epoch: 027/150 | Train Time: 2.044s | Train Loss: 0.014689 |
+2020-05-05 18:40:21,427 - root - INFO - | Epoch: 028/150 | Train Time: 2.246s | Train Loss: 0.014607 |
+2020-05-05 18:40:23,857 - root - INFO - | Epoch: 029/150 | Train Time: 2.429s | Train Loss: 0.014468 |
+2020-05-05 18:40:26,082 - root - INFO - | Epoch: 030/150 | Train Time: 2.224s | Train Loss: 0.014285 |
+2020-05-05 18:40:28,725 - root - INFO - | Epoch: 031/150 | Train Time: 2.643s | Train Loss: 0.014228 |
+2020-05-05 18:40:31,234 - root - INFO - | Epoch: 032/150 | Train Time: 2.509s | Train Loss: 0.014102 |
+2020-05-05 18:40:33,640 - root - INFO - | Epoch: 033/150 | Train Time: 2.405s | Train Loss: 0.013810 |
+2020-05-05 18:40:36,578 - root - INFO - | Epoch: 034/150 | Train Time: 2.937s | Train Loss: 0.013595 |
+2020-05-05 18:40:38,901 - root - INFO - | Epoch: 035/150 | Train Time: 2.323s | Train Loss: 0.013542 |
+2020-05-05 18:40:41,403 - root - INFO - | Epoch: 036/150 | Train Time: 2.502s | Train Loss: 0.013408 |
+2020-05-05 18:40:43,921 - root - INFO - | Epoch: 037/150 | Train Time: 2.517s | Train Loss: 0.013278 |
+2020-05-05 18:40:46,447 - root - INFO - | Epoch: 038/150 | Train Time: 2.525s | Train Loss: 0.013112 |
+2020-05-05 18:40:48,951 - root - INFO - | Epoch: 039/150 | Train Time: 2.504s | Train Loss: 0.013126 |
+2020-05-05 18:40:51,492 - root - INFO - | Epoch: 040/150 | Train Time: 2.541s | Train Loss: 0.012914 |
+2020-05-05 18:40:53,765 - root - INFO - | Epoch: 041/150 | Train Time: 2.272s | Train Loss: 0.012855 |
+2020-05-05 18:40:56,168 - root - INFO - | Epoch: 042/150 | Train Time: 2.403s | Train Loss: 0.012803 |
+2020-05-05 18:40:58,395 - root - INFO - | Epoch: 043/150 | Train Time: 2.226s | Train Loss: 0.012701 |
+2020-05-05 18:41:00,895 - root - INFO - | Epoch: 044/150 | Train Time: 2.499s | Train Loss: 0.012664 |
+2020-05-05 18:41:03,398 - root - INFO - | Epoch: 045/150 | Train Time: 2.503s | Train Loss: 0.012561 |
+2020-05-05 18:41:05,865 - root - INFO - | Epoch: 046/150 | Train Time: 2.466s | Train Loss: 0.012515 |
+2020-05-05 18:41:08,269 - root - INFO - | Epoch: 047/150 | Train Time: 2.404s | Train Loss: 0.012333 |
+2020-05-05 18:41:10,430 - root - INFO - | Epoch: 048/150 | Train Time: 2.160s | Train Loss: 0.012229 |
+2020-05-05 18:41:12,752 - root - INFO - | Epoch: 049/150 | Train Time: 2.322s | Train Loss: 0.012131 |
+2020-05-05 18:41:15,380 - root - INFO - | Epoch: 050/150 | Train Time: 2.627s | Train Loss: 0.012066 |
+2020-05-05 18:41:17,723 - root - INFO - | Epoch: 051/150 | Train Time: 2.343s | Train Loss: 0.011973 |
+2020-05-05 18:41:20,313 - root - INFO - | Epoch: 052/150 | Train Time: 2.590s | Train Loss: 0.011992 |
+2020-05-05 18:41:23,057 - root - INFO - | Epoch: 053/150 | Train Time: 2.743s | Train Loss: 0.011934 |
+2020-05-05 18:41:25,642 - root - INFO - | Epoch: 054/150 | Train Time: 2.585s | Train Loss: 0.011891 |
+2020-05-05 18:41:28,051 - root - INFO - | Epoch: 055/150 | Train Time: 2.409s | Train Loss: 0.011785 |
+2020-05-05 18:41:31,068 - root - INFO - | Epoch: 056/150 | Train Time: 3.016s | Train Loss: 0.011724 |
+2020-05-05 18:41:33,674 - root - INFO - | Epoch: 057/150 | Train Time: 2.606s | Train Loss: 0.011572 |
+2020-05-05 18:41:35,880 - root - INFO - | Epoch: 058/150 | Train Time: 2.205s | Train Loss: 0.011571 |
+2020-05-05 18:41:38,680 - root - INFO - | Epoch: 059/150 | Train Time: 2.800s | Train Loss: 0.011629 |
+2020-05-05 18:41:40,667 - root - INFO - | Epoch: 060/150 | Train Time: 1.986s | Train Loss: 0.011478 |
+2020-05-05 18:41:43,564 - root - INFO - | Epoch: 061/150 | Train Time: 2.897s | Train Loss: 0.011297 |
+2020-05-05 18:41:46,080 - root - INFO - | Epoch: 062/150 | Train Time: 2.516s | Train Loss: 0.011349 |
+2020-05-05 18:41:48,622 - root - INFO - | Epoch: 063/150 | Train Time: 2.541s | Train Loss: 0.011374 |
+2020-05-05 18:41:51,348 - root - INFO - | Epoch: 064/150 | Train Time: 2.726s | Train Loss: 0.011242 |
+2020-05-05 18:41:53,955 - root - INFO - | Epoch: 065/150 | Train Time: 2.606s | Train Loss: 0.011219 |
+2020-05-05 18:41:56,417 - root - INFO - | Epoch: 066/150 | Train Time: 2.462s | Train Loss: 0.011182 |
+2020-05-05 18:41:58,995 - root - INFO - | Epoch: 067/150 | Train Time: 2.577s | Train Loss: 0.011197 |
+2020-05-05 18:42:01,324 - root - INFO - | Epoch: 068/150 | Train Time: 2.329s | Train Loss: 0.011164 |
+2020-05-05 18:42:03,793 - root - INFO - | Epoch: 069/150 | Train Time: 2.469s | Train Loss: 0.011009 |
+2020-05-05 18:42:06,344 - root - INFO - | Epoch: 070/150 | Train Time: 2.550s | Train Loss: 0.010948 |
+2020-05-05 18:42:08,867 - root - INFO - | Epoch: 071/150 | Train Time: 2.522s | Train Loss: 0.010890 |
+2020-05-05 18:42:11,348 - root - INFO - | Epoch: 072/150 | Train Time: 2.481s | Train Loss: 0.010925 |
+2020-05-05 18:42:13,983 - root - INFO - | Epoch: 073/150 | Train Time: 2.634s | Train Loss: 0.010801 |
+2020-05-05 18:42:16,307 - root - INFO - | Epoch: 074/150 | Train Time: 2.324s | Train Loss: 0.010691 |
+2020-05-05 18:42:18,657 - root - INFO - | Epoch: 075/150 | Train Time: 2.349s | Train Loss: 0.010722 |
+2020-05-05 18:42:20,811 - root - INFO - | Epoch: 076/150 | Train Time: 2.154s | Train Loss: 0.010770 |
+2020-05-05 18:42:23,043 - root - INFO - | Epoch: 077/150 | Train Time: 2.231s | Train Loss: 0.010754 |
+2020-05-05 18:42:25,128 - root - INFO - | Epoch: 078/150 | Train Time: 2.084s | Train Loss: 0.010635 |
+2020-05-05 18:42:27,733 - root - INFO - | Epoch: 079/150 | Train Time: 2.605s | Train Loss: 0.010558 |
+2020-05-05 18:42:29,855 - root - INFO - | Epoch: 080/150 | Train Time: 2.122s | Train Loss: 0.010461 |
+2020-05-05 18:42:32,372 - root - INFO - | Epoch: 081/150 | Train Time: 2.517s | Train Loss: 0.010552 |
+2020-05-05 18:42:34,875 - root - INFO - | Epoch: 082/150 | Train Time: 2.502s | Train Loss: 0.010438 |
+2020-05-05 18:42:37,482 - root - INFO - | Epoch: 083/150 | Train Time: 2.607s | Train Loss: 0.010433 |
+2020-05-05 18:42:39,993 - root - INFO - | Epoch: 084/150 | Train Time: 2.510s | Train Loss: 0.010407 |
+2020-05-05 18:42:42,211 - root - INFO - | Epoch: 085/150 | Train Time: 2.218s | Train Loss: 0.010413 |
+2020-05-05 18:42:44,369 - root - INFO - | Epoch: 086/150 | Train Time: 2.157s | Train Loss: 0.010400 |
+2020-05-05 18:42:47,007 - root - INFO - | Epoch: 087/150 | Train Time: 2.637s | Train Loss: 0.010343 |
+2020-05-05 18:42:49,455 - root - INFO - | Epoch: 088/150 | Train Time: 2.448s | Train Loss: 0.010248 |
+2020-05-05 18:42:51,819 - root - INFO - | Epoch: 089/150 | Train Time: 2.363s | Train Loss: 0.010297 |
+2020-05-05 18:42:54,346 - root - INFO - | Epoch: 090/150 | Train Time: 2.527s | Train Loss: 0.010159 |
+2020-05-05 18:42:56,941 - root - INFO - | Epoch: 091/150 | Train Time: 2.594s | Train Loss: 0.010207 |
+2020-05-05 18:42:59,443 - root - INFO - | Epoch: 092/150 | Train Time: 2.502s | Train Loss: 0.010132 |
+2020-05-05 18:43:02,074 - root - INFO - | Epoch: 093/150 | Train Time: 2.630s | Train Loss: 0.010050 |
+2020-05-05 18:43:04,626 - root - INFO - | Epoch: 094/150 | Train Time: 2.551s | Train Loss: 0.010167 |
+2020-05-05 18:43:07,038 - root - INFO - | Epoch: 095/150 | Train Time: 2.412s | Train Loss: 0.010093 |
+2020-05-05 18:43:09,714 - root - INFO - | Epoch: 096/150 | Train Time: 2.675s | Train Loss: 0.010067 |
+2020-05-05 18:43:12,222 - root - INFO - | Epoch: 097/150 | Train Time: 2.508s | Train Loss: 0.010037 |
+2020-05-05 18:43:15,048 - root - INFO - | Epoch: 098/150 | Train Time: 2.825s | Train Loss: 0.009964 |
+2020-05-05 18:43:17,900 - root - INFO - | Epoch: 099/150 | Train Time: 2.852s | Train Loss: 0.009970 |
+2020-05-05 18:43:20,817 - root - INFO - | Epoch: 100/150 | Train Time: 2.917s | Train Loss: 0.010114 |
+2020-05-05 18:43:23,124 - root - INFO - | Epoch: 101/150 | Train Time: 2.306s | Train Loss: 0.009972 |
+2020-05-05 18:43:25,436 - root - INFO - | Epoch: 102/150 | Train Time: 2.312s | Train Loss: 0.009954 |
+2020-05-05 18:43:28,311 - root - INFO - | Epoch: 103/150 | Train Time: 2.875s | Train Loss: 0.009871 |
+2020-05-05 18:43:31,237 - root - INFO - | Epoch: 104/150 | Train Time: 2.926s | Train Loss: 0.009851 |
+2020-05-05 18:43:33,774 - root - INFO - | Epoch: 105/150 | Train Time: 2.536s | Train Loss: 0.009763 |
+2020-05-05 18:43:35,707 - root - INFO - | Epoch: 106/150 | Train Time: 1.933s | Train Loss: 0.009697 |
+2020-05-05 18:43:38,295 - root - INFO - | Epoch: 107/150 | Train Time: 2.588s | Train Loss: 0.009648 |
+2020-05-05 18:43:41,244 - root - INFO - | Epoch: 108/150 | Train Time: 2.949s | Train Loss: 0.009652 |
+2020-05-05 18:43:43,818 - root - INFO - | Epoch: 109/150 | Train Time: 2.574s | Train Loss: 0.009744 |
+2020-05-05 18:43:46,189 - root - INFO - | Epoch: 110/150 | Train Time: 2.370s | Train Loss: 0.009700 |
+2020-05-05 18:43:48,858 - root - INFO - | Epoch: 111/150 | Train Time: 2.669s | Train Loss: 0.009651 |
+2020-05-05 18:43:51,514 - root - INFO - | Epoch: 112/150 | Train Time: 2.655s | Train Loss: 0.009627 |
+2020-05-05 18:43:54,262 - root - INFO - | Epoch: 113/150 | Train Time: 2.747s | Train Loss: 0.009637 |
+2020-05-05 18:43:57,031 - root - INFO - | Epoch: 114/150 | Train Time: 2.769s | Train Loss: 0.009610 |
+2020-05-05 18:43:59,536 - root - INFO - | Epoch: 115/150 | Train Time: 2.504s | Train Loss: 0.009566 |
+2020-05-05 18:44:02,358 - root - INFO - | Epoch: 116/150 | Train Time: 2.819s | Train Loss: 0.009628 |
+2020-05-05 18:44:04,817 - root - INFO - | Epoch: 117/150 | Train Time: 2.459s | Train Loss: 0.009635 |
+2020-05-05 18:44:07,052 - root - INFO - | Epoch: 118/150 | Train Time: 2.235s | Train Loss: 0.009491 |
+2020-05-05 18:44:09,375 - root - INFO - | Epoch: 119/150 | Train Time: 2.322s | Train Loss: 0.009538 |
+2020-05-05 18:44:11,953 - root - INFO - | Epoch: 120/150 | Train Time: 2.578s | Train Loss: 0.009416 |
+2020-05-05 18:44:14,502 - root - INFO - | Epoch: 121/150 | Train Time: 2.548s | Train Loss: 0.009437 |
+2020-05-05 18:44:17,259 - root - INFO - | Epoch: 122/150 | Train Time: 2.756s | Train Loss: 0.009493 |
+2020-05-05 18:44:19,695 - root - INFO - | Epoch: 123/150 | Train Time: 2.435s | Train Loss: 0.009539 |
+2020-05-05 18:44:22,436 - root - INFO - | Epoch: 124/150 | Train Time: 2.741s | Train Loss: 0.009553 |
+2020-05-05 18:44:24,641 - root - INFO - | Epoch: 125/150 | Train Time: 2.204s | Train Loss: 0.009413 |
+2020-05-05 18:44:26,634 - root - INFO - | Epoch: 126/150 | Train Time: 1.993s | Train Loss: 0.009339 |
+2020-05-05 18:44:28,532 - root - INFO - | Epoch: 127/150 | Train Time: 1.898s | Train Loss: 0.009297 |
+2020-05-05 18:44:31,040 - root - INFO - | Epoch: 128/150 | Train Time: 2.508s | Train Loss: 0.009231 |
+2020-05-05 18:44:33,482 - root - INFO - | Epoch: 129/150 | Train Time: 2.441s | Train Loss: 0.009319 |
+2020-05-05 18:44:36,062 - root - INFO - | Epoch: 130/150 | Train Time: 2.579s | Train Loss: 0.009294 |
+2020-05-05 18:44:38,341 - root - INFO - | Epoch: 131/150 | Train Time: 2.279s | Train Loss: 0.009550 |
+2020-05-05 18:44:40,901 - root - INFO - | Epoch: 132/150 | Train Time: 2.559s | Train Loss: 0.009240 |
+2020-05-05 18:44:43,589 - root - INFO - | Epoch: 133/150 | Train Time: 2.688s | Train Loss: 0.009249 |
+2020-05-05 18:44:46,285 - root - INFO - | Epoch: 134/150 | Train Time: 2.695s | Train Loss: 0.009150 |
+2020-05-05 18:44:48,706 - root - INFO - | Epoch: 135/150 | Train Time: 2.421s | Train Loss: 0.009265 |
+2020-05-05 18:44:51,414 - root - INFO - | Epoch: 136/150 | Train Time: 2.708s | Train Loss: 0.009288 |
+2020-05-05 18:44:54,455 - root - INFO - | Epoch: 137/150 | Train Time: 3.039s | Train Loss: 0.009255 |
+2020-05-05 18:44:56,966 - root - INFO - | Epoch: 138/150 | Train Time: 2.510s | Train Loss: 0.009240 |
+2020-05-05 18:44:59,336 - root - INFO - | Epoch: 139/150 | Train Time: 2.370s | Train Loss: 0.009135 |
+2020-05-05 18:45:01,657 - root - INFO - | Epoch: 140/150 | Train Time: 2.320s | Train Loss: 0.009189 |
+2020-05-05 18:45:04,303 - root - INFO - | Epoch: 141/150 | Train Time: 2.646s | Train Loss: 0.009097 |
+2020-05-05 18:45:06,628 - root - INFO - | Epoch: 142/150 | Train Time: 2.324s | Train Loss: 0.009130 |
+2020-05-05 18:45:09,620 - root - INFO - | Epoch: 143/150 | Train Time: 2.992s | Train Loss: 0.009149 |
+2020-05-05 18:45:12,013 - root - INFO - | Epoch: 144/150 | Train Time: 2.393s | Train Loss: 0.008933 |
+2020-05-05 18:45:14,698 - root - INFO - | Epoch: 145/150 | Train Time: 2.684s | Train Loss: 0.009034 |
+2020-05-05 18:45:16,958 - root - INFO - | Epoch: 146/150 | Train Time: 2.259s | Train Loss: 0.009016 |
+2020-05-05 18:45:19,281 - root - INFO - | Epoch: 147/150 | Train Time: 2.323s | Train Loss: 0.009000 |
+2020-05-05 18:45:21,394 - root - INFO - | Epoch: 148/150 | Train Time: 2.113s | Train Loss: 0.009062 |
+2020-05-05 18:45:23,601 - root - INFO - | Epoch: 149/150 | Train Time: 2.206s | Train Loss: 0.008968 |
+2020-05-05 18:45:25,926 - root - INFO - | Epoch: 150/150 | Train Time: 2.324s | Train Loss: 0.009021 |
+2020-05-05 18:45:25,926 - root - INFO - Pretraining Time: 376.807s
+2020-05-05 18:45:25,926 - root - INFO - Finished pretraining.
+2020-05-05 18:45:25,927 - root - INFO - Testing autoencoder...
+2020-05-05 18:45:27,810 - root - INFO - Test Loss: 0.014828
+2020-05-05 18:45:27,810 - root - INFO - Test AUC: 76.12%
+2020-05-05 18:45:27,810 - root - INFO - Test Time: 1.870s
+2020-05-05 18:45:27,810 - root - INFO - Finished testing autoencoder.
+2020-05-05 18:45:27,912 - root - INFO - Training optimizer: adam
+2020-05-05 18:45:27,913 - root - INFO - Training learning rate: 0.0001
+2020-05-05 18:45:27,913 - root - INFO - Training epochs: 150
+2020-05-05 18:45:27,913 - root - INFO - Training learning rate scheduler milestones: (50,)
+2020-05-05 18:45:27,913 - root - INFO - Training batch size: 200
+2020-05-05 18:45:27,913 - root - INFO - Training weight decay: 5e-07
+2020-05-05 18:45:27,919 - root - INFO - Initializing center c...
+2020-05-05 18:45:29,334 - root - INFO - Center c initialized.
+2020-05-05 18:45:29,335 - root - INFO - Starting training...
+2020-05-05 18:45:31,218 - root - INFO - | Epoch: 001/150 | Train Time: 1.883s | Train Loss: 8.337150 |
+2020-05-05 18:45:32,741 - root - INFO - | Epoch: 002/150 | Train Time: 1.523s | Train Loss: 2.428531 |
+2020-05-05 18:45:34,581 - root - INFO - | Epoch: 003/150 | Train Time: 1.839s | Train Loss: 1.249138 |
+2020-05-05 18:45:36,419 - root - INFO - | Epoch: 004/150 | Train Time: 1.837s | Train Loss: 0.851346 |
+2020-05-05 18:45:38,352 - root - INFO - | Epoch: 005/150 | Train Time: 1.933s | Train Loss: 0.668020 |
+2020-05-05 18:45:40,429 - root - INFO - | Epoch: 006/150 | Train Time: 2.076s | Train Loss: 0.556124 |
+2020-05-05 18:45:42,559 - root - INFO - | Epoch: 007/150 | Train Time: 2.130s | Train Loss: 0.480076 |
+2020-05-05 18:45:44,716 - root - INFO - | Epoch: 008/150 | Train Time: 2.156s | Train Loss: 0.421522 |
+2020-05-05 18:45:46,564 - root - INFO - | Epoch: 009/150 | Train Time: 1.847s | Train Loss: 0.378312 |
+2020-05-05 18:45:48,627 - root - INFO - | Epoch: 010/150 | Train Time: 2.062s | Train Loss: 0.343255 |
+2020-05-05 18:45:50,769 - root - INFO - | Epoch: 011/150 | Train Time: 2.141s | Train Loss: 0.317056 |
+2020-05-05 18:45:52,971 - root - INFO - | Epoch: 012/150 | Train Time: 2.202s | Train Loss: 0.294275 |
+2020-05-05 18:45:54,893 - root - INFO - | Epoch: 013/150 | Train Time: 1.922s | Train Loss: 0.275253 |
+2020-05-05 18:45:57,424 - root - INFO - | Epoch: 014/150 | Train Time: 2.530s | Train Loss: 0.258429 |
+2020-05-05 18:45:59,669 - root - INFO - | Epoch: 015/150 | Train Time: 2.245s | Train Loss: 0.246422 |
+2020-05-05 18:46:02,046 - root - INFO - | Epoch: 016/150 | Train Time: 2.376s | Train Loss: 0.231595 |
+2020-05-05 18:46:04,346 - root - INFO - | Epoch: 017/150 | Train Time: 2.300s | Train Loss: 0.222627 |
+2020-05-05 18:46:06,252 - root - INFO - | Epoch: 018/150 | Train Time: 1.905s | Train Loss: 0.214790 |
+2020-05-05 18:46:08,048 - root - INFO - | Epoch: 019/150 | Train Time: 1.796s | Train Loss: 0.205627 |
+2020-05-05 18:46:10,159 - root - INFO - | Epoch: 020/150 | Train Time: 2.110s | Train Loss: 0.196299 |
+2020-05-05 18:46:12,600 - root - INFO - | Epoch: 021/150 | Train Time: 2.441s | Train Loss: 0.189927 |
+2020-05-05 18:46:14,427 - root - INFO - | Epoch: 022/150 | Train Time: 1.827s | Train Loss: 0.184694 |
+2020-05-05 18:46:16,475 - root - INFO - | Epoch: 023/150 | Train Time: 2.048s | Train Loss: 0.179587 |
+2020-05-05 18:46:18,538 - root - INFO - | Epoch: 024/150 | Train Time: 2.062s | Train Loss: 0.173849 |
+2020-05-05 18:46:20,563 - root - INFO - | Epoch: 025/150 | Train Time: 2.024s | Train Loss: 0.166596 |
+2020-05-05 18:46:22,435 - root - INFO - | Epoch: 026/150 | Train Time: 1.872s | Train Loss: 0.163979 |
+2020-05-05 18:46:24,682 - root - INFO - | Epoch: 027/150 | Train Time: 2.246s | Train Loss: 0.161877 |
+2020-05-05 18:46:26,703 - root - INFO - | Epoch: 028/150 | Train Time: 2.021s | Train Loss: 0.154358 |
+2020-05-05 18:46:28,599 - root - INFO - | Epoch: 029/150 | Train Time: 1.896s | Train Loss: 0.152636 |
+2020-05-05 18:46:30,436 - root - INFO - | Epoch: 030/150 | Train Time: 1.837s | Train Loss: 0.147631 |
+2020-05-05 18:46:32,514 - root - INFO - | Epoch: 031/150 | Train Time: 2.077s | Train Loss: 0.146688 |
+2020-05-05 18:46:34,394 - root - INFO - | Epoch: 032/150 | Train Time: 1.880s | Train Loss: 0.144036 |
+2020-05-05 18:46:36,265 - root - INFO - | Epoch: 033/150 | Train Time: 1.871s | Train Loss: 0.140085 |
+2020-05-05 18:46:38,439 - root - INFO - | Epoch: 034/150 | Train Time: 2.173s | Train Loss: 0.134087 |
+2020-05-05 18:46:40,620 - root - INFO - | Epoch: 035/150 | Train Time: 2.181s | Train Loss: 0.135184 |
+2020-05-05 18:46:42,855 - root - INFO - | Epoch: 036/150 | Train Time: 2.234s | Train Loss: 0.131505 |
+2020-05-05 18:46:44,817 - root - INFO - | Epoch: 037/150 | Train Time: 1.962s | Train Loss: 0.130051 |
+2020-05-05 18:46:47,114 - root - INFO - | Epoch: 038/150 | Train Time: 2.297s | Train Loss: 0.126130 |
+2020-05-05 18:46:49,212 - root - INFO - | Epoch: 039/150 | Train Time: 2.097s | Train Loss: 0.125199 |
+2020-05-05 18:46:51,079 - root - INFO - | Epoch: 040/150 | Train Time: 1.866s | Train Loss: 0.122746 |
+2020-05-05 18:46:53,146 - root - INFO - | Epoch: 041/150 | Train Time: 2.066s | Train Loss: 0.119014 |
+2020-05-05 18:46:54,997 - root - INFO - | Epoch: 042/150 | Train Time: 1.851s | Train Loss: 0.116471 |
+2020-05-05 18:46:57,056 - root - INFO - | Epoch: 043/150 | Train Time: 2.058s | Train Loss: 0.114668 |
+2020-05-05 18:46:59,348 - root - INFO - | Epoch: 044/150 | Train Time: 2.291s | Train Loss: 0.115353 |
+2020-05-05 18:47:01,454 - root - INFO - | Epoch: 045/150 | Train Time: 2.105s | Train Loss: 0.110578 |
+2020-05-05 18:47:03,789 - root - INFO - | Epoch: 046/150 | Train Time: 2.335s | Train Loss: 0.111551 |
+2020-05-05 18:47:06,050 - root - INFO - | Epoch: 047/150 | Train Time: 2.260s | Train Loss: 0.106302 |
+2020-05-05 18:47:08,094 - root - INFO - | Epoch: 048/150 | Train Time: 2.044s | Train Loss: 0.106407 |
+2020-05-05 18:47:10,515 - root - INFO - | Epoch: 049/150 | Train Time: 2.421s | Train Loss: 0.105980 |
+2020-05-05 18:47:12,459 - root - INFO - | Epoch: 050/150 | Train Time: 1.943s | Train Loss: 0.098684 |
+2020-05-05 18:47:12,459 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2020-05-05 18:47:14,441 - root - INFO - | Epoch: 051/150 | Train Time: 1.982s | Train Loss: 0.099277 |
+2020-05-05 18:47:16,379 - root - INFO - | Epoch: 052/150 | Train Time: 1.937s | Train Loss: 0.096860 |
+2020-05-05 18:47:18,533 - root - INFO - | Epoch: 053/150 | Train Time: 2.154s | Train Loss: 0.098250 |
+2020-05-05 18:47:20,670 - root - INFO - | Epoch: 054/150 | Train Time: 2.136s | Train Loss: 0.097489 |
+2020-05-05 18:47:22,771 - root - INFO - | Epoch: 055/150 | Train Time: 2.101s | Train Loss: 0.097354 |
+2020-05-05 18:47:24,932 - root - INFO - | Epoch: 056/150 | Train Time: 2.160s | Train Loss: 0.096784 |
+2020-05-05 18:47:27,041 - root - INFO - | Epoch: 057/150 | Train Time: 2.109s | Train Loss: 0.096937 |
+2020-05-05 18:47:29,147 - root - INFO - | Epoch: 058/150 | Train Time: 2.105s | Train Loss: 0.095790 |
+2020-05-05 18:47:31,145 - root - INFO - | Epoch: 059/150 | Train Time: 1.998s | Train Loss: 0.096099 |
+2020-05-05 18:47:33,174 - root - INFO - | Epoch: 060/150 | Train Time: 2.028s | Train Loss: 0.095808 |
+2020-05-05 18:47:35,688 - root - INFO - | Epoch: 061/150 | Train Time: 2.514s | Train Loss: 0.093499 |
+2020-05-05 18:47:37,980 - root - INFO - | Epoch: 062/150 | Train Time: 2.291s | Train Loss: 0.095927 |
+2020-05-05 18:47:40,337 - root - INFO - | Epoch: 063/150 | Train Time: 2.357s | Train Loss: 0.095120 |
+2020-05-05 18:47:42,615 - root - INFO - | Epoch: 064/150 | Train Time: 2.278s | Train Loss: 0.094907 |
+2020-05-05 18:47:44,776 - root - INFO - | Epoch: 065/150 | Train Time: 2.160s | Train Loss: 0.094409 |
+2020-05-05 18:47:47,021 - root - INFO - | Epoch: 066/150 | Train Time: 2.245s | Train Loss: 0.096945 |
+2020-05-05 18:47:49,255 - root - INFO - | Epoch: 067/150 | Train Time: 2.233s | Train Loss: 0.098294 |
+2020-05-05 18:47:51,349 - root - INFO - | Epoch: 068/150 | Train Time: 2.094s | Train Loss: 0.093092 |
+2020-05-05 18:47:53,500 - root - INFO - | Epoch: 069/150 | Train Time: 2.150s | Train Loss: 0.093197 |
+2020-05-05 18:47:55,748 - root - INFO - | Epoch: 070/150 | Train Time: 2.247s | Train Loss: 0.093493 |
+2020-05-05 18:47:57,952 - root - INFO - | Epoch: 071/150 | Train Time: 2.204s | Train Loss: 0.093410 |
+2020-05-05 18:47:59,954 - root - INFO - | Epoch: 072/150 | Train Time: 2.001s | Train Loss: 0.093998 |
+2020-05-05 18:48:01,798 - root - INFO - | Epoch: 073/150 | Train Time: 1.843s | Train Loss: 0.094207 |
+2020-05-05 18:48:03,884 - root - INFO - | Epoch: 074/150 | Train Time: 2.086s | Train Loss: 0.091662 |
+2020-05-05 18:48:05,851 - root - INFO - | Epoch: 075/150 | Train Time: 1.967s | Train Loss: 0.093506 |
+2020-05-05 18:48:08,375 - root - INFO - | Epoch: 076/150 | Train Time: 2.523s | Train Loss: 0.094170 |
+2020-05-05 18:48:10,401 - root - INFO - | Epoch: 077/150 | Train Time: 2.026s | Train Loss: 0.091573 |
+2020-05-05 18:48:12,799 - root - INFO - | Epoch: 078/150 | Train Time: 2.397s | Train Loss: 0.093060 |
+2020-05-05 18:48:15,096 - root - INFO - | Epoch: 079/150 | Train Time: 2.297s | Train Loss: 0.090772 |
+2020-05-05 18:48:16,412 - root - INFO - | Epoch: 080/150 | Train Time: 1.316s | Train Loss: 0.091929 |
+2020-05-05 18:48:17,870 - root - INFO - | Epoch: 081/150 | Train Time: 1.457s | Train Loss: 0.091355 |
+2020-05-05 18:48:19,320 - root - INFO - | Epoch: 082/150 | Train Time: 1.449s | Train Loss: 0.092209 |
+2020-05-05 18:48:20,806 - root - INFO - | Epoch: 083/150 | Train Time: 1.486s | Train Loss: 0.093095 |
+2020-05-05 18:48:23,151 - root - INFO - | Epoch: 084/150 | Train Time: 2.345s | Train Loss: 0.090466 |
+2020-05-05 18:48:25,164 - root - INFO - | Epoch: 085/150 | Train Time: 2.012s | Train Loss: 0.091796 |
+2020-05-05 18:48:27,175 - root - INFO - | Epoch: 086/150 | Train Time: 2.011s | Train Loss: 0.089958 |
+2020-05-05 18:48:29,223 - root - INFO - | Epoch: 087/150 | Train Time: 2.047s | Train Loss: 0.090793 |
+2020-05-05 18:48:31,458 - root - INFO - | Epoch: 088/150 | Train Time: 2.235s | Train Loss: 0.092038 |
+2020-05-05 18:48:33,402 - root - INFO - | Epoch: 089/150 | Train Time: 1.943s | Train Loss: 0.090472 |
+2020-05-05 18:48:35,519 - root - INFO - | Epoch: 090/150 | Train Time: 2.117s | Train Loss: 0.090158 |
+2020-05-05 18:48:37,635 - root - INFO - | Epoch: 091/150 | Train Time: 2.115s | Train Loss: 0.091217 |
+2020-05-05 18:48:39,448 - root - INFO - | Epoch: 092/150 | Train Time: 1.813s | Train Loss: 0.089197 |
+2020-05-05 18:48:41,393 - root - INFO - | Epoch: 093/150 | Train Time: 1.944s | Train Loss: 0.088439 |
+2020-05-05 18:48:43,438 - root - INFO - | Epoch: 094/150 | Train Time: 2.045s | Train Loss: 0.089069 |
+2020-05-05 18:48:45,248 - root - INFO - | Epoch: 095/150 | Train Time: 1.810s | Train Loss: 0.086503 |
+2020-05-05 18:48:47,512 - root - INFO - | Epoch: 096/150 | Train Time: 2.263s | Train Loss: 0.088300 |
+2020-05-05 18:48:49,430 - root - INFO - | Epoch: 097/150 | Train Time: 1.917s | Train Loss: 0.087534 |
+2020-05-05 18:48:51,475 - root - INFO - | Epoch: 098/150 | Train Time: 2.045s | Train Loss: 0.088232 |
+2020-05-05 18:48:53,516 - root - INFO - | Epoch: 099/150 | Train Time: 2.041s | Train Loss: 0.086315 |
+2020-05-05 18:48:55,898 - root - INFO - | Epoch: 100/150 | Train Time: 2.382s | Train Loss: 0.086801 |
+2020-05-05 18:48:57,881 - root - INFO - | Epoch: 101/150 | Train Time: 1.982s | Train Loss: 0.086493 |
+2020-05-05 18:48:59,878 - root - INFO - | Epoch: 102/150 | Train Time: 1.997s | Train Loss: 0.086044 |
+2020-05-05 18:49:02,095 - root - INFO - | Epoch: 103/150 | Train Time: 2.216s | Train Loss: 0.088292 |
+2020-05-05 18:49:04,620 - root - INFO - | Epoch: 104/150 | Train Time: 2.525s | Train Loss: 0.086816 |
+2020-05-05 18:49:06,750 - root - INFO - | Epoch: 105/150 | Train Time: 2.129s | Train Loss: 0.086336 |
+2020-05-05 18:49:09,088 - root - INFO - | Epoch: 106/150 | Train Time: 2.337s | Train Loss: 0.084573 |
+2020-05-05 18:49:11,268 - root - INFO - | Epoch: 107/150 | Train Time: 2.180s | Train Loss: 0.085099 |
+2020-05-05 18:49:13,433 - root - INFO - | Epoch: 108/150 | Train Time: 2.164s | Train Loss: 0.083850 |
+2020-05-05 18:49:15,753 - root - INFO - | Epoch: 109/150 | Train Time: 2.320s | Train Loss: 0.084286 |
+2020-05-05 18:49:17,951 - root - INFO - | Epoch: 110/150 | Train Time: 2.197s | Train Loss: 0.087155 |
+2020-05-05 18:49:20,326 - root - INFO - | Epoch: 111/150 | Train Time: 2.374s | Train Loss: 0.085770 |
+2020-05-05 18:49:22,457 - root - INFO - | Epoch: 112/150 | Train Time: 2.131s | Train Loss: 0.086551 |
+2020-05-05 18:49:24,072 - root - INFO - | Epoch: 113/150 | Train Time: 1.614s | Train Loss: 0.082828 |
+2020-05-05 18:49:26,148 - root - INFO - | Epoch: 114/150 | Train Time: 2.074s | Train Loss: 0.083065 |
+2020-05-05 18:49:28,395 - root - INFO - | Epoch: 115/150 | Train Time: 2.247s | Train Loss: 0.083318 |
+2020-05-05 18:49:30,666 - root - INFO - | Epoch: 116/150 | Train Time: 2.271s | Train Loss: 0.082222 |
+2020-05-05 18:49:32,768 - root - INFO - | Epoch: 117/150 | Train Time: 2.101s | Train Loss: 0.081624 |
+2020-05-05 18:49:34,787 - root - INFO - | Epoch: 118/150 | Train Time: 2.019s | Train Loss: 0.084204 |
+2020-05-05 18:49:36,956 - root - INFO - | Epoch: 119/150 | Train Time: 2.168s | Train Loss: 0.082204 |
+2020-05-05 18:49:39,220 - root - INFO - | Epoch: 120/150 | Train Time: 2.263s | Train Loss: 0.080697 |
+2020-05-05 18:49:41,425 - root - INFO - | Epoch: 121/150 | Train Time: 2.205s | Train Loss: 0.082685 |
+2020-05-05 18:49:43,789 - root - INFO - | Epoch: 122/150 | Train Time: 2.364s | Train Loss: 0.081814 |
+2020-05-05 18:49:46,003 - root - INFO - | Epoch: 123/150 | Train Time: 2.213s | Train Loss: 0.082322 |
+2020-05-05 18:49:48,258 - root - INFO - | Epoch: 124/150 | Train Time: 2.255s | Train Loss: 0.081208 |
+2020-05-05 18:49:50,671 - root - INFO - | Epoch: 125/150 | Train Time: 2.413s | Train Loss: 0.080462 |
+2020-05-05 18:49:53,134 - root - INFO - | Epoch: 126/150 | Train Time: 2.462s | Train Loss: 0.080714 |
+2020-05-05 18:49:55,369 - root - INFO - | Epoch: 127/150 | Train Time: 2.234s | Train Loss: 0.080204 |
+2020-05-05 18:49:57,579 - root - INFO - | Epoch: 128/150 | Train Time: 2.209s | Train Loss: 0.081154 |
+2020-05-05 18:49:59,799 - root - INFO - | Epoch: 129/150 | Train Time: 2.220s | Train Loss: 0.078865 |
+2020-05-05 18:50:01,892 - root - INFO - | Epoch: 130/150 | Train Time: 2.092s | Train Loss: 0.079362 |
+2020-05-05 18:50:04,079 - root - INFO - | Epoch: 131/150 | Train Time: 2.187s | Train Loss: 0.078644 |
+2020-05-05 18:50:06,270 - root - INFO - | Epoch: 132/150 | Train Time: 2.191s | Train Loss: 0.078962 |
+2020-05-05 18:50:08,812 - root - INFO - | Epoch: 133/150 | Train Time: 2.541s | Train Loss: 0.080073 |
+2020-05-05 18:50:10,618 - root - INFO - | Epoch: 134/150 | Train Time: 1.805s | Train Loss: 0.079053 |
+2020-05-05 18:50:12,717 - root - INFO - | Epoch: 135/150 | Train Time: 2.099s | Train Loss: 0.079445 |
+2020-05-05 18:50:14,944 - root - INFO - | Epoch: 136/150 | Train Time: 2.226s | Train Loss: 0.077901 |
+2020-05-05 18:50:17,006 - root - INFO - | Epoch: 137/150 | Train Time: 2.062s | Train Loss: 0.078553 |
+2020-05-05 18:50:19,064 - root - INFO - | Epoch: 138/150 | Train Time: 2.057s | Train Loss: 0.078900 |
+2020-05-05 18:50:21,397 - root - INFO - | Epoch: 139/150 | Train Time: 2.332s | Train Loss: 0.078468 |
+2020-05-05 18:50:23,127 - root - INFO - | Epoch: 140/150 | Train Time: 1.729s | Train Loss: 0.077516 |
+2020-05-05 18:50:24,747 - root - INFO - | Epoch: 141/150 | Train Time: 1.620s | Train Loss: 0.078656 |
+2020-05-05 18:50:26,963 - root - INFO - | Epoch: 142/150 | Train Time: 2.215s | Train Loss: 0.077600 |
+2020-05-05 18:50:29,061 - root - INFO - | Epoch: 143/150 | Train Time: 2.097s | Train Loss: 0.075402 |
+2020-05-05 18:50:31,187 - root - INFO - | Epoch: 144/150 | Train Time: 2.126s | Train Loss: 0.076386 |
+2020-05-05 18:50:33,185 - root - INFO - | Epoch: 145/150 | Train Time: 1.997s | Train Loss: 0.075540 |
+2020-05-05 18:50:35,533 - root - INFO - | Epoch: 146/150 | Train Time: 2.347s | Train Loss: 0.075270 |
+2020-05-05 18:50:37,381 - root - INFO - | Epoch: 147/150 | Train Time: 1.848s | Train Loss: 0.075122 |
+2020-05-05 18:50:39,215 - root - INFO - | Epoch: 148/150 | Train Time: 1.834s | Train Loss: 0.078296 |
+2020-05-05 18:50:41,594 - root - INFO - | Epoch: 149/150 | Train Time: 2.378s | Train Loss: 0.074563 |
+2020-05-05 18:50:43,943 - root - INFO - | Epoch: 150/150 | Train Time: 2.348s | Train Loss: 0.074415 |
+2020-05-05 18:50:43,944 - root - INFO - Training Time: 314.609s
+2020-05-05 18:50:43,944 - root - INFO - Finished training.
+2020-05-05 18:50:43,945 - root - INFO - Starting testing...
+2020-05-05 18:50:46,103 - root - INFO - Test Loss: 0.641437
+2020-05-05 18:50:46,104 - root - INFO - Test AUC: 80.91%
+2020-05-05 18:50:46,104 - root - INFO - Test Time: 2.147s
+2020-05-05 18:50:46,104 - root - INFO - Finished testing.
+2020-05-05 18:51:07,352 - root - INFO - Log file is ../log/fmnist/scenario_1/deepSAD//log_0_4_1_0.txt
+2020-05-05 18:51:07,352 - root - INFO - Data path is ../data
+2020-05-05 18:51:07,352 - root - INFO - Export path is ../log/fmnist/scenario_1/deepSAD/
+2020-05-05 18:51:07,352 - root - INFO - Dataset: fmnist
+2020-05-05 18:51:07,352 - root - INFO - Normal class: 0
+2020-05-05 18:51:07,352 - root - INFO - Ratio of labeled normal train samples: 0.00
+2020-05-05 18:51:07,352 - root - INFO - Ratio of labeled anomalous samples: 0.20
+2020-05-05 18:51:07,352 - root - INFO - Pollution ratio of unlabeled train data: 0.10
+2020-05-05 18:51:07,352 - root - INFO - Scenario Running: 3
+2020-05-05 18:51:07,352 - root - INFO - Output and AE dimensions: 128
+2020-05-05 18:51:07,352 - root - INFO - Known anomaly class: 4
+2020-05-05 18:51:07,352 - root - INFO - Network: fmnist_LeNet
+2020-05-05 18:51:07,353 - root - INFO - Eta-parameter: 1.00
+2020-05-05 18:51:07,417 - root - INFO - Set seed to 0.
+2020-05-05 18:51:07,589 - root - INFO - Computation device: cuda
+2020-05-05 18:51:07,590 - root - INFO - Number of threads: 0
+2020-05-05 18:51:07,590 - root - INFO - Number of dataloader workers: 6
+2020-05-05 18:51:07,785 - root - INFO - Pretraining: True
+2020-05-05 18:51:07,786 - root - INFO - Pretraining optimizer: adam
+2020-05-05 18:51:07,786 - root - INFO - Pretraining learning rate: 0.0001
+2020-05-05 18:51:07,786 - root - INFO - Pretraining epochs: 150
+2020-05-05 18:51:07,786 - root - INFO - Pretraining learning rate scheduler milestones: ()
+2020-05-05 18:51:07,786 - root - INFO - Pretraining batch size: 200
+2020-05-05 18:51:07,786 - root - INFO - Pretraining weight decay: 0.0005
+2020-05-05 18:51:14,735 - root - INFO - Starting pretraining...
+2020-05-05 18:51:21,712 - root - INFO - | Epoch: 001/150 | Train Time: 6.974s | Train Loss: 0.091982 |
+2020-05-05 18:51:24,417 - root - INFO - | Epoch: 002/150 | Train Time: 2.704s | Train Loss: 0.040788 |
+2020-05-05 18:51:26,871 - root - INFO - | Epoch: 003/150 | Train Time: 2.454s | Train Loss: 0.032064 |
+2020-05-05 18:51:29,155 - root - INFO - | Epoch: 004/150 | Train Time: 2.284s | Train Loss: 0.027979 |
+2020-05-05 18:51:31,707 - root - INFO - | Epoch: 005/150 | Train Time: 2.551s | Train Loss: 0.025577 |
+2020-05-05 18:51:34,233 - root - INFO - | Epoch: 006/150 | Train Time: 2.526s | Train Loss: 0.023904 |
+2020-05-05 18:51:36,878 - root - INFO - | Epoch: 007/150 | Train Time: 2.644s | Train Loss: 0.022488 |
+2020-05-05 18:51:39,472 - root - INFO - | Epoch: 008/150 | Train Time: 2.594s | Train Loss: 0.021463 |
+2020-05-05 18:51:41,649 - root - INFO - | Epoch: 009/150 | Train Time: 2.176s | Train Loss: 0.020732 |
+2020-05-05 18:51:43,814 - root - INFO - | Epoch: 010/150 | Train Time: 2.164s | Train Loss: 0.019861 |
+2020-05-05 18:51:46,333 - root - INFO - | Epoch: 011/150 | Train Time: 2.519s | Train Loss: 0.019275 |
+2020-05-05 18:51:49,217 - root - INFO - | Epoch: 012/150 | Train Time: 2.883s | Train Loss: 0.018697 |
+2020-05-05 18:51:51,423 - root - INFO - | Epoch: 013/150 | Train Time: 2.205s | Train Loss: 0.018167 |
+2020-05-05 18:51:54,123 - root - INFO - | Epoch: 014/150 | Train Time: 2.700s | Train Loss: 0.017781 |
+2020-05-05 18:51:56,777 - root - INFO - | Epoch: 015/150 | Train Time: 2.653s | Train Loss: 0.017325 |
+2020-05-05 18:51:59,251 - root - INFO - | Epoch: 016/150 | Train Time: 2.474s | Train Loss: 0.017050 |
+2020-05-05 18:52:01,942 - root - INFO - | Epoch: 017/150 | Train Time: 2.690s | Train Loss: 0.016722 |
+2020-05-05 18:52:04,485 - root - INFO - | Epoch: 018/150 | Train Time: 2.543s | Train Loss: 0.016440 |
+2020-05-05 18:52:06,680 - root - INFO - | Epoch: 019/150 | Train Time: 2.195s | Train Loss: 0.016143 |
+2020-05-05 18:52:09,363 - root - INFO - | Epoch: 020/150 | Train Time: 2.682s | Train Loss: 0.015817 |
+2020-05-05 18:52:11,437 - root - INFO - | Epoch: 021/150 | Train Time: 2.074s | Train Loss: 0.015616 |
+2020-05-05 18:52:13,974 - root - INFO - | Epoch: 022/150 | Train Time: 2.536s | Train Loss: 0.015354 |
+2020-05-05 18:52:16,581 - root - INFO - | Epoch: 023/150 | Train Time: 2.607s | Train Loss: 0.015176 |
+2020-05-05 18:52:19,057 - root - INFO - | Epoch: 024/150 | Train Time: 2.475s | Train Loss: 0.014977 |
+2020-05-05 18:52:22,003 - root - INFO - | Epoch: 025/150 | Train Time: 2.945s | Train Loss: 0.014733 |
+2020-05-05 18:52:24,538 - root - INFO - | Epoch: 026/150 | Train Time: 2.534s | Train Loss: 0.014567 |
+2020-05-05 18:52:27,133 - root - INFO - | Epoch: 027/150 | Train Time: 2.595s | Train Loss: 0.014347 |
+2020-05-05 18:52:29,061 - root - INFO - | Epoch: 028/150 | Train Time: 1.927s | Train Loss: 0.014141 |
+2020-05-05 18:52:31,074 - root - INFO - | Epoch: 029/150 | Train Time: 2.013s | Train Loss: 0.014113 |
+2020-05-05 18:52:33,325 - root - INFO - | Epoch: 030/150 | Train Time: 2.251s | Train Loss: 0.013924 |
+2020-05-05 18:52:35,639 - root - INFO - | Epoch: 031/150 | Train Time: 2.314s | Train Loss: 0.013681 |
+2020-05-05 18:52:38,238 - root - INFO - | Epoch: 032/150 | Train Time: 2.598s | Train Loss: 0.013626 |
+2020-05-05 18:52:40,965 - root - INFO - | Epoch: 033/150 | Train Time: 2.727s | Train Loss: 0.013474 |
+2020-05-05 18:52:43,689 - root - INFO - | Epoch: 034/150 | Train Time: 2.723s | Train Loss: 0.013401 |
+2020-05-05 18:52:45,904 - root - INFO - | Epoch: 035/150 | Train Time: 2.215s | Train Loss: 0.013288 |
+2020-05-05 18:52:48,665 - root - INFO - | Epoch: 036/150 | Train Time: 2.760s | Train Loss: 0.013027 |
+2020-05-05 18:52:51,303 - root - INFO - | Epoch: 037/150 | Train Time: 2.637s | Train Loss: 0.013024 |
+2020-05-05 18:52:53,759 - root - INFO - | Epoch: 038/150 | Train Time: 2.456s | Train Loss: 0.012887 |
+2020-05-05 18:52:56,947 - root - INFO - | Epoch: 039/150 | Train Time: 3.187s | Train Loss: 0.012805 |
+2020-05-05 18:52:59,533 - root - INFO - | Epoch: 040/150 | Train Time: 2.585s | Train Loss: 0.012765 |
+2020-05-05 18:53:02,202 - root - INFO - | Epoch: 041/150 | Train Time: 2.668s | Train Loss: 0.012613 |
+2020-05-05 18:53:04,813 - root - INFO - | Epoch: 042/150 | Train Time: 2.610s | Train Loss: 0.012529 |
+2020-05-05 18:53:07,286 - root - INFO - | Epoch: 043/150 | Train Time: 2.473s | Train Loss: 0.012578 |
+2020-05-05 18:53:09,648 - root - INFO - | Epoch: 044/150 | Train Time: 2.361s | Train Loss: 0.012299 |
+2020-05-05 18:53:12,033 - root - INFO - | Epoch: 045/150 | Train Time: 2.384s | Train Loss: 0.012307 |
+2020-05-05 18:53:14,261 - root - INFO - | Epoch: 046/150 | Train Time: 2.227s | Train Loss: 0.012179 |
+2020-05-05 18:53:16,551 - root - INFO - | Epoch: 047/150 | Train Time: 2.290s | Train Loss: 0.012170 |
+2020-05-05 18:53:18,845 - root - INFO - | Epoch: 048/150 | Train Time: 2.293s | Train Loss: 0.012093 |
+2020-05-05 18:53:21,434 - root - INFO - | Epoch: 049/150 | Train Time: 2.588s | Train Loss: 0.011978 |
+2020-05-05 18:53:23,941 - root - INFO - | Epoch: 050/150 | Train Time: 2.507s | Train Loss: 0.011879 |
+2020-05-05 18:53:26,065 - root - INFO - | Epoch: 051/150 | Train Time: 2.123s | Train Loss: 0.011814 |
+2020-05-05 18:53:28,336 - root - INFO - | Epoch: 052/150 | Train Time: 2.271s | Train Loss: 0.011870 |
+2020-05-05 18:53:30,538 - root - INFO - | Epoch: 053/150 | Train Time: 2.202s | Train Loss: 0.011729 |
+2020-05-05 18:53:33,211 - root - INFO - | Epoch: 054/150 | Train Time: 2.672s | Train Loss: 0.011662 |
+2020-05-05 18:53:35,878 - root - INFO - | Epoch: 055/150 | Train Time: 2.666s | Train Loss: 0.011574 |
+2020-05-05 18:53:38,652 - root - INFO - | Epoch: 056/150 | Train Time: 2.774s | Train Loss: 0.011626 |
+2020-05-05 18:53:41,185 - root - INFO - | Epoch: 057/150 | Train Time: 2.532s | Train Loss: 0.011512 |
+2020-05-05 18:53:43,754 - root - INFO - | Epoch: 058/150 | Train Time: 2.569s | Train Loss: 0.011314 |
+2020-05-05 18:53:46,507 - root - INFO - | Epoch: 059/150 | Train Time: 2.752s | Train Loss: 0.011406 |
+2020-05-05 18:53:48,880 - root - INFO - | Epoch: 060/150 | Train Time: 2.372s | Train Loss: 0.011283 |
+2020-05-05 18:53:51,134 - root - INFO - | Epoch: 061/150 | Train Time: 2.254s | Train Loss: 0.011295 |
+2020-05-05 18:53:53,686 - root - INFO - | Epoch: 062/150 | Train Time: 2.551s | Train Loss: 0.011170 |
+2020-05-05 18:53:55,806 - root - INFO - | Epoch: 063/150 | Train Time: 2.120s | Train Loss: 0.011108 |
+2020-05-05 18:53:58,197 - root - INFO - | Epoch: 064/150 | Train Time: 2.390s | Train Loss: 0.011024 |
+2020-05-05 18:54:00,859 - root - INFO - | Epoch: 065/150 | Train Time: 2.662s | Train Loss: 0.011149 |
+2020-05-05 18:54:03,237 - root - INFO - | Epoch: 066/150 | Train Time: 2.377s | Train Loss: 0.011120 |
+2020-05-05 18:54:06,199 - root - INFO - | Epoch: 067/150 | Train Time: 2.962s | Train Loss: 0.010914 |
+2020-05-05 18:54:08,736 - root - INFO - | Epoch: 068/150 | Train Time: 2.536s | Train Loss: 0.010945 |
+2020-05-05 18:54:11,336 - root - INFO - | Epoch: 069/150 | Train Time: 2.599s | Train Loss: 0.010824 |
+2020-05-05 18:54:14,020 - root - INFO - | Epoch: 070/150 | Train Time: 2.684s | Train Loss: 0.010777 |
+2020-05-05 18:54:16,570 - root - INFO - | Epoch: 071/150 | Train Time: 2.549s | Train Loss: 0.010869 |
+2020-05-05 18:54:19,340 - root - INFO - | Epoch: 072/150 | Train Time: 2.770s | Train Loss: 0.010717 |
+2020-05-05 18:54:21,999 - root - INFO - | Epoch: 073/150 | Train Time: 2.659s | Train Loss: 0.010682 |
+2020-05-05 18:54:24,603 - root - INFO - | Epoch: 074/150 | Train Time: 2.603s | Train Loss: 0.010777 |
+2020-05-05 18:54:27,136 - root - INFO - | Epoch: 075/150 | Train Time: 2.533s | Train Loss: 0.010581 |
+2020-05-05 18:54:29,531 - root - INFO - | Epoch: 076/150 | Train Time: 2.395s | Train Loss: 0.010541 |
+2020-05-05 18:54:31,628 - root - INFO - | Epoch: 077/150 | Train Time: 2.096s | Train Loss: 0.010538 |
+2020-05-05 18:54:34,070 - root - INFO - | Epoch: 078/150 | Train Time: 2.442s | Train Loss: 0.010460 |
+2020-05-05 18:54:36,351 - root - INFO - | Epoch: 079/150 | Train Time: 2.280s | Train Loss: 0.010391 |
+2020-05-05 18:54:39,056 - root - INFO - | Epoch: 080/150 | Train Time: 2.704s | Train Loss: 0.010418 |
+2020-05-05 18:54:41,470 - root - INFO - | Epoch: 081/150 | Train Time: 2.413s | Train Loss: 0.010471 |
+2020-05-05 18:54:44,360 - root - INFO - | Epoch: 082/150 | Train Time: 2.890s | Train Loss: 0.010370 |
+2020-05-05 18:54:47,131 - root - INFO - | Epoch: 083/150 | Train Time: 2.770s | Train Loss: 0.010429 |
+2020-05-05 18:54:49,823 - root - INFO - | Epoch: 084/150 | Train Time: 2.691s | Train Loss: 0.010215 |
+2020-05-05 18:54:52,231 - root - INFO - | Epoch: 085/150 | Train Time: 2.407s | Train Loss: 0.010319 |
+2020-05-05 18:54:54,744 - root - INFO - | Epoch: 086/150 | Train Time: 2.512s | Train Loss: 0.010231 |
+2020-05-05 18:54:57,314 - root - INFO - | Epoch: 087/150 | Train Time: 2.570s | Train Loss: 0.010291 |
+2020-05-05 18:55:00,161 - root - INFO - | Epoch: 088/150 | Train Time: 2.846s | Train Loss: 0.010186 |
+2020-05-05 18:55:02,259 - root - INFO - | Epoch: 089/150 | Train Time: 2.097s | Train Loss: 0.010320 |
+2020-05-05 18:55:04,942 - root - INFO - | Epoch: 090/150 | Train Time: 2.683s | Train Loss: 0.010144 |
+2020-05-05 18:55:07,784 - root - INFO - | Epoch: 091/150 | Train Time: 2.842s | Train Loss: 0.009984 |
+2020-05-05 18:55:10,329 - root - INFO - | Epoch: 092/150 | Train Time: 2.544s | Train Loss: 0.010105 |
+2020-05-05 18:55:13,497 - root - INFO - | Epoch: 093/150 | Train Time: 3.167s | Train Loss: 0.010149 |
+2020-05-05 18:55:16,221 - root - INFO - | Epoch: 094/150 | Train Time: 2.723s | Train Loss: 0.010064 |
+2020-05-05 18:55:19,521 - root - INFO - | Epoch: 095/150 | Train Time: 3.300s | Train Loss: 0.010031 |
+2020-05-05 18:55:22,105 - root - INFO - | Epoch: 096/150 | Train Time: 2.584s | Train Loss: 0.009983 |
+2020-05-05 18:55:25,058 - root - INFO - | Epoch: 097/150 | Train Time: 2.946s | Train Loss: 0.009847 |
+2020-05-05 18:55:28,064 - root - INFO - | Epoch: 098/150 | Train Time: 3.005s | Train Loss: 0.009932 |
+2020-05-05 18:55:30,814 - root - INFO - | Epoch: 099/150 | Train Time: 2.749s | Train Loss: 0.009854 |
+2020-05-05 18:55:33,266 - root - INFO - | Epoch: 100/150 | Train Time: 2.451s | Train Loss: 0.009904 |
+2020-05-05 18:55:35,919 - root - INFO - | Epoch: 101/150 | Train Time: 2.653s | Train Loss: 0.009856 |
+2020-05-05 18:55:38,537 - root - INFO - | Epoch: 102/150 | Train Time: 2.617s | Train Loss: 0.009969 |
+2020-05-05 18:55:41,213 - root - INFO - | Epoch: 103/150 | Train Time: 2.676s | Train Loss: 0.009787 |
+2020-05-05 18:55:43,938 - root - INFO - | Epoch: 104/150 | Train Time: 2.724s | Train Loss: 0.009763 |
+2020-05-05 18:55:46,592 - root - INFO - | Epoch: 105/150 | Train Time: 2.654s | Train Loss: 0.009759 |
+2020-05-05 18:55:49,159 - root - INFO - | Epoch: 106/150 | Train Time: 2.566s | Train Loss: 0.009763 |
+2020-05-05 18:55:51,675 - root - INFO - | Epoch: 107/150 | Train Time: 2.516s | Train Loss: 0.009768 |
+2020-05-05 18:55:54,352 - root - INFO - | Epoch: 108/150 | Train Time: 2.677s | Train Loss: 0.009672 |
+2020-05-05 18:55:57,127 - root - INFO - | Epoch: 109/150 | Train Time: 2.775s | Train Loss: 0.009877 |
+2020-05-05 18:55:59,708 - root - INFO - | Epoch: 110/150 | Train Time: 2.580s | Train Loss: 0.009591 |
+2020-05-05 18:56:02,267 - root - INFO - | Epoch: 111/150 | Train Time: 2.558s | Train Loss: 0.009623 |
+2020-05-05 18:56:05,113 - root - INFO - | Epoch: 112/150 | Train Time: 2.846s | Train Loss: 0.009618 |
+2020-05-05 18:56:07,794 - root - INFO - | Epoch: 113/150 | Train Time: 2.680s | Train Loss: 0.009602 |
+2020-05-05 18:56:10,351 - root - INFO - | Epoch: 114/150 | Train Time: 2.557s | Train Loss: 0.009446 |
+2020-05-05 18:56:12,816 - root - INFO - | Epoch: 115/150 | Train Time: 2.464s | Train Loss: 0.009552 |
+2020-05-05 18:56:15,499 - root - INFO - | Epoch: 116/150 | Train Time: 2.682s | Train Loss: 0.009504 |
+2020-05-05 18:56:17,883 - root - INFO - | Epoch: 117/150 | Train Time: 2.383s | Train Loss: 0.009429 |
+2020-05-05 18:56:20,733 - root - INFO - | Epoch: 118/150 | Train Time: 2.850s | Train Loss: 0.009479 |
+2020-05-05 18:56:23,322 - root - INFO - | Epoch: 119/150 | Train Time: 2.589s | Train Loss: 0.009539 |
+2020-05-05 18:56:26,457 - root - INFO - | Epoch: 120/150 | Train Time: 3.135s | Train Loss: 0.009414 |
+2020-05-05 18:56:29,409 - root - INFO - | Epoch: 121/150 | Train Time: 2.952s | Train Loss: 0.009526 |
+2020-05-05 18:56:32,272 - root - INFO - | Epoch: 122/150 | Train Time: 2.863s | Train Loss: 0.009420 |
+2020-05-05 18:56:35,270 - root - INFO - | Epoch: 123/150 | Train Time: 2.998s | Train Loss: 0.009470 |
+2020-05-05 18:56:38,382 - root - INFO - | Epoch: 124/150 | Train Time: 3.111s | Train Loss: 0.009268 |
+2020-05-05 18:56:40,657 - root - INFO - | Epoch: 125/150 | Train Time: 2.275s | Train Loss: 0.009298 |
+2020-05-05 18:56:42,487 - root - INFO - | Epoch: 126/150 | Train Time: 1.830s | Train Loss: 0.009429 |
+2020-05-05 18:56:44,619 - root - INFO - | Epoch: 127/150 | Train Time: 2.131s | Train Loss: 0.009295 |
+2020-05-05 18:56:46,831 - root - INFO - | Epoch: 128/150 | Train Time: 2.212s | Train Loss: 0.009208 |
+2020-05-05 18:56:49,376 - root - INFO - | Epoch: 129/150 | Train Time: 2.544s | Train Loss: 0.009291 |
+2020-05-05 18:56:51,207 - root - INFO - | Epoch: 130/150 | Train Time: 1.830s | Train Loss: 0.009345 |
+2020-05-05 18:56:53,254 - root - INFO - | Epoch: 131/150 | Train Time: 2.046s | Train Loss: 0.009225 |
+2020-05-05 18:56:55,031 - root - INFO - | Epoch: 132/150 | Train Time: 1.776s | Train Loss: 0.009431 |
+2020-05-05 18:56:56,826 - root - INFO - | Epoch: 133/150 | Train Time: 1.794s | Train Loss: 0.009291 |
+2020-05-05 18:56:58,740 - root - INFO - | Epoch: 134/150 | Train Time: 1.914s | Train Loss: 0.009143 |
+2020-05-05 18:57:00,698 - root - INFO - | Epoch: 135/150 | Train Time: 1.957s | Train Loss: 0.009100 |
+2020-05-05 18:57:02,642 - root - INFO - | Epoch: 136/150 | Train Time: 1.944s | Train Loss: 0.009177 |
+2020-05-05 18:57:04,309 - root - INFO - | Epoch: 137/150 | Train Time: 1.667s | Train Loss: 0.009155 |
+2020-05-05 18:57:06,136 - root - INFO - | Epoch: 138/150 | Train Time: 1.826s | Train Loss: 0.009110 |
+2020-05-05 18:57:08,525 - root - INFO - | Epoch: 139/150 | Train Time: 2.389s | Train Loss: 0.009169 |
+2020-05-05 18:57:11,297 - root - INFO - | Epoch: 140/150 | Train Time: 2.772s | Train Loss: 0.009184 |
+2020-05-05 18:57:13,315 - root - INFO - | Epoch: 141/150 | Train Time: 2.018s | Train Loss: 0.009062 |
+2020-05-05 18:57:15,392 - root - INFO - | Epoch: 142/150 | Train Time: 2.076s | Train Loss: 0.009091 |
+2020-05-05 18:57:18,155 - root - INFO - | Epoch: 143/150 | Train Time: 2.763s | Train Loss: 0.009030 |
+2020-05-05 18:57:20,540 - root - INFO - | Epoch: 144/150 | Train Time: 2.385s | Train Loss: 0.009024 |
+2020-05-05 18:57:22,797 - root - INFO - | Epoch: 145/150 | Train Time: 2.256s | Train Loss: 0.009068 |
+2020-05-05 18:57:24,904 - root - INFO - | Epoch: 146/150 | Train Time: 2.106s | Train Loss: 0.009034 |
+2020-05-05 18:57:27,094 - root - INFO - | Epoch: 147/150 | Train Time: 2.189s | Train Loss: 0.008986 |
+2020-05-05 18:57:29,514 - root - INFO - | Epoch: 148/150 | Train Time: 2.420s | Train Loss: 0.009186 |
+2020-05-05 18:57:31,601 - root - INFO - | Epoch: 149/150 | Train Time: 2.087s | Train Loss: 0.009068 |
+2020-05-05 18:57:33,795 - root - INFO - | Epoch: 150/150 | Train Time: 2.193s | Train Loss: 0.009053 |
+2020-05-05 18:57:33,796 - root - INFO - Pretraining Time: 379.058s
+2020-05-05 18:57:33,796 - root - INFO - Finished pretraining.
+2020-05-05 18:57:33,797 - root - INFO - Testing autoencoder...
+2020-05-05 18:57:35,566 - root - INFO - Test Loss: 0.014786
+2020-05-05 18:57:35,567 - root - INFO - Test AUC: 74.39%
+2020-05-05 18:57:35,567 - root - INFO - Test Time: 1.757s
+2020-05-05 18:57:35,567 - root - INFO - Finished testing autoencoder.
+2020-05-05 18:57:35,627 - root - INFO - Training optimizer: adam
+2020-05-05 18:57:35,627 - root - INFO - Training learning rate: 0.0001
+2020-05-05 18:57:35,628 - root - INFO - Training epochs: 150
+2020-05-05 18:57:35,628 - root - INFO - Training learning rate scheduler milestones: (50,)
+2020-05-05 18:57:35,628 - root - INFO - Training batch size: 200
+2020-05-05 18:57:35,628 - root - INFO - Training weight decay: 5e-07
+2020-05-05 18:57:35,629 - root - INFO - Initializing center c...
+2020-05-05 18:57:36,937 - root - INFO - Center c initialized.
+2020-05-05 18:57:36,937 - root - INFO - Starting training...
+2020-05-05 18:57:38,515 - root - INFO - | Epoch: 001/150 | Train Time: 1.578s | Train Loss: 6.380323 |
+2020-05-05 18:57:40,253 - root - INFO - | Epoch: 002/150 | Train Time: 1.737s | Train Loss: 1.814137 |
+2020-05-05 18:57:42,172 - root - INFO - | Epoch: 003/150 | Train Time: 1.919s | Train Loss: 0.984112 |
+2020-05-05 18:57:43,943 - root - INFO - | Epoch: 004/150 | Train Time: 1.770s | Train Loss: 0.690660 |
+2020-05-05 18:57:45,526 - root - INFO - | Epoch: 005/150 | Train Time: 1.583s | Train Loss: 0.554931 |
+2020-05-05 18:57:47,102 - root - INFO - | Epoch: 006/150 | Train Time: 1.576s | Train Loss: 0.470497 |
+2020-05-05 18:57:49,105 - root - INFO - | Epoch: 007/150 | Train Time: 2.002s | Train Loss: 0.411071 |
+2020-05-05 18:57:50,772 - root - INFO - | Epoch: 008/150 | Train Time: 1.666s | Train Loss: 0.374737 |
+2020-05-05 18:57:52,277 - root - INFO - | Epoch: 009/150 | Train Time: 1.505s | Train Loss: 0.344170 |
+2020-05-05 18:57:53,921 - root - INFO - | Epoch: 010/150 | Train Time: 1.643s | Train Loss: 0.315979 |
+2020-05-05 18:57:55,932 - root - INFO - | Epoch: 011/150 | Train Time: 2.011s | Train Loss: 0.299529 |
+2020-05-05 18:57:57,630 - root - INFO - | Epoch: 012/150 | Train Time: 1.698s | Train Loss: 0.281224 |
+2020-05-05 18:57:59,810 - root - INFO - | Epoch: 013/150 | Train Time: 2.180s | Train Loss: 0.263677 |
+2020-05-05 18:58:01,562 - root - INFO - | Epoch: 014/150 | Train Time: 1.751s | Train Loss: 0.251731 |
+2020-05-05 18:58:03,272 - root - INFO - | Epoch: 015/150 | Train Time: 1.710s | Train Loss: 0.238006 |
+2020-05-05 18:58:05,072 - root - INFO - | Epoch: 016/150 | Train Time: 1.800s | Train Loss: 0.230780 |
+2020-05-05 18:58:06,801 - root - INFO - | Epoch: 017/150 | Train Time: 1.729s | Train Loss: 0.220108 |
+2020-05-05 18:58:08,314 - root - INFO - | Epoch: 018/150 | Train Time: 1.512s | Train Loss: 0.218938 |
+2020-05-05 18:58:10,089 - root - INFO - | Epoch: 019/150 | Train Time: 1.774s | Train Loss: 0.211085 |
+2020-05-05 18:58:12,011 - root - INFO - | Epoch: 020/150 | Train Time: 1.922s | Train Loss: 0.203812 |
+2020-05-05 18:58:13,761 - root - INFO - | Epoch: 021/150 | Train Time: 1.750s | Train Loss: 0.195932 |
+2020-05-05 18:58:15,671 - root - INFO - | Epoch: 022/150 | Train Time: 1.909s | Train Loss: 0.188598 |
+2020-05-05 18:58:17,395 - root - INFO - | Epoch: 023/150 | Train Time: 1.724s | Train Loss: 0.182917 |
+2020-05-05 18:58:19,085 - root - INFO - | Epoch: 024/150 | Train Time: 1.689s | Train Loss: 0.179657 |
+2020-05-05 18:58:20,708 - root - INFO - | Epoch: 025/150 | Train Time: 1.623s | Train Loss: 0.176309 |
+2020-05-05 18:58:22,430 - root - INFO - | Epoch: 026/150 | Train Time: 1.721s | Train Loss: 0.169528 |
+2020-05-05 18:58:24,546 - root - INFO - | Epoch: 027/150 | Train Time: 2.116s | Train Loss: 0.167551 |
+2020-05-05 18:58:26,283 - root - INFO - | Epoch: 028/150 | Train Time: 1.736s | Train Loss: 0.165201 |
+2020-05-05 18:58:28,187 - root - INFO - | Epoch: 029/150 | Train Time: 1.903s | Train Loss: 0.158459 |
+2020-05-05 18:58:29,959 - root - INFO - | Epoch: 030/150 | Train Time: 1.772s | Train Loss: 0.157245 |
+2020-05-05 18:58:31,582 - root - INFO - | Epoch: 031/150 | Train Time: 1.622s | Train Loss: 0.155024 |
+2020-05-05 18:58:33,411 - root - INFO - | Epoch: 032/150 | Train Time: 1.828s | Train Loss: 0.148822 |
+2020-05-05 18:58:34,948 - root - INFO - | Epoch: 033/150 | Train Time: 1.537s | Train Loss: 0.146710 |
+2020-05-05 18:58:36,808 - root - INFO - | Epoch: 034/150 | Train Time: 1.860s | Train Loss: 0.142570 |
+2020-05-05 18:58:38,202 - root - INFO - | Epoch: 035/150 | Train Time: 1.394s | Train Loss: 0.139419 |
+2020-05-05 18:58:39,755 - root - INFO - | Epoch: 036/150 | Train Time: 1.552s | Train Loss: 0.137314 |
+2020-05-05 18:58:41,273 - root - INFO - | Epoch: 037/150 | Train Time: 1.518s | Train Loss: 0.132950 |
+2020-05-05 18:58:43,489 - root - INFO - | Epoch: 038/150 | Train Time: 2.216s | Train Loss: 0.129903 |
+2020-05-05 18:58:45,225 - root - INFO - | Epoch: 039/150 | Train Time: 1.735s | Train Loss: 0.129645 |
+2020-05-05 18:58:46,966 - root - INFO - | Epoch: 040/150 | Train Time: 1.739s | Train Loss: 0.124644 |
+2020-05-05 18:58:48,629 - root - INFO - | Epoch: 041/150 | Train Time: 1.663s | Train Loss: 0.122100 |
+2020-05-05 18:58:50,360 - root - INFO - | Epoch: 042/150 | Train Time: 1.730s | Train Loss: 0.118040 |
+2020-05-05 18:58:52,111 - root - INFO - | Epoch: 043/150 | Train Time: 1.750s | Train Loss: 0.112753 |
+2020-05-05 18:58:53,924 - root - INFO - | Epoch: 044/150 | Train Time: 1.812s | Train Loss: 0.113775 |
+2020-05-05 18:58:55,529 - root - INFO - | Epoch: 045/150 | Train Time: 1.605s | Train Loss: 0.110026 |
+2020-05-05 18:58:57,211 - root - INFO - | Epoch: 046/150 | Train Time: 1.681s | Train Loss: 0.106014 |
+2020-05-05 18:58:59,413 - root - INFO - | Epoch: 047/150 | Train Time: 2.202s | Train Loss: 0.103139 |
+2020-05-05 18:59:01,170 - root - INFO - | Epoch: 048/150 | Train Time: 1.756s | Train Loss: 0.101035 |
+2020-05-05 18:59:02,804 - root - INFO - | Epoch: 049/150 | Train Time: 1.633s | Train Loss: 0.100228 |
+2020-05-05 18:59:04,291 - root - INFO - | Epoch: 050/150 | Train Time: 1.487s | Train Loss: 0.092708 |
+2020-05-05 18:59:04,291 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2020-05-05 18:59:05,649 - root - INFO - | Epoch: 051/150 | Train Time: 1.358s | Train Loss: 0.089652 |
+2020-05-05 18:59:07,262 - root - INFO - | Epoch: 052/150 | Train Time: 1.613s | Train Loss: 0.089825 |
+2020-05-05 18:59:08,972 - root - INFO - | Epoch: 053/150 | Train Time: 1.709s | Train Loss: 0.088860 |
+2020-05-05 18:59:10,918 - root - INFO - | Epoch: 054/150 | Train Time: 1.945s | Train Loss: 0.088401 |
+2020-05-05 18:59:12,735 - root - INFO - | Epoch: 055/150 | Train Time: 1.817s | Train Loss: 0.089223 |
+2020-05-05 18:59:14,504 - root - INFO - | Epoch: 056/150 | Train Time: 1.768s | Train Loss: 0.087080 |
+2020-05-05 18:59:15,955 - root - INFO - | Epoch: 057/150 | Train Time: 1.451s | Train Loss: 0.088963 |
+2020-05-05 18:59:17,656 - root - INFO - | Epoch: 058/150 | Train Time: 1.701s | Train Loss: 0.086359 |
+2020-05-05 18:59:19,400 - root - INFO - | Epoch: 059/150 | Train Time: 1.743s | Train Loss: 0.086481 |
+2020-05-05 18:59:21,120 - root - INFO - | Epoch: 060/150 | Train Time: 1.720s | Train Loss: 0.087097 |
+2020-05-05 18:59:22,622 - root - INFO - | Epoch: 061/150 | Train Time: 1.502s | Train Loss: 0.086934 |
+2020-05-05 18:59:24,164 - root - INFO - | Epoch: 062/150 | Train Time: 1.541s | Train Loss: 0.087954 |
+2020-05-05 18:59:25,817 - root - INFO - | Epoch: 063/150 | Train Time: 1.653s | Train Loss: 0.088532 |
+2020-05-05 18:59:27,618 - root - INFO - | Epoch: 064/150 | Train Time: 1.800s | Train Loss: 0.086904 |
+2020-05-05 18:59:29,281 - root - INFO - | Epoch: 065/150 | Train Time: 1.662s | Train Loss: 0.086716 |
+2020-05-05 18:59:30,850 - root - INFO - | Epoch: 066/150 | Train Time: 1.569s | Train Loss: 0.085134 |
+2020-05-05 18:59:32,658 - root - INFO - | Epoch: 067/150 | Train Time: 1.807s | Train Loss: 0.084557 |
+2020-05-05 18:59:34,278 - root - INFO - | Epoch: 068/150 | Train Time: 1.620s | Train Loss: 0.085247 |
+2020-05-05 18:59:35,856 - root - INFO - | Epoch: 069/150 | Train Time: 1.577s | Train Loss: 0.083256 |
+2020-05-05 18:59:37,668 - root - INFO - | Epoch: 070/150 | Train Time: 1.811s | Train Loss: 0.083892 |
+2020-05-05 18:59:39,438 - root - INFO - | Epoch: 071/150 | Train Time: 1.770s | Train Loss: 0.084766 |
+2020-05-05 18:59:41,480 - root - INFO - | Epoch: 072/150 | Train Time: 2.041s | Train Loss: 0.082801 |
+2020-05-05 18:59:43,016 - root - INFO - | Epoch: 073/150 | Train Time: 1.535s | Train Loss: 0.084641 |
+2020-05-05 18:59:44,797 - root - INFO - | Epoch: 074/150 | Train Time: 1.781s | Train Loss: 0.084176 |
+2020-05-05 18:59:46,348 - root - INFO - | Epoch: 075/150 | Train Time: 1.550s | Train Loss: 0.084215 |
+2020-05-05 18:59:47,986 - root - INFO - | Epoch: 076/150 | Train Time: 1.638s | Train Loss: 0.082420 |
+2020-05-05 18:59:49,580 - root - INFO - | Epoch: 077/150 | Train Time: 1.593s | Train Loss: 0.082334 |
+2020-05-05 18:59:51,069 - root - INFO - | Epoch: 078/150 | Train Time: 1.489s | Train Loss: 0.081249 |
+2020-05-05 18:59:52,635 - root - INFO - | Epoch: 079/150 | Train Time: 1.566s | Train Loss: 0.082231 |
+2020-05-05 18:59:54,159 - root - INFO - | Epoch: 080/150 | Train Time: 1.523s | Train Loss: 0.079662 |
+2020-05-05 18:59:55,684 - root - INFO - | Epoch: 081/150 | Train Time: 1.524s | Train Loss: 0.078784 |
+2020-05-05 18:59:57,137 - root - INFO - | Epoch: 082/150 | Train Time: 1.452s | Train Loss: 0.081164 |
+2020-05-05 18:59:58,719 - root - INFO - | Epoch: 083/150 | Train Time: 1.582s | Train Loss: 0.081088 |
+2020-05-05 19:00:00,694 - root - INFO - | Epoch: 084/150 | Train Time: 1.974s | Train Loss: 0.080109 |
+2020-05-05 19:00:02,677 - root - INFO - | Epoch: 085/150 | Train Time: 1.982s | Train Loss: 0.079515 |
+2020-05-05 19:00:04,256 - root - INFO - | Epoch: 086/150 | Train Time: 1.578s | Train Loss: 0.078828 |
+2020-05-05 19:00:05,713 - root - INFO - | Epoch: 087/150 | Train Time: 1.457s | Train Loss: 0.078949 |
+2020-05-05 19:00:07,478 - root - INFO - | Epoch: 088/150 | Train Time: 1.765s | Train Loss: 0.075701 |
+2020-05-05 19:00:09,163 - root - INFO - | Epoch: 089/150 | Train Time: 1.684s | Train Loss: 0.077022 |
+2020-05-05 19:00:11,009 - root - INFO - | Epoch: 090/150 | Train Time: 1.846s | Train Loss: 0.076446 |
+2020-05-05 19:00:12,684 - root - INFO - | Epoch: 091/150 | Train Time: 1.674s | Train Loss: 0.077956 |
+2020-05-05 19:00:14,593 - root - INFO - | Epoch: 092/150 | Train Time: 1.908s | Train Loss: 0.076854 |
+2020-05-05 19:00:16,360 - root - INFO - | Epoch: 093/150 | Train Time: 1.767s | Train Loss: 0.078167 |
+2020-05-05 19:00:17,932 - root - INFO - | Epoch: 094/150 | Train Time: 1.572s | Train Loss: 0.076506 |
+2020-05-05 19:00:19,911 - root - INFO - | Epoch: 095/150 | Train Time: 1.978s | Train Loss: 0.075850 |
+2020-05-05 19:00:21,495 - root - INFO - | Epoch: 096/150 | Train Time: 1.584s | Train Loss: 0.074218 |
+2020-05-05 19:00:23,080 - root - INFO - | Epoch: 097/150 | Train Time: 1.584s | Train Loss: 0.075727 |
+2020-05-05 19:00:24,796 - root - INFO - | Epoch: 098/150 | Train Time: 1.715s | Train Loss: 0.075459 |
+2020-05-05 19:00:26,492 - root - INFO - | Epoch: 099/150 | Train Time: 1.695s | Train Loss: 0.073655 |
+2020-05-05 19:00:28,303 - root - INFO - | Epoch: 100/150 | Train Time: 1.811s | Train Loss: 0.073435 |
+2020-05-05 19:00:29,839 - root - INFO - | Epoch: 101/150 | Train Time: 1.536s | Train Loss: 0.074709 |
+2020-05-05 19:00:31,569 - root - INFO - | Epoch: 102/150 | Train Time: 1.729s | Train Loss: 0.073758 |
+2020-05-05 19:00:33,418 - root - INFO - | Epoch: 103/150 | Train Time: 1.849s | Train Loss: 0.073236 |
+2020-05-05 19:00:34,824 - root - INFO - | Epoch: 104/150 | Train Time: 1.405s | Train Loss: 0.071272 |
+2020-05-05 19:00:36,537 - root - INFO - | Epoch: 105/150 | Train Time: 1.712s | Train Loss: 0.073105 |
+2020-05-05 19:00:38,224 - root - INFO - | Epoch: 106/150 | Train Time: 1.687s | Train Loss: 0.071820 |
+2020-05-05 19:00:39,988 - root - INFO - | Epoch: 107/150 | Train Time: 1.763s | Train Loss: 0.072817 |
+2020-05-05 19:00:41,767 - root - INFO - | Epoch: 108/150 | Train Time: 1.779s | Train Loss: 0.069638 |
+2020-05-05 19:00:43,805 - root - INFO - | Epoch: 109/150 | Train Time: 2.038s | Train Loss: 0.072389 |
+2020-05-05 19:00:45,548 - root - INFO - | Epoch: 110/150 | Train Time: 1.742s | Train Loss: 0.071952 |
+2020-05-05 19:00:47,370 - root - INFO - | Epoch: 111/150 | Train Time: 1.821s | Train Loss: 0.070617 |
+2020-05-05 19:00:49,468 - root - INFO - | Epoch: 112/150 | Train Time: 2.098s | Train Loss: 0.069344 |
+2020-05-05 19:00:51,428 - root - INFO - | Epoch: 113/150 | Train Time: 1.959s | Train Loss: 0.069227 |
+2020-05-05 19:00:53,600 - root - INFO - | Epoch: 114/150 | Train Time: 2.171s | Train Loss: 0.069070 |
+2020-05-05 19:00:55,437 - root - INFO - | Epoch: 115/150 | Train Time: 1.836s | Train Loss: 0.069760 |
+2020-05-05 19:00:57,432 - root - INFO - | Epoch: 116/150 | Train Time: 1.994s | Train Loss: 0.068401 |
+2020-05-05 19:00:59,454 - root - INFO - | Epoch: 117/150 | Train Time: 2.022s | Train Loss: 0.069543 |
+2020-05-05 19:01:01,391 - root - INFO - | Epoch: 118/150 | Train Time: 1.936s | Train Loss: 0.067724 |
+2020-05-05 19:01:03,470 - root - INFO - | Epoch: 119/150 | Train Time: 2.079s | Train Loss: 0.070299 |
+2020-05-05 19:01:05,048 - root - INFO - | Epoch: 120/150 | Train Time: 1.578s | Train Loss: 0.069555 |
+2020-05-05 19:01:06,843 - root - INFO - | Epoch: 121/150 | Train Time: 1.795s | Train Loss: 0.068324 |
+2020-05-05 19:01:08,686 - root - INFO - | Epoch: 122/150 | Train Time: 1.842s | Train Loss: 0.065975 |
+2020-05-05 19:01:10,795 - root - INFO - | Epoch: 123/150 | Train Time: 2.109s | Train Loss: 0.066382 |
+2020-05-05 19:01:12,565 - root - INFO - | Epoch: 124/150 | Train Time: 1.770s | Train Loss: 0.065284 |
+2020-05-05 19:01:14,382 - root - INFO - | Epoch: 125/150 | Train Time: 1.816s | Train Loss: 0.066278 |
+2020-05-05 19:01:16,229 - root - INFO - | Epoch: 126/150 | Train Time: 1.847s | Train Loss: 0.065560 |
+2020-05-05 19:01:18,147 - root - INFO - | Epoch: 127/150 | Train Time: 1.918s | Train Loss: 0.067647 |
+2020-05-05 19:01:19,969 - root - INFO - | Epoch: 128/150 | Train Time: 1.821s | Train Loss: 0.064056 |
+2020-05-05 19:01:21,821 - root - INFO - | Epoch: 129/150 | Train Time: 1.852s | Train Loss: 0.066857 |
+2020-05-05 19:01:23,893 - root - INFO - | Epoch: 130/150 | Train Time: 2.071s | Train Loss: 0.064502 |
+2020-05-05 19:01:25,644 - root - INFO - | Epoch: 131/150 | Train Time: 1.751s | Train Loss: 0.063370 |
+2020-05-05 19:01:27,746 - root - INFO - | Epoch: 132/150 | Train Time: 2.101s | Train Loss: 0.064932 |
+2020-05-05 19:01:29,561 - root - INFO - | Epoch: 133/150 | Train Time: 1.815s | Train Loss: 0.063028 |
+2020-05-05 19:01:31,468 - root - INFO - | Epoch: 134/150 | Train Time: 1.906s | Train Loss: 0.062411 |
+2020-05-05 19:01:33,416 - root - INFO - | Epoch: 135/150 | Train Time: 1.948s | Train Loss: 0.062514 |
+2020-05-05 19:01:35,075 - root - INFO - | Epoch: 136/150 | Train Time: 1.659s | Train Loss: 0.061630 |
+2020-05-05 19:01:36,684 - root - INFO - | Epoch: 137/150 | Train Time: 1.608s | Train Loss: 0.062333 |
+2020-05-05 19:01:38,495 - root - INFO - | Epoch: 138/150 | Train Time: 1.811s | Train Loss: 0.062365 |
+2020-05-05 19:01:40,786 - root - INFO - | Epoch: 139/150 | Train Time: 2.290s | Train Loss: 0.061002 |
+2020-05-05 19:01:42,798 - root - INFO - | Epoch: 140/150 | Train Time: 2.012s | Train Loss: 0.059631 |
+2020-05-05 19:01:44,697 - root - INFO - | Epoch: 141/150 | Train Time: 1.898s | Train Loss: 0.059580 |
+2020-05-05 19:01:46,388 - root - INFO - | Epoch: 142/150 | Train Time: 1.691s | Train Loss: 0.060580 |
+2020-05-05 19:01:47,963 - root - INFO - | Epoch: 143/150 | Train Time: 1.575s | Train Loss: 0.059715 |
+2020-05-05 19:01:49,871 - root - INFO - | Epoch: 144/150 | Train Time: 1.907s | Train Loss: 0.060978 |
+2020-05-05 19:01:51,254 - root - INFO - | Epoch: 145/150 | Train Time: 1.382s | Train Loss: 0.060299 |
+2020-05-05 19:01:53,002 - root - INFO - | Epoch: 146/150 | Train Time: 1.748s | Train Loss: 0.057555 |
+2020-05-05 19:01:54,679 - root - INFO - | Epoch: 147/150 | Train Time: 1.677s | Train Loss: 0.059247 |
+2020-05-05 19:01:56,854 - root - INFO - | Epoch: 148/150 | Train Time: 2.175s | Train Loss: 0.057645 |
+2020-05-05 19:01:58,549 - root - INFO - | Epoch: 149/150 | Train Time: 1.694s | Train Loss: 0.058603 |
+2020-05-05 19:02:00,289 - root - INFO - | Epoch: 150/150 | Train Time: 1.740s | Train Loss: 0.058707 |
+2020-05-05 19:02:00,290 - root - INFO - Training Time: 263.352s
+2020-05-05 19:02:00,290 - root - INFO - Finished training.
+2020-05-05 19:02:00,291 - root - INFO - Starting testing...
+2020-05-05 19:02:02,033 - root - INFO - Test Loss: 1.573874
+2020-05-05 19:02:02,033 - root - INFO - Test AUC: 84.81%
+2020-05-05 19:02:02,033 - root - INFO - Test Time: 1.731s
+2020-05-05 19:02:02,033 - root - INFO - Finished testing.

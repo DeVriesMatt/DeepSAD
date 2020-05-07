@@ -1,0 +1,68 @@
+2020-05-05 16:13:35,531 - root - INFO - Log file is ../log/fmnist/scenario_1/deepSAD//log_0_6_1_0.txt
+2020-05-05 16:13:35,532 - root - INFO - Data path is ../data
+2020-05-05 16:13:35,532 - root - INFO - Export path is ../log/fmnist/scenario_1/deepSAD/
+2020-05-05 16:13:35,532 - root - INFO - Dataset: fmnist
+2020-05-05 16:13:35,532 - root - INFO - Normal class: 0
+2020-05-05 16:13:35,532 - root - INFO - Ratio of labeled normal train samples: 0.00
+2020-05-05 16:13:35,532 - root - INFO - Ratio of labeled anomalous samples: 0.01
+2020-05-05 16:13:35,532 - root - INFO - Pollution ratio of unlabeled train data: 0.10
+2020-05-05 16:13:35,532 - root - INFO - Scenario Running: 3
+2020-05-05 16:13:35,532 - root - INFO - Output and AE dimensions: 128
+2020-05-05 16:13:35,532 - root - INFO - Known anomaly class: 6
+2020-05-05 16:13:35,532 - root - INFO - Network: fmnist_LeNet
+2020-05-05 16:13:35,532 - root - INFO - Eta-parameter: 1.00
+2020-05-05 16:13:35,540 - root - INFO - Set seed to 0.
+2020-05-05 16:13:35,561 - root - INFO - Computation device: cuda
+2020-05-05 16:13:35,561 - root - INFO - Number of threads: 0
+2020-05-05 16:13:35,561 - root - INFO - Number of dataloader workers: 6
+2020-05-05 16:13:40,874 - root - INFO - Log file is ../log/fmnist/scenario_1/deepSAD//log_0_6_1_0.txt
+2020-05-05 16:13:40,874 - root - INFO - Data path is ../data
+2020-05-05 16:13:40,874 - root - INFO - Export path is ../log/fmnist/scenario_1/deepSAD/
+2020-05-05 16:13:40,874 - root - INFO - Dataset: fmnist
+2020-05-05 16:13:40,874 - root - INFO - Normal class: 0
+2020-05-05 16:13:40,874 - root - INFO - Ratio of labeled normal train samples: 0.00
+2020-05-05 16:13:40,874 - root - INFO - Ratio of labeled anomalous samples: 0.05
+2020-05-05 16:13:40,874 - root - INFO - Pollution ratio of unlabeled train data: 0.10
+2020-05-05 16:13:40,874 - root - INFO - Scenario Running: 3
+2020-05-05 16:13:40,874 - root - INFO - Output and AE dimensions: 128
+2020-05-05 16:13:40,874 - root - INFO - Known anomaly class: 6
+2020-05-05 16:13:40,874 - root - INFO - Network: fmnist_LeNet
+2020-05-05 16:13:40,875 - root - INFO - Eta-parameter: 1.00
+2020-05-05 16:13:40,882 - root - INFO - Set seed to 0.
+2020-05-05 16:13:40,908 - root - INFO - Computation device: cuda
+2020-05-05 16:13:40,908 - root - INFO - Number of threads: 0
+2020-05-05 16:13:40,908 - root - INFO - Number of dataloader workers: 6
+2020-05-05 16:13:47,066 - root - INFO - Log file is ../log/fmnist/scenario_1/deepSAD//log_0_6_1_0.txt
+2020-05-05 16:13:47,066 - root - INFO - Data path is ../data
+2020-05-05 16:13:47,066 - root - INFO - Export path is ../log/fmnist/scenario_1/deepSAD/
+2020-05-05 16:13:47,067 - root - INFO - Dataset: fmnist
+2020-05-05 16:13:47,067 - root - INFO - Normal class: 0
+2020-05-05 16:13:47,067 - root - INFO - Ratio of labeled normal train samples: 0.00
+2020-05-05 16:13:47,067 - root - INFO - Ratio of labeled anomalous samples: 0.10
+2020-05-05 16:13:47,067 - root - INFO - Pollution ratio of unlabeled train data: 0.10
+2020-05-05 16:13:47,067 - root - INFO - Scenario Running: 3
+2020-05-05 16:13:47,067 - root - INFO - Output and AE dimensions: 128
+2020-05-05 16:13:47,067 - root - INFO - Known anomaly class: 6
+2020-05-05 16:13:47,067 - root - INFO - Network: fmnist_LeNet
+2020-05-05 16:13:47,067 - root - INFO - Eta-parameter: 1.00
+2020-05-05 16:13:47,074 - root - INFO - Set seed to 0.
+2020-05-05 16:13:47,129 - root - INFO - Computation device: cuda
+2020-05-05 16:13:47,129 - root - INFO - Number of threads: 0
+2020-05-05 16:13:47,129 - root - INFO - Number of dataloader workers: 6
+2020-05-05 16:13:53,291 - root - INFO - Log file is ../log/fmnist/scenario_1/deepSAD//log_0_6_1_0.txt
+2020-05-05 16:13:53,291 - root - INFO - Data path is ../data
+2020-05-05 16:13:53,291 - root - INFO - Export path is ../log/fmnist/scenario_1/deepSAD/
+2020-05-05 16:13:53,291 - root - INFO - Dataset: fmnist
+2020-05-05 16:13:53,291 - root - INFO - Normal class: 0
+2020-05-05 16:13:53,292 - root - INFO - Ratio of labeled normal train samples: 0.00
+2020-05-05 16:13:53,292 - root - INFO - Ratio of labeled anomalous samples: 0.20
+2020-05-05 16:13:53,292 - root - INFO - Pollution ratio of unlabeled train data: 0.10
+2020-05-05 16:13:53,292 - root - INFO - Scenario Running: 3
+2020-05-05 16:13:53,292 - root - INFO - Output and AE dimensions: 128
+2020-05-05 16:13:53,292 - root - INFO - Known anomaly class: 6
+2020-05-05 16:13:53,292 - root - INFO - Network: fmnist_LeNet
+2020-05-05 16:13:53,292 - root - INFO - Eta-parameter: 1.00
+2020-05-05 16:13:53,300 - root - INFO - Set seed to 0.
+2020-05-05 16:13:53,336 - root - INFO - Computation device: cuda
+2020-05-05 16:13:53,337 - root - INFO - Number of threads: 0
+2020-05-05 16:13:53,337 - root - INFO - Number of dataloader workers: 6
